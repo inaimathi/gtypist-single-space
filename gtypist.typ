@@ -172,7 +172,7 @@ T:
  :
  : 'f' for 't' and 'g', 'j' for 'h', 'u' and 'n', finally use 'l' for 'o' and '.'
  :
- :Note that you always follow a period with two spaces.
+ :Note that a period is followed by one space because it's no longer 1957.
 
 I:(1) Rhythm Drill
 *:_Q_R_L13
@@ -236,10 +236,9 @@ T:
  :You learned first the letters that are most frequently used in the English
  :language. They are repeated over and over again.
  :
- :One space always follows a comma. Don't forget there are two spaces between
- :sentences, no matter what punctuation mark closes the sentence.
+ :One space always follows a comma.
  :
- :The colon (:) introduces a list and is followed by two spaces. Finger usage:
+ :The colon (:) introduces a list. Finger usage:
  :
  : 'j' for 'y', 'f' for 'r', 'k' for ',', 'd' for 'c', ';' for '?', 'p' and ':'
 
@@ -5570,8 +5569,7 @@ B:                            Lesson D2
 T:                    Home Row and the Period
  :
  :The period is above the E-finger.  Note that the end of a sentence is
- :always followed by two spaces; in abbreviations, it is followed by one
- :space.
+ :always followed by one space because it is no longer 1957.
 
 #
 I:(1)
@@ -6767,8 +6765,8 @@ B:                            Lesson C15
 T:			Learning punctuation
  :
  :The period/full stop is below the forth finger on the right hand. Note that
- :the end of a sentence should be followed by two spaces; in abbreviations, it is
- :followed by one space.
+ :the end of a sentence should be followed by one space, since it is
+ :no longer 1957
  :
  :The comma is below the third finger on the right hand.
  :

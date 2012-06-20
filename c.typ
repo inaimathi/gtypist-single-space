@@ -519,8 +519,8 @@ B:                            Lesson C15
 T:			Learning punctuation
  :
  :The period/full stop is below the forth finger on the right hand. Note that
- :the end of a sentence should be followed by two spaces; in abbreviations, it is
- :followed by one space.
+ :the end of a sentence should be followed by one space because it is
+ :no longer 1957.
  :
  :The comma is below the third finger on the right hand.
  :

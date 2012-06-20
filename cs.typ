@@ -283,10 +283,9 @@ T:
  :You learned first the letters that are most frequently used in the English
  :language. They are repeated over and over again.
  :
- :One space always follows a comma. Don't forget there are two spaces between
- :sentences, no matter what punctuation mark closes the sentence.
+ :One space always follows a comma.
  :
- :The colon (:) introduces a list and is followed by two spaces.
+ :The colon (:) introduces a list.
 
 #                                                           ../orig/q.typ:148
 I:(1) Rhythm Drill
@@ -6910,8 +6909,7 @@ G:_D_E_D2
 T:                   Home Row and the Period
  :
  :The period is above the E-finger. Note that the end of a sentence is
- :always followed by two spaces; in abbreviations, it is followed by one
- :space.
+ :always followed by one space, since it is no longer 1957.
 Q: Pro pokračování stiskněte Y, F12 pro konec. 
 #
 I:(1)

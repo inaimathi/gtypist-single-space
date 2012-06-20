@@ -161,8 +161,7 @@ B:                            Lesson D2
 T:                    Home Row and the Period
  :
  :The period is above the E-finger. Note that the end of a sentence is
- :always followed by two spaces; in abbreviations, it is followed by one
- :space.
+ :always followed by one space, since it is no longer 1957.
 
 #
 I:(1)
