@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -30,20 +30,20 @@ B:                             Lesson C1
 
 T:			Welcome to the Colemak Course
  :
- :This course is intended for beginners as well as experienced typists.  The
+ :This course is intended for beginners as well as experienced typists. The
  :Colemak keyboard is an alternative to the QWERTY (Sholes) keyboard layout.
  :You will find it easier to learn than the QWERTY and Dvorak keyboard layouts.
  :
  :Like the Dvorak keyboard, this is because the Colemak keyboard layout has been
  :scientifically designed to minimise cumulative finger motion while typing
- :English.  The ten letters on the home row (A, R, S, T, D, H, N, E, I, and O)
- :make up about 70% of all keystrokes.  These ten letters alone can form over
- :3000 words.  Needless to say, having these keys in the home row facilitates
+ :English. The ten letters on the home row (A, R, S, T, D, H, N, E, I, and O)
+ :make up about 70% of all keystrokes. These ten letters alone can form over
+ :3000 words. Needless to say, having these keys in the home row facilitates
  :both speed and accuracy.
  :
  :Unlike the Dvorak keyboard layout, however, the Colemak keyboard layout has
  :also specifically been designed to be easy to learn for people who are already
- :familiar with using a QWERTY keyboard layout.  Despite this, it appears that
+ :familiar with using a QWERTY keyboard layout. Despite this, it appears that
  :the Colemak keyboard is as fast as, if not faster than, the Dvorak keyboard.
  :
  :For information about the Colemak kyboard layout, see <http://colemak.com/>.
@@ -51,13 +51,13 @@ T:			Welcome to the Colemak Course
 T:			General Instructions
  :
  :The fingers of the left hand should be placed over the A-key, the R-key,
- :the S-key, and the T-key.  Similarly, the fingers of the right hand should be
- :placed over the N-key, the E-key, the I-key, and the O-key.  This is called the
- :HOME position.  Only these fingers should be used to press the keys that they
+ :the S-key, and the T-key. Similarly, the fingers of the right hand should be
+ :placed over the N-key, the E-key, the I-key, and the O-key. This is called the
+ :HOME position. Only these fingers should be used to press the keys that they
  :are above.
  :
  :In addition to these keys, the SPACE bar should be pressed with the thumb of
- :the right hand.  At the end of every line, the RETURN key should be pressed
+ :the right hand. At the end of every line, the RETURN key should be pressed
  :with the fourth finger of the right hand.
 
 I:(1) S, T, N and E
@@ -130,7 +130,7 @@ B:                             Lesson C4
 T:			General Instructions
  :
  :When you need to press the D-key or the H-key, the first finger of the left or
- :right hand, respectively, should be used.  No other finger should be used.
+ :right hand, respectively, should be used. No other finger should be used.
 
 I:(1) D and H
 *:_C_R_C4_1
@@ -402,7 +402,7 @@ B:                             Lesson C12
 
 T:			General Instructions
  :
- :The Q-key should be pressed only by fourth finger on the left hand.  The C-key
+ :The Q-key should be pressed only by fourth finger on the left hand. The C-key
  :should only be pressed by the second finger on the left hand.
 
 I:(1) Q and C
@@ -518,7 +518,7 @@ B:                            Lesson C15
 
 T:			Learning punctuation
  :
- :The period/full stop is below the forth finger on the right hand.  Note that
+ :The period/full stop is below the forth finger on the right hand. Note that
  :the end of a sentence should be followed by two spaces; in abbreviations, it is
  :followed by one space.
  :
@@ -529,29 +529,29 @@ T:			Learning punctuation
 
 I:(1)
 *:_C_R_C15_1
-D:e.  e.  e.  e.  a.  s.  o.  n.  e.  t.  r.  h.  i.  d.  a.  a.
- :h.  r.  a.  i.  o.  n.  s.  d.  t.  e.  h.  o.  r.  i.  s.  a.
+D:e. e. e. e. a. s. o. n. e. t. r. h. i. d. a. a.
+ :h. r. a. i. o. n. s. d. t. e. h. o. r. i. s. a.
 
 I:(2)
 *:_C_R_C15_2
-D:Adana.  Andie.  Annie.  Aonia.  Ardie.  Denis.  Diana.  Dinah.
+D:Adana. Andie. Annie. Aonia. Ardie. Denis. Diana. Dinah.
 
 I:(3)
 *:_C_R_C15_3
 D:On the horse, Adana dined in haste on toast and dates.
  :Sated, as she had eaten she noted the sheen on the drones
- :and the shade in the sheds.  She hates to see an idiot
+ :and the shade in the sheds. She hates to see an idiot
  :stand and shoot his tenth doe in the dense heath.
 
 I:(4)
 *:_C_R_C15_4
-D:An onion heats, stuned, a stout nose.  As does she?  As do I?
- :Do I send hands to douse teeth?  Are their suedes hoisted ahead?
+D:An onion heats, stuned, a stout nose. As does she? As do I?
+ :Do I send hands to douse teeth? Are their suedes hoisted ahead?
 
 I:(5)
 *:_C_R_C15_5
-D:The shy ape put on a red hat and ran off with the lot.  Can pa
- :go aft and lie on our old cot?  For a top fee, her act is to hop
+D:The shy ape put on a red hat and ran off with the lot. Can pa
+ :go aft and lie on our old cot? For a top fee, her act is to hop
  :in, lie on the rug, pat her pet cat, fit a fur on her ear, get
  :her fan, and run off.
 
@@ -567,7 +567,7 @@ B:                            Lesson C16
 T:			Frequent words
  :
  :The following 135 words are so frequently used that they comprise 50% of all
- :words normally typed.  If you can type the next two exercises without errors,
+ :words normally typed. If you can type the next two exercises without errors,
  :half of all of your typed words will be correct!
 
 I:(1)

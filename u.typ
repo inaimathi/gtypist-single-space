@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -31,7 +31,7 @@ B:                            Lesson U1
 *:_U_R_L0
 T:			Welcome to lesson U1
  :
- :Still don't know how to touch-type?  Let's start from the beginning and
+ :Still don't know how to touch-type? Let's start from the beginning and
  :drill you starting with the home row.
 
 I:(1) Try this:
@@ -184,10 +184,10 @@ S:She wishes to show us some samples.
 
 I:(4)
 *:_U_R_L25
-S:     Safety first.  This slogan is well known.  Yet many care-
- :less people disregard it and so we have accidents.  It is pos-
+S:    Safety first. This slogan is well known. Yet many care-
+ :less people disregard it and so we have accidents. It is pos-
  :sible to avoid many types of accidents by a little forethought.
- :Don't be careless.  Do your share to avoid mishaps.
+ :Don't be careless. Do your share to avoid mishaps.
 
 G:_U_E_U5
 
@@ -222,8 +222,8 @@ S:Every promise made should be observed.
 
 I:(4)
 *:_U_R_L30
-S:     Some people break promises as readily as they make them.
- :As a result, they acquire a reputation for unreliability.  It
+S:    Some people break promises as readily as they make them.
+ :As a result, they acquire a reputation for unreliability. It
  :is particularly important to be reliable in the business world.
  :A person or firm that comes to be regarded as unreliable has a
  :poor chance of success.
@@ -262,9 +262,9 @@ S:The mill will close in April.
 
 I:(4)
 *:_U_R_L35
-S:     Play is most important to a child.  All of us must play
- :a little.  All work and no play makes Jack a dull boy, the
- :old saying goes.  Play affords relaxation.  Some people claim
+S:    Play is most important to a child. All of us must play
+ :a little. All work and no play makes Jack a dull boy, the
+ :old saying goes. Play affords relaxation. Some people claim
  :their work is so enthralling that they do not need to play.
  :Psychologists say that the stress of modern life demands that
  :all adults have some hobby away from their daily pursuit.
@@ -304,7 +304,7 @@ S:The first shall be last.
 
 I:(4)
 *:_U_R_L40
-D:     To learn to typewrite is not difficult.  The keyboard
+D:    To learn to typewrite is not difficult. The keyboard
  :of the typewriter may be mastered in a few hours, but to
  :get speed in typewriting calls for a good deal of practice.
  :One of the best methods of getting up speed is to write a
@@ -347,8 +347,8 @@ S:We are informed that an increase is anticipated.
 
 I:(8)
 *:_U_R_L45
-S:     The employer must consider any increase in cost that
- :enters into the manufacture of his product.  Unless he includes
+S:    The employer must consider any increase in cost that
+ :enters into the manufacture of his product. Unless he includes
  :such cost in his selling price, he is unlikely to show a profit.
  :The installation of a cost system that enables the employer
  :to break down his costs to a unit basis is a prime necessity.
@@ -389,10 +389,10 @@ S:The lawyer consulted the complainant.
 
 I:(4)
 *:_U_R_L50
-S:     Character shows itself in a man's conduct.  Deeds speak
- :louder than words.  Words sometimes confuse as issue where
- :deeds clarify it.  The test of a man's sincerity is not what
- :he says but what he does.  Consider this well and you will
+S:    Character shows itself in a man's conduct. Deeds speak
+ :louder than words. Words sometimes confuse as issue where
+ :deeds clarify it. The test of a man's sincerity is not what
+ :he says but what he does. Consider this well and you will
  :never be confused in estimating a man's worth.
 
 G:_U_E_U10
@@ -430,10 +430,10 @@ S:Information on the invention has been sent you.
 
 I:(4)
 *:_U_R_L55
-S:     Concentration is a valuable faculty.  The ability to direct
+S:    Concentration is a valuable faculty. The ability to direct
  :one's attention exclusively along certain lines accounts for
- :the success of some people.  Diffusion of effort is considered
- :an enemy of success.  We are told that this is an age of
+ :the success of some people. Diffusion of effort is considered
+ :an enemy of success. We are told that this is an age of
  :specialization, and specialization demands concentration.
 
 G:_U_E_U11
@@ -472,8 +472,8 @@ S:The voter was required to register.
 
 I:(4)
 *:_U_R_L60
-S:     The best letter writers express themselves simply.  They
- :avoid long words where shorter words will do.  They have some-
+S:    The best letter writers express themselves simply. They
+ :avoid long words where shorter words will do. They have some-
  :thing to say and they say it interestingly and to the point.
  :A business letter should not be a literary masterpiece, but
  :that is not to say that it should not have style.
@@ -522,11 +522,11 @@ S:Raymond Investment Co.
  :
  :Gentlemen:
  :
- :     For many years our medium has been the leading adver-
+ :    For many years our medium has been the leading adver-
  :tising paper used by responsible investment firms who desire
  :to obtain new accounts.
  :
- :     Our records show that you are not now making use of the
+ :    Our records show that you are not now making use of the
  :Adviser, and we ask that you consider its use in connection
  :with your new promotion effort.
  :
@@ -554,17 +554,17 @@ S:Mr. Z. Dexter
 
 I:(6)
 *:_U_R_L67
-S:Strive for typing accuracy.  Speed without accuracy is of little value.
- :Rhythm is the secret of typing skill.  Don't write one part of a word
- :faster than another.  Slow down so that you can maintain a regular rhythm.
+S:Strive for typing accuracy. Speed without accuracy is of little value.
+ :Rhythm is the secret of typing skill. Don't write one part of a word
+ :faster than another. Slow down so that you can maintain a regular rhythm.
  :
- :Think of the letters before you strike them.  Strike the keys evenly, so
- :that the printing impression does not vary.  At the same time, try to
+ :Think of the letters before you strike them. Strike the keys evenly, so
+ :that the printing impression does not vary. At the same time, try to
  :develop your stroking speed and make it a habit to release the keys quickly.
  :To get up speed, type each exercise three or four times.
  :
- :To do your best, it is necessary that you be relaxed.  You may be trying so
- :hard that you are all tied up in knots.  Relax consciously.  If you have a
+ :To do your best, it is necessary that you be relaxed. You may be trying so
+ :hard that you are all tied up in knots. Relax consciously. If you have a
  :feeling of tenseness and hurry, you are not properly relaxed.
 
 G:_U_E_U13

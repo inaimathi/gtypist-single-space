@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -383,8 +383,8 @@ D:It is GOOD WORK; It is GOOD WORK; It is GOOD WORK;
 I:(3)
 *:_V_R_L45
 D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
- :The TITLE of the REPORT is:  HOUSES FOR SALE
- :The TITLE of the REPORT is:  HOUSES FOR SALE
+ :The TITLE of the REPORT is: HOUSES FOR SALE
+ :The TITLE of the REPORT is: HOUSES FOR SALE
  :
  :aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
  :We quote LOW FIGURES for HIGHEST QUALITY paper;
@@ -393,12 +393,12 @@ D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 I:(4)
 *:_V_R_L46
 D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
- :The PARK POSTER reads:  KEEP OFF THE GRASS
- :The PARK POSTER reads:  KEEP OFF THE GRASS
+ :The PARK POSTER reads: KEEP OFF THE GRASS
+ :The PARK POSTER reads: KEEP OFF THE GRASS
  :
  :aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
- :Paul quoted the old adage:  THE THRIFTY ARE WISE
- :Paul quoted the old adage:  THE THRIFTY ARE WISE
+ :Paul quoted the old adage: THE THRIFTY ARE WISE
+ :Paul quoted the old adage: THE THRIFTY ARE WISE
 
 *:_V_R_L46A
 #
@@ -444,24 +444,24 @@ D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 I:(2) The Period
 *:_V_R_L50
 D:. . . . . . l.l l.l l.l l.l l.l l.l l.l l.l l.l
- :Hit it lightly.  Hit it lightly.  Hit it lightly.
- :Hit it lightly.  Hit it lightly.  Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
 
 I:(3)
 *:_V_R_L51
-S:Strike all the keys with pep.  Strike the keys
- :as though they were red hot.  This is just how the
+S:Strike all the keys with pep. Strike the keys
+ :as though they were red hot. This is just how the
  :fast typist works.
  :
- :Type with thought.  Put forth your greatest efforts.
+ :Type with thought. Put forth your greatest efforts.
  :Let these two ideas guide you while you type.
  :
  :You should follow the daily drills as you are told.
  :These drills will show you that it is quite easy
  :to type well.
  :
- :Start your daily work without delay.  Keep at it
- :regularly.  It is steady work that will take you
+ :Start your daily work without delay. Keep at it
+ :regularly. It is steady work that will take you
  :to your goal.
 
 I:(4) Keyboard Review
@@ -519,16 +519,16 @@ D:over over over; gave gave gave; have have have;
 I:(4) Paragraph Practice
 *:_V_R_L58
 S:You will surely make good if you give more time to
- :your daily work here.  You must make ever effort
+ :your daily work here. You must make ever effort
  :to make good.
  :
  :You will improve your skill every day if you
- :devote some thought to your work.  You will surely
- :progress if you keep at your work regularly.  Just
+ :devote some thought to your work. You will surely
+ :progress if you keep at your work regularly. Just
  :have faith.
  :
- :Skillful typists make very good salaries.  All
- :types of firms require them.  So try your utmost to
+ :Skillful typists make very good salaries. All
+ :types of firms require them. So try your utmost to
  :develop your skill.
 
 I:(5) Exercises on G, H, T, and Y
@@ -586,22 +586,22 @@ D:bun bun bun; nip nip nip; fib fib fib; win win win;
  :mend mend mend; vine vine vine; blow blow blow;
  :
  :We require more time to turn out a very good job.
- :Be prompt.  Never shirk.  Make promptness a habit.
+ :Be prompt. Never shirk. Make promptness a habit.
 
 I:(5) Practice Paragraph
 *:_V_R_L65
 S:Never put off until tomorrow any job you should
- :finish today.  Try to be prompt at all times.  No one
+ :finish today. Try to be prompt at all times. No one
  :likes to be kept waiting.
  :
  :Keep on working just as diligently as you have
- :been doing up to this point.  You will soon be a
- :master of the keyboard.  You will have a valuable
+ :been doing up to this point. You will soon be a
+ :master of the keyboard. You will have a valuable
  :skill that will repay you for your efforts.
  :
- :Remember this:  every boy and girl is able to
- :learn typing.  All they have to do is to put forth
- :their very best efforts.  This means thinking while
+ :Remember this: every boy and girl is able to
+ :learn typing. All they have to do is to put forth
+ :their very best efforts. This means thinking while
  :training every finger to strike the right key.
 
 I:(6) Words with D, E, K, and I
@@ -666,17 +666,17 @@ D:If you call before five, the bank will cash your check.
 
 I:(6)
 *:_V_R_L74
-S:Space once after a comma.  Space once after a
- :semicolon.  Space twice after a period that ends a
- :sentence.  Strike each key with the same force.
+S:Space once after a comma. Space once after a
+ :semicolon. Space twice after a period that ends a
+ :sentence. Strike each key with the same force.
  :
  :The tabulator is a device which helps you to type faster.
  :It enables you to skip across the page to any point you
  :desire.
  :
  :First, set a tab stop at the point to which you
- :wish the carriage to jump.  Second, move the carriage
- :back to the left margin.  Third, hold the tabulator
+ :wish the carriage to jump. Second, move the carriage
+ :back to the left margin. Third, hold the tabulator
  :bar or the tabulator key down until the carriage has
  :stopped.
 
@@ -722,8 +722,8 @@ D:touch...learn...above...typing...talent...
 
 I:(3) Timed Drill:
 *:_V_R_L80
-S:Touch typing is easy to learn.  You do not need
- :a mind that is above the average.  You do not
+S:Touch typing is easy to learn. You do not need
+ :a mind that is above the average. You do not
  :even need a special talent for typing.
 
 I:(4) New Key Tryout
@@ -750,11 +750,11 @@ D:fixes fixes fixes; mixes mixes mixes; taxes taxes;
 I:(7) Practice Paragraph
 *:_V_R_L84
 S:Mr. Roxbury and Mr. Saxton will examine the six
- :boxes of wax with extreme care.  These boxes were
+ :boxes of wax with extreme care. These boxes were
  :returned by Prof. Maxton of Knoxville College.
  :
  :The Government tax experts were exceedingly
- :careful in examining the current tax receipts.  The
+ :careful in examining the current tax receipts. The
  :amount showed an excess of six million dollars over
  :the previous year.
  :
@@ -800,11 +800,11 @@ D:touch...learn...above...typing...talent...average
 
 I:(3)
 *:_V_R_L89
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even
  :need a special talent for typing.
  :
- :All you need is the will to learn.  The lessons in
+ :All you need is the will to learn. The lessons in
  :this book do the rest of the job for you; they
  :make touch typing easy for you to learn.
 
@@ -836,15 +836,15 @@ S:The slant is controlled by the semicolon finger.
  :NO CHARGE; and c/o, which means CARE OF.
  :
  :If you work with zeal and zest, you will soon be a
- :competent typist.  The ability to type well is a
+ :competent typist. The ability to type well is a
  :very valuable asset.
  :
  :You can develop your typing skill quickly by the proper
- :habits of work.  You should realize that poor work is a
- :mere waste of time.  Try to be exact.
+ :habits of work. You should realize that poor work is a
+ :mere waste of time. Try to be exact.
  :
  :Every business firm is dependent on the services of
- :competent typists.  You are now equipping yourself with
+ :competent typists. You are now equipping yourself with
  :a skill for which there is a constant demand.
 
 I:(8)
@@ -893,11 +893,11 @@ D:touch...learn...above...aside...typing
 
 I:(3)
 *:_V_R_L99
-S:Touch typing is easy to learn.  You do not need a mind
- :that is above the average.  You do not even need a
+S:Touch typing is easy to learn. You do not need a mind
+ :that is above the average. You do not even need a
  :special talent for typing.
  :
- :All you need is the will to learn.  The lessons in this
+ :All you need is the will to learn. The lessons in this
  :book do the rest of the job for you; they make touch
  :typing easy for you to learn.
  :
@@ -906,44 +906,44 @@ S:Touch typing is easy to learn.  You do not need a mind
 
 I:(4) New Key Tryout
 *:_V_R_L100
-D:? ? ? ? ? ? Who?  Who?  Who?  Who?  Who?  Who?
- :? ? ? ? ? ? Why?  Why?  Why?  Why?  Why?  Why?
+D:? ? ? ? ? ? Who? Who? Who? Who? Who? Who?
+ :? ? ? ? ? ? Why? Why? Why? Why? Why? Why?
 
 I:(5)
 *:_V_R_L101
-D:How much?  How many?  How soon?  How early?  How fast?
- :How many?  How much?  How fast?  How large?  How soon?
+D:How much? How many? How soon? How early? How fast?
+ :How many? How much? How fast? How large? How soon?
  :
- :Where is Max?  Where is Mary?  What is Cora sewing?
- :Where is Sam?  Where is Paul?  What is Zeke fixing?
+ :Where is Max? Where is Mary? What is Cora sewing?
+ :Where is Sam? Where is Paul? What is Zeke fixing?
  :
- :Can Max swim?  Can he dance?  Can he play tennis?
- :Can he dance?  Deos he swim?  Do you like tennis?
+ :Can Max swim? Can he dance? Can he play tennis?
+ :Can he dance? Deos he swim? Do you like tennis?
 
 I:(6)
 *:_V_R_L102
-D:Did you open the mail?  Did you read the note?
- :Did you read the note?  Did you open the mail?
+D:Did you open the mail? Did you read the note?
+ :Did you read the note? Did you open the mail?
  :
- :Can Van do the work?  Will he require aid?  Who knows?
- :Can Jim complete it?  Is he quite capable?  Who knows?
+ :Can Van do the work? Will he require aid? Who knows?
+ :Can Jim complete it? Is he quite capable? Who knows?
 
 I:(7) Practice Paragraph
 *:_V_R_L103
 S:Do you set aside a definite amount of time each
- :day for practice?  Do you start work promptly?  Can
+ :day for practice? Do you start work promptly? Can
  :you make the various machine adjustments quickly?
  :
- :Do you keep your fingers curved?  Do you strike each key
- :sharply with the tip of the finger?  Do you keep your eyes
+ :Do you keep your fingers curved? Do you strike each key
+ :sharply with the tip of the finger? Do you keep your eyes
  :on the copy?
  :
- :Do you throw the carriage without looking up?  Do you keep
+ :Do you throw the carriage without looking up? Do you keep
  :your right hand on the home keys when you throw the carriage?
  :Do you use the paper release to remove your paper?
  :
- :Do you practice the words in which you made errors?  Do you
- :practice them as explained in this book?  Do you follow the
+ :Do you practice the words in which you made errors? Do you
+ :practice them as explained in this book? Do you follow the
  :instructions exactly as given?
 
 I:(8)
@@ -983,23 +983,23 @@ D:touch...learn...above...aside...typing
 
 I:(3)
 *:_V_R_L108
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even need
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even need
  :a special talent for typing.
 
 I:(4)
 *:_V_R_L109
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even need
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even need
  :a special talent for typing.
  :
- :All you need is the will to learn.  The lessons in this
+ :All you need is the will to learn. The lessons in this
  :book do the rest of the job for you; they make touch
  :typing easy for you to learn.
  :
  :Try to set aside each day a definite amount of time for
- :each lesson.  Follow each step in the lesson exactly as
- :given.  You will be surprised how easily and quickly
+ :each lesson. Follow each step in the lesson exactly as
+ :given. You will be surprised how easily and quickly
  :you will become a touch typist.
 
 I:(5) 4 and 7
@@ -1038,23 +1038,23 @@ S:Henry Clay, American statesman and orator, was
  :of the American warship, THE RANGER.
  :
  :In April 1777, Lafayette landed at night on the
- :shore of South Carolina to help the colonies.  In
+ :shore of South Carolina to help the colonies. In
  :July 1777, Congress made Lafayette a general.
  :
  :June 14 is now observed as Flag Day because the
- :flag was adopted by Congress on June 14, 1777.  The
+ :flag was adopted by Congress on June 14, 1777. The
  :house where Betsy Ross, designer of the flag, lived
  :is now preserved as a shrine.
 
 I:(9)
 *:_V_R_L114
-S:Do not erase.  Do not cross out.  Do not strike
- :one letter over another.  Let your errors stand.
+S:Do not erase. Do not cross out. Do not strike
+ :one letter over another. Let your errors stand.
  :Finish every line you start.
  :
  :You correct your typing errors by practicing the
- :words in which you made errors.  You have been doing
- :this in the previous lessons.  Keep right on doing so.
+ :words in which you made errors. You have been doing
+ :this in the previous lessons. Keep right on doing so.
  :That is the best practice for training your fingers
  :to strike the right keys.
  :
@@ -1098,11 +1098,11 @@ S:On June 15, 1775, George Washington was elected
  :
  :The Declaration of Independence, a famous state
  :paper, was issued by the American Continental Congress
- :on July 4w 1776.  It was drawn up by Thomas Jefferson.
+ :on July 4w 1776. It was drawn up by Thomas Jefferson.
  :
  :The invasion fleet consisted of 4 battleships, 15 light
  :cruisers, 6 aircraft carriers, 17 troopships, six submarines,
- :and 2 Dr. Strangeloves.  Air protection consisted of 14
+ :and 2 Dr. Strangeloves. Air protection consisted of 14
  :bombers, 175 fighters, 6 helicopters, and 75 paratroop planes.
 
 G:_V_E_V15
@@ -1133,21 +1133,21 @@ D:never...typing...office...become...getting...
 
 I:(3)
 *:_V_R_L122
-S:Typing is a very valuable skill to acquire.  It is
+S:Typing is a very valuable skill to acquire. It is
  :valuable for personal use and as a means of getting
  :an office job.
 
 I:(4)
 *:_V_R_L123
-S:Typing is a very valuable skill to acquire.  It is
+S:Typing is a very valuable skill to acquire. It is
  :valuable for personal use and as a means of getting
- :an office job.  This skill is yours to use; it can
+ :an office job. This skill is yours to use; it can
  :never be taken from you.
  :
  :So why not put forth your best efforts to become a
- :good typist?  You can become a good typist if you
- :put your mind to it.  You should also, if possible,
- :learn shorthand.  Typing and shorthand are two very
+ :good typist? You can become a good typist if you
+ :put your mind to it. You should also, if possible,
+ :learn shorthand. Typing and shorthand are two very
  :valuable skills to have.
  :
  :These two skills will help you get a good start
@@ -1164,8 +1164,8 @@ D:d3d k8k d3d k8k d3d k8k d3d k8k d3d k8k d3d k8k
 I:(6)
 *:_V_R_L125
 D:d3d k8k d3d k8k d3d k8k d3d k8k 318 813 138 813 381
- :13 lbs.  lamb roast; 38 lbs. lamb chops; 8 lbs. bananas;
- :31 lbs.  lamb chops; 83 lbs. lamb roast; 3 lbs. peaches;
+ :13 lbs. lamb roast; 38 lbs. lamb chops; 8 lbs. bananas;
+ :31 lbs. lamb chops; 83 lbs. lamb roast; 3 lbs. peaches;
  :
  :lie 3 dye 3 pie 3 dye 3 Fiji 8 Fiji 8 Fiji 8
  :18 cans grape juice; 138 cans prune juice; 4 lbs. coffee;
@@ -1184,19 +1184,19 @@ D:d3d k8k d3d k8k d3d k8k 183 381 813 318 138 381
 I:(8) Practice Paragraph
 *:_V_R_L127
 S:John Jacob Astor was born in 1763 and died in
- :1848.  He came to America from England in 1784 and
- :set up a prosperous fur trade.  In 1811 he founded
+ :1848. He came to America from England in 1784 and
+ :set up a prosperous fur trade. In 1811 he founded
  :the settlement of Astoria near the mouth of the
  :Columbia River.
  :
  :Alexander Graham Bell was born in Scotland on
- :March 3, 1847.  He invented the telephone in 1876.
+ :March 3, 1847. He invented the telephone in 1876.
  :The Bell Telephone Company was organized in 1877.
  :Mr. Bell also invented the gramophone in 1887.
  :
  :John Quincy Adams, sixth President of the
  :United States, was born in Massachusetts on July 11,
- :1767.  In 1817 he was appointed Secretary of State.
+ :1767. In 1817 he was appointed Secretary of State.
  :He died in 1848.
  :
  :Oliver Wendell Holmes, American jurist, was born
@@ -1236,23 +1236,23 @@ D:strike...center...finger...spring...though...
 I:(3)
 *:_V_R_L131
 S:Strike each key sharply with the fingertip and squarely
- :in the center.  Strike the key quickly, letting the
+ :in the center. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 I:(4)
 *:_V_R_L132
 S:Strike each key sharply with the fingertip and squarely
- :in the center.  Strike the key quickly, letting the
+ :in the center. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 *:_V_R_L133
 S:
  :To type fast, it is just as important to release the
- :key quickly as it is to strike it quickly.  Expert
+ :key quickly as it is to strike it quickly. Expert
  :typists do this; you too, can do it, with practice.
  :
  :One good way to develop this technique is to practice
- :familiar words and phrases.  Type them over and over
+ :familiar words and phrases. Type them over and over
  :again until you get the knack of hitting the keys quickly
  :and releasing the fingers instantly.
 
@@ -1287,20 +1287,20 @@ D:s2s l9l s2s l9l 219 921 192 s2s l9l s2s 191 291 129
 I:(8)
 *:_V_R_L137
 S:Christopher Latham Sholes was the inventor of the first practical
- :typewriter.  He was born in Columbia County, Pennsylvania,
+ :typewriter. He was born in Columbia County, Pennsylvania,
  :February 14, 1819.
  :
  :James Monroe, fifth President of The United States, was born on
- :April 28, 1758.  In 1782 he entered politics.  In 1799 he was appointed
- :Governor of Virginia.  In 1811 he became Secretary of State; in 1814,
+ :April 28, 1758. In 1782 he entered politics. In 1799 he was appointed
+ :Governor of Virginia. In 1811 he became Secretary of State; in 1814,
  :Secretary of War; in 1816, President of The United States.
  :
  :On September 1, 1939, Germany launched undeclared war on Poland.
- :On September 3, 1939, Great Britain declared war on Germany.  On
+ :On September 3, 1939, Great Britain declared war on Germany. On
  :December 8, 1941, The United States declared war against the Axis.
  :
  :Samuel F. B. Morse, inventor and artist, was born in 1791 and died in
- :1872.  In 1829 he went to Europe for three years.  For 12 years he
+ :1872. In 1829 he went to Europe for three years. For 12 years he
  :worked on perfecting the electrical telegraph, which was exhibited at New
  :York University in 1837.
 
@@ -1348,12 +1348,12 @@ S:Your typewriter is equipped with a bell which rings
  :rings when there are six or seven spaces left.
  :
  :The ring of the bell permits you to keep your eyes
- :on the copy.  When you hear the bell, finish the
+ :on the copy. When you hear the bell, finish the
  :word you are typing and throw the carriage for the
  :next line.
  :
  :Do not look up to watch for the end of the line; you
- :may lose your place in the copy.  Always keep your
+ :may lose your place in the copy. Always keep your
  :eyes on the copy like the expert typist.
 
 I:(5) New Key Tryout
@@ -1377,8 +1377,8 @@ D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
 I:(7)
 *:_V_R_L145
 D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
- :One-fourth may be typewritten like this:  1/4.
- :One-eighth may be typewritten like this:  1/8.
+ :One-fourth may be typewritten like this: 1/4.
+ :One-eighth may be typewritten like this: 1/8.
  :
  :f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
  :Every expert was once a beginner--with ambition.
@@ -1387,15 +1387,15 @@ D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
 I:(8)
 *:_V_R_L146
 S:As you have seen in the above sentence practice, the hyphen is used
- :for typing compound words.  Here are a few more examples:  up-to-date,
+ :for typing compound words. Here are a few more examples: up-to-date,
  :first-class, by-product.
  :
  :The hyphen is used also to divide words between syllables at the end
- :of a line.  When the bell rings, finish the word if it is short--less
- :than six letters.  If the word is longer, divide it at the end of a syllable.
+ :of a line. When the bell rings, finish the word if it is short--less
+ :than six letters. If the word is longer, divide it at the end of a syllable.
  :
  :The hyphens in the following words show where they could be divided
- :at the end of a line:  after-noon, state-ment, hesi-tate, cer-ti-fi-
+ :at the end of a line: after-noon, state-ment, hesi-tate, cer-ti-fi-
  :cate, exami-na-tion.
  :
  :The sum of 10 and 20 and 30 and 40 and 50 and 60 and 70 and 80 and 90
@@ -1404,8 +1404,8 @@ S:As you have seen in the above sentence practice, the hyphen is used
 I:(9)
 *:_V_R_L147
 S:Have you seen the new 7-room house at 175 West
- :239th Street?  It is equipped with every up-to-date,
- :labor-saving device for the home.  You may inspect
+ :239th Street? It is equipped with every up-to-date,
+ :labor-saving device for the home. You may inspect
  :it free of charge any day except Sunday between
  :10 a.m. and 4 p.m.
 
@@ -1442,13 +1442,13 @@ I:(4)
 S:You type capital letters by holding down a key
  :called the shift key while you strike the letter key.
  :
- :There are two shift keys.  Hold down the left
+ :There are two shift keys. Hold down the left
  :shift key for typing right-hand capitals; hold down
  :the right shift key for typing left-hand capitals.
  :Always use the fourth finger for the shift key.
  :
  :Keep your wrists low but not touching the frame
- :of the machine.  Raise the other fingers slightly as
+ :of the machine. Raise the other fingers slightly as
  :you depress the shift key with the fourth finger.
  :
  :Be sure that you hold the shift key all the way
@@ -1457,28 +1457,28 @@ S:You type capital letters by holding down a key
 
 I:(5)
 *:_V_R_L153
-S:Prepare a bill for the following items:  29 lbs. butter
- :@ $0.895; 36 doz. eggs @ $0.695;  28 doz. oranges
+S:Prepare a bill for the following items: 29 lbs. butter
+ :@ $0.895; 36 doz. eggs @ $0.695; 28 doz. oranges
  :@ $0.575; 15 bu. potatoes @ $0.795.
  :
  :Our company ordered 15 Ajax Pencil Sharpeners at
- :$0.98; 6 doz. Circular Rubber Erasers at $.43; 24 No.  68
+ :$0.98; 6 doz. Circular Rubber Erasers at $.43; 24 No. 68
  :Spiral Stenographic Notebooks at $.075.
  :
  :Deliver the following order to Mrs. Beverly
- :Vinson at 390 West 135th Street, New York City:  2 lbs.
+ :Vinson at 390 West 135th Street, New York City: 2 lbs.
  :Temple Oranges at $.135; 3 lbs. Red Circle Coffee at
  :$.91; 2 lbs. Lima Beans at $.29.
  :
  :The Johnston Hardware Company, Toledo, Ohio has
- :ordered the following supplies:  15 Pruning Shears,
+ :ordered the following supplies: 15 Pruning Shears,
  :10-inch, at $.795; 24 Steel Rakes, 14-inch, at $.815;
  :16 Steel Spades, D-Handle, at $.935.
 
 I:(6)
 *:_V_R_L154
 S:The backspace key is one of the most useful time-
- :saving devices on your typewriter.  You use it to back
+ :saving devices on your typewriter. You use it to back
  :up a space, to darken a light impression, or to pivot.
  :To pivot means to type a line so that the last letter
  :is at the right margin or other chosen point.

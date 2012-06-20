@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -37,14 +37,14 @@ T:			Welcome to the Dvorak Course
  :QWERTY (Sholes) keyboard.
  :
  :This is because the Dvorak keyboard has been scientifically designed to minimize
- :cumulative finger motion while typing English.  The ten letters on the home row
+ :cumulative finger motion while typing English. The ten letters on the home row
  :(A, O, E, U, I, D, H, T, N, and S) make up about 70% of all keystrokes. These
- :ten letters alone can form over 3000 words.  Needless to say, having these keys
+ :ten letters alone can form over 3000 words. Needless to say, having these keys
  :in the home row facilitates both speed and accuracy.
  :
  :If you are already an experienced typist on the Sholes keyboard, don't despair:
- :you won't have to unlearn everything you know.  Your basic typing dexterity
- :remains with you, regardless of the keyboard layout.  Learning the Dvorak
+ :you won't have to unlearn everything you know. Your basic typing dexterity
+ :remains with you, regardless of the keyboard layout. Learning the Dvorak
  :keyboard is like learning to "play on a new surface", as a tennis player must
  :learn to adjust to grass court or hard court when she has been accustomed to
  :playing on a clay court.
@@ -53,7 +53,7 @@ T:			Welcome to the Dvorak Course
 T:			General Instructions
  :
  :The fingers of the left hand should be placed over the A-key, the O-key,
- :the E-key, and the U-key.  Similarly, the fingers of the right hand should be
+ :the E-key, and the U-key. Similarly, the fingers of the right hand should be
  :placed over the H-key, the T-key, the N-key, and the S-key.
 
 I:(1) Home Row Exercises
@@ -63,11 +63,11 @@ D:aoeu ueoa aoeui snth htns snthd uihd uihd
 
 I:(2)
 *:_D_R_L3
-D:a s o n e t u h i d  a s o n e t u h i d
+D:a s o n e t u h i d a s o n e t u h i d
 
 I:(3)
 *:_D_R_L4
-D:d i h u t e n o s a  d i h u t e n o s a
+D:d i h u t e n o s a d i h u t e n o s a
 
 I:(4)
 *:_D_R_L5
@@ -128,7 +128,7 @@ D:The sad tots sat on a tan seat in his neat tent and ate ten nuts
 I:(4)
 *:_D_R_L14
 D:Enos eats a thin hash diet in a hued dish as he sits on an odd seat
- :Dad does not eat suet   He had seen Sue dent his auto
+ :Dad does not eat suet He had seen Sue dent his auto
 
 I:(5)
 *:_D_R_L15
@@ -160,15 +160,15 @@ B:                            Lesson D2
 
 T:                    Home Row and the Period
  :
- :The period is above the E-finger.  Note that the end of a sentence is
+ :The period is above the E-finger. Note that the end of a sentence is
  :always followed by two spaces; in abbreviations, it is followed by one
  :space.
 
 #
 I:(1)
 *:_D_R_L18
-D:e.  e.  e.  e.  a.  s.  o.  n.  e.  t.  u.  h.  i.  d.  a.  a.
- :h.  u.  a.  i.  o.  n.  s.  d.  t.  e.  h.  o.  u.  i.  s.  a.
+D:e. e. e. e. a. s. o. n. e. t. u. h. i. d. a. a.
+ :h. u. a. i. o. n. s. d. t. e. h. o. u. i. s. a.
 
 I:(2)
 *:_D_R_L19
@@ -181,13 +181,13 @@ I:(3)
 *:_D_R_L20
 D:Adana Andie Annie Aonia Audie Denis Diana Dinah
  :Donna Duane Edith Ethan India Susan Susie Thane
- :Adana.  Andie.  Annie.  Aonia.  Audie.  Denis.  Diana.  Dinah.
+ :Adana. Andie. Annie. Aonia. Audie. Denis. Diana. Dinah.
 
 I:(4)
 *:_D_R_L21
 D:In the house Adana dined in haste on toast and dates.
  :Sated as she had eaten she noted the sheen on the dunes
- :and the shade in the sheds.  She hates to see an idiot
+ :and the shade in the sheds. She hates to see an idiot
  :stand and shoot his tenth doe in the dense heath.
 
 I:(5)
@@ -252,17 +252,17 @@ B:                            Lesson D5
 I:(1) Review
 *:_D_R_L30
 D:The left road can lead the lads and lady to good lots near
- :your land.  The sale of pure gold is held at your door.
+ :your land. The sale of pure gold is held at your door.
 
 I:(2)
 *:_D_R_L31
-D:You held no fear of loss for a year.  On each trip to your
+D:You held no fear of loss for a year. On each trip to your
  :shop he paid in cash for the caps, fish, cups, pans, fuel,
  :logs, peas, ales, rice and fats you sold.
 
 I:(3)
 *:_D_R_L32
-D:It is a fact that a slap on the face can hurt.  The poor
+D:It is a fact that a slap on the face can hurt. The poor
  :apes feel free to find a sure sort of life in the dale.
 
 I:(4)
@@ -338,7 +338,7 @@ D:Next time, I must have a town home, with a book and a vast tome,
 
 I:(3)
 *:_D_R_L43
-D:I know six men wait to put down their axes.  They want to quit
+D:I know six men wait to put down their axes. They want to quit
  :their jobs when the job zone size is too wide.
 
 I:(4)
@@ -441,7 +441,7 @@ D:Do zebras roam the miles of bleak velds which cover parts of the
 I:(3)
 *:_D_R_L58
 D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books.  Still
+ :cheer and worth from words and quest and seize all books. Still
  :others amply quell their needs with vocal music and seek all
  :works on voice.
 
@@ -548,7 +548,7 @@ D:Do zebras roam the miles of bleak velds which cover parts of the
 I:(4)
 *:_D_R_L74
 D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books.  Still
+ :cheer and worth from words and quest and seize all books. Still
  :others amply quell their needs with vocal music and seek all
  :works on voice.
 
@@ -565,8 +565,8 @@ D:Six husky cooks boiled clam broth, shrimp and prawns and broiled
 I:(7)
 *:_D_R_L77
 D:At the games, Mark was so very badly hurt with many broken bones,
- :lumps on his jaws, and some glands burst.  Blood oozed from a crack
- :in his wart where it had oozed for weeks.  He was lucky to have lived.
+ :lumps on his jaws, and some glands burst. Blood oozed from a crack
+ :in his wart where it had oozed for weeks. He was lucky to have lived.
 
 I:(8)
 *:_D_R_L78
@@ -619,7 +619,7 @@ B:                            Lesson D13
 *:_D_R_L84
 T:
  :The following 135 words are so frequently used that they comprise 50%
- :of all words normally typed.  If you can type the next two exercises without
+ :of all words normally typed. If you can type the next two exercises without
  :errors, half of your typed words will be correct!
 
 *:_D_R_L85
@@ -627,7 +627,7 @@ D:a about after all also an and another any are as at back be because
  :been before being between both but by can could day did do down each
  :even first for from get good had has have he her here him his how I
  :if in into is it its just know last life like little long made make
- :many may me men more most Mr.  Ms.  much must my never new no not now
+ :many may me men more most Mr. Ms. much must my never new no not now
 
 *:_D_R_L86
 D:of or on one only or other our out over own people said same see she
@@ -646,15 +646,15 @@ D:The duteous dietitian hesitated at the intense nauseousness inside
 
 I:(2)
 *:_D_R_L89
-D:In addition, the unastute assassin had another unsound idea.  He
+D:In addition, the unastute assassin had another unsound idea. He
  :intended to assassinate the dishonest attendant at the institute.
 
 I:(3)
 *:_D_R_L90
 D:The unintentioned noisiness and untidiness in the hostess house
- :astonished, astounded and nauseated Antonietta.  Undaunted and
+ :astonished, astounded and nauseated Antonietta. Undaunted and
  :unassisted, she did not hesitate to initiate a statute at the state
- :house.  The statute stated that no attendant in an untenanted haunted
+ :house. The statute stated that no attendant in an untenanted haunted
  :hostess house is to attain hostess status.
 
 G:_D_E_D13

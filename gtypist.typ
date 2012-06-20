@@ -16,11 +16,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -40,46 +40,46 @@ B:                             Lesson Q1
 T:			Welcome to lesson Q1.
  :
  :In the Q series of lessons, we will be learning to touch-type on the standard
- :keyboard.  I will introduce you to each letter on the keyboard, one at a time.
+ :keyboard. I will introduce you to each letter on the keyboard, one at a time.
  :By the time you have completed this series, you will be able to type the entire
  :alphabet, the numbers, and most of the punctuation keys by touch.
  :
- :If you have never taken any lessons in typing before, please be patient.  Typing
- :is not difficult but it does take a lot of practice.  Avoid the tendency to
- :look down at your fingers while typing.  This is a very bad habit and is hard
- :to break later.  If you hit the wrong key, I will let you know.  (But, I won't
+ :If you have never taken any lessons in typing before, please be patient. Typing
+ :is not difficult but it does take a lot of practice. Avoid the tendency to
+ :look down at your fingers while typing. This is a very bad habit and is hard
+ :to break later. If you hit the wrong key, I will let you know. (But, I won't
  :tell anyone else, so don't worry about it.)
  :
  :If you have always used the hunt-and-peck method, you will have an even harder
- :time keeping yourself from looking.  Don't be surprised if you find touch
- :typing slower than your old ways.  It may be slower when you first start.
+ :time keeping yourself from looking. Don't be surprised if you find touch
+ :typing slower than your old ways. It may be slower when you first start.
  :But, touch typing is far faster once you get the hang of it.
  :
  :If you can already touch type, you should be able to go through these lessons
- :fairly quickly.  Or, you may want to go directly to the S series.
+ :fairly quickly. Or, you may want to go directly to the S series.
 
 *:_Q_R_L1
 T:
  :			The HOME Keys.
  :
  :In order to hit the correct keys by touch alone, you must always know where your
- :fingers are.  The way to do this is to have a special place for each finger.
+ :fingers are. The way to do this is to have a special place for each finger.
  :This key is called the HOME position.
  :
- :Place the first finger of your right hand on the J-key.  Now, place your second
+ :Place the first finger of your right hand on the J-key. Now, place your second
  :finger on the K-key, your third finger on the L-key, and your fourth-finger on
  :the ;-key (the one with the : and ; on it).
  :
  :Similarly place the four fingers of your left hand on the F, D, S, and A-keys.
- :Place your right thumb over the SPACE bar.  (Henceforth, always hit the SPACE
- :bar with this thumb.)  Now, lift all your fingers slightly so that they are
- :poised just over the keys.  Each finger should be just barely touching its home
- :key.  This is an electronic keyboard and does not take much pressure to ac-
+ :Place your right thumb over the SPACE bar. (Henceforth, always hit the SPACE
+ :bar with this thumb.) Now, lift all your fingers slightly so that they are
+ :poised just over the keys. Each finger should be just barely touching its home
+ :key. This is an electronic keyboard and does not take much pressure to ac-
  :cidentally press the key down.
  :
- :Above the D-key is the E-key.  Above the K-key is the I-key.  Learn these
- :positions well.  Whenever you are about to type a line, look at your fingers and
- :make sure they are in the HOME position.  Then don't look at them again.
+ :Above the D-key is the E-key. Above the K-key is the I-key. Learn these
+ :positions well. Whenever you are about to type a line, look at your fingers and
+ :make sure they are in the HOME position. Then don't look at them again.
 
 *:_Q_R_L2
 T:
@@ -89,20 +89,20 @@ T:
  :screen and instructions at the top of the screen.
  :
  :All you have to do is type in the characters that you see in the middle of
- :the screen.  If you hit the correct key, I will not do anything.  If you make
+ :the screen. If you hit the correct key, I will not do anything. If you make
  :a mistake, I will display a large X under the letter that you got wrong and
  :beep the terminal. In either event, just keep going by typing the next letter.
  :
- :When you have finished typing the line, hit the RETURN key.  To do this, extend
- :the little finger of your right hand over to the RETURN key.  Hit the key and
- :zip the finger back to its home position.  Be careful not to let your other
- :fingers move far from their home positions in the process.  Also, be careful
+ :When you have finished typing the line, hit the RETURN key. To do this, extend
+ :the little finger of your right hand over to the RETURN key. Hit the key and
+ :zip the finger back to its home position. Be careful not to let your other
+ :fingers move far from their home positions in the process. Also, be careful
  :not to type an extra space at the end of the line.
  :
- :If you made no mistakes on the line, I will display the next drill pattern.  If
- :you did make a mistake, I will beep at you and make you do the line again.  If
+ :If you made no mistakes on the line, I will display the next drill pattern. If
+ :you did make a mistake, I will beep at you and make you do the line again. If
  :on the second try you made more than two mistakes, I will beep again and make
- :you try again, etc.  Don't forget to use your right thumb for the SPACE bar.
+ :you try again, etc. Don't forget to use your right thumb for the SPACE bar.
 
 I:(1) Try this:
 *:_Q_R_L3
@@ -121,33 +121,33 @@ D:as al ad ak af aj fa ka da la sa ja sl sd sk sf ls ds ks fs
 I:(3) Hang in there; let's do some sentences...
  :To get capitals use your ';' finger on [right-SHIFT]
 *:_Q_R_L6
-D:Dad adds a salad  A lad asks  Salad falls as a lad asks Dad
+D:Dad adds a salad A lad asks Salad falls as a lad asks Dad
 
 I:(4) Now try [left-SHIFT] usage (for 'L') and [right-SHIFT]!
 *:_Q_R_L7
-D:Lease a desk  Add a safe deal  Ask less fees  Add a lease
- :Lease a lake  Add lake sales  Add deeds  Flee false deals
+D:Lease a desk Add a safe deal Ask less fees Add a lease
+ :Lease a lake Add lake sales Add deeds Flee false deals
 
 I:(5)
 *:_Q_R_L8
-D:Feel a dead faded leaf  Seeds fall as a faded leaf falls
- :A lad sells seeds  Dad feels a seed  Dad adds a seed deal
- :A deaf lad sells a false jade  Dad sells a deaf lad a sled
+D:Feel a dead faded leaf Seeds fall as a faded leaf falls
+ :A lad sells seeds Dad feels a seed Dad adds a seed deal
+ :A deaf lad sells a false jade Dad sells a deaf lad a sled
 
 I:(6)
 *:_Q_R_L9
-D:Idle Sid seeks a salad  Sis aids Sid  A salad is laid aside
- :Sid seeks a lake Sis is all silks  Sid likes silks
- :A lad asks if Dad likes lilies  Dad is ill  Dad feels life dies as lilies fade
- :Dad slides all lilies aside  Dad is jaded
+D:Idle Sid seeks a salad Sis aids Sid A salad is laid aside
+ :Sid seeks a lake Sis is all silks Sid likes silks
+ :A lad asks if Dad likes lilies Dad is ill Dad feels life dies as lilies fade
+ :Dad slides all lilies aside Dad is jaded
 
 I:(7)
 *:_Q_R_L10
-D:Sails fill as Sis sails a safe lake  Skill aids Sis  Dad
- :likes a safe sail  Sis seeks a lee isle  All sail is
- :laid aside  Sis feels life is ideal  Idle fields lead as
- :Sis seeks lilies  Sis falls  Lilies fade as Sis falls
- :Faded sails fill  Idle isles slide aside as Sis sails
+D:Sails fill as Sis sails a safe lake Skill aids Sis Dad
+ :likes a safe sail Sis seeks a lee isle All sail is
+ :laid aside Sis feels life is ideal Idle fields lead as
+ :Sis seeks lilies Sis falls Lilies fade as Sis falls
+ :Faded sails fill Idle isles slide aside as Sis sails
 
 I:(8)
 *:_Q_R_L11
@@ -167,8 +167,8 @@ T:
  :			  (h g o u n . t)
  :
  :In this lesson you learn six new letters (H, G, O, U, N, T) and the period. (.).
- :Be sure that the F-finger does not linger on the G-key  or the J-finger on the
- :H-key.  Also be sure to use your fingers as follows:
+ :Be sure that the F-finger does not linger on the G-key or the J-finger on the
+ :H-key. Also be sure to use your fingers as follows:
  :
  : 'f' for 't' and 'g', 'j' for 'h', 'u' and 'n', finally use 'l' for 'o' and '.'
  :
@@ -178,7 +178,7 @@ I:(1) Rhythm Drill
 *:_Q_R_L13
 D:a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh
  :asdefghk lokijujhjn asdefghk lokijujhjn asdefghk
- :l.  a.  l.  s.  l.  d.  l.  e.  l.  n.  l.  t.  l.  o.
+ :l. a. l. s. l. d. l. e. l. n. l. t. l. o.
 
 I:(2) Balanced Keyboard Drill
 *:_Q_R_L14
@@ -188,33 +188,33 @@ D:as os es us is an on en un in at ot et ut it ad od ed ud id
 
 I:(3) Continuous Copy
 *:_Q_R_L15
-D:Ed had a shed.   His shed had dishes.  He had shade.
- :Ed had his ease.  Sis liked a safe shed.  Sis had shade.
- :His shed is ashes.  Ed hides his head.  He heeds Sis.
+D:Ed had a shed. His shed had dishes. He had shade.
+ :Ed had his ease. Sis liked a safe shed. Sis had shade.
+ :His shed is ashes. Ed hides his head. He heeds Sis.
 
 I:(4)
 *:_Q_R_L16
-D:Odd ideas are like odd seeds.  Odd seeds die as do odd deeds.
- :Dad has odd ideas.  Dad sees a soda as a sad dose.  A soda
- :aids Sis.  So I see a soda is added.  Sis does like a soda.
+D:Odd ideas are like odd seeds. Odd seeds die as do odd deeds.
+ :Dad has odd ideas. Dad sees a soda as a sad dose. A soda
+ :aids Sis. So I see a soda is added. Sis does like a soda.
 
 I:(5)
 *:_Q_R_L17
-D:Sid used us.  Sid sued us.  Ada used us as aid.  I did aid.
- :I added ease.  I issued added deeds.  Ada said adieu.  Ada
- :used dead deeds as issues.  Sid said I used deeds due Ada.
+D:Sid used us. Sid sued us. Ada used us as aid. I did aid.
+ :I added ease. I issued added deeds. Ada said adieu. Ada
+ :used dead deeds as issues. Sid said I used deeds due Ada.
 
 I:(6)
 *:_Q_R_L18
-D:Ed is staid.  Ed uses tested data as assets.  Sis is a
- :tease.  Sis sets a tea date.  As Ed tastes tea I state tea
- :data.  Sis teases Ed at tea.  As Ed eats I state diet data.
+D:Ed is staid. Ed uses tested data as assets. Sis is a
+ :tease. Sis sets a tea date. As Ed tastes tea I state tea
+ :data. Sis teases Ed at tea. As Ed eats I state diet data.
 
 I:(7)
 *:_Q_R_L19
-D:Sis said Dean is dense as sand.  Dean needs an idea and Sis
- :needs a sedan.  Dad sends a sedan.  Dean is indeed sad as
- :he sees Sis and Ed inside.  At nine he sees Sis and Ed dine.
+D:Sis said Dean is dense as sand. Dean needs an idea and Sis
+ :needs a sedan. Dad sends a sedan. Dean is indeed sad as
+ :he sees Sis and Ed inside. At nine he sees Sis and Ed dine.
 
 I:(8) Rhythmic Review
 *:_Q_R_L20
@@ -234,12 +234,12 @@ T:
  :			  (y r c , ? : p)
  :
  :You learned first the letters that are most frequently used in the English
- :language.  They are repeated over and over again.
+ :language. They are repeated over and over again.
  :
- :One space always follows a comma.  Don't forget there are two spaces between
+ :One space always follows a comma. Don't forget there are two spaces between
  :sentences, no matter what punctuation mark closes the sentence.
  :
- :The colon (:) introduces a list and is followed by two spaces.  Finger usage:
+ :The colon (:) introduces a list and is followed by two spaces. Finger usage:
  :
  : 'j' for 'y', 'f' for 'r', 'k' for ',', 'd' for 'c', ';' for '?', 'p' and ':'
 
@@ -254,50 +254,50 @@ D:ag ac ar al ap at ay af ug uc ur ul up ut eg ec er el ep et
  :ey ef og or ol op ot of ig ic ir il ip if ga ca ra la pa fa
  :gu cu ru lu pu fu ge ce re le pe ye fe go co ro lo po yo fo
  :gi ci ri li fi gn pl gh ld sy rd ty ct ft ch nc dy dr ph ng
- :s?  d?  e?  f?  r?  f?  t?  j?  n?  s:  d:  e:  r:  t:  n:
+ :s? d? e? f? r? f? t? j? n? s: d: e: r: t: n:
  :k, i, d, e, f, r, k, u, f, t, k, y, d, c, k, n, k, h, l, o,
 
 I:(3) Continuous Copy
 *:_Q_R_L24
-D:Chance can aid a nice choice.  It can teach one to count his
- :costs too.  In each such case a chance cause can hit costs.
+D:Chance can aid a nice choice. It can teach one to count his
+ :costs too. In each such case a chance cause can hit costs.
 
 I:(4)
 *:_Q_R_L25
 D:At his age a good song is the thing as he gets his dog and
- :gun.  He is going to hunt again.  As night ends he sets out.
+ :gun. He is going to hunt again. As night ends he sets out.
 
 I:(5)
 *:_Q_R_L26
 D:As soon as papa is deep in a nap Pat happens to pound in his
- :shop and the phone sounds.  Pat is to paint and pass up noise.
+ :shop and the phone sounds. Pat is to paint and pass up noise.
 
 I:(6)
 *:_Q_R_L27
-D:I hear there is an error in her other order.  The store sent
- :her red dress to our door.  She is sure that it is too dear.
+D:I hear there is an error in her other order. The store sent
+ :her red dress to our door. She is sure that it is too dear.
 
 I:(7)
 *:_Q_R_L28
 D:I shall hold those ideal hotel lots at least until all land
- :is sold.  Late sales still total less than the one old deal.
+ :is sold. Late sales still total less than the one old deal.
 
 I:(8)
 *:_Q_R_L29
-D:Sunday is too soon.  It is not easy to stay and study this
- :dandy day.  I need to study.  It is not easy on the eyes.
+D:Sunday is too soon. It is not easy to stay and study this
+ :dandy day. I need to study. It is not easy on the eyes.
 
 I:(9)
 *:_Q_R_L30
-D:One needs to use faith if one fishes often.  It is fun to sit
- :on soft sod and fish.  It is fun to feel a fish dash out fast.
+D:One needs to use faith if one fishes often. It is fun to sit
+ :on soft sod and fish. It is fun to feel a fish dash out fast.
 
 I:(9A)
 *:_Q_R_L31
-D:Hello, is this Dan?  Hello, Dan, this is Ann.  No, Ann.  Did
- :you see Ted?  Is Nan at the house?  Then dash to the house.
- :Is he at the house?  Has he his auto?  Did he tie on those
- :odds and ends:  used suits, sun hats, shoes, and side tent?
+D:Hello, is this Dan? Hello, Dan, this is Ann. No, Ann. Did
+ :you see Ted? Is Nan at the house? Then dash to the house.
+ :Is he at the house? Has he his auto? Did he tie on those
+ :odds and ends: used suits, sun hats, shoes, and side tent?
 
 I:(10) Rhythmic Review
 *:_Q_R_L32
@@ -316,13 +316,13 @@ B:                             Lesson Q4
 T:
  :			(m w v z x b q ' -)
  :
- :Self control is important in learning to type.  Concentrate on using the
- :correct finger for each key.  In this lesson you learn the seven remaining
+ :Self control is important in learning to type. Concentrate on using the
+ :correct finger for each key. In this lesson you learn the seven remaining
  :letters of the alphabet.
  :
  :The semicolon (;), like the comma, is followed by one space in a sentence.
  :
- :Fingers:  'j' for 'm', 's' for 'w' and 'x', 'f' for 'v' and 'b',
+ :Fingers: 'j' for 'm', 's' for 'w' and 'x', 'f' for 'v' and 'b',
  :';' for ' and '-', 'a' for 'z' and 'q'
 
 I:(1) Rhythm Drill
@@ -340,21 +340,21 @@ D:am aw av az ak ax ab um ub em ew ev ez ek eq ex om ow ov oz
 I:(3) Continuous Copy
 *:_Q_R_L36
 D:Iowa was white with snow when we two went down town and saw
- :a show.  We wanted to see news and not the widow who was wed.
+ :a show. We wanted to see news and not the widow who was wed.
 
 I:(4)
 *:_Q_R_L37
-D:John has to use a tan and jet auto.  He joined Jane in its
- :joint use.  Jane just intends to use it in June on a jaunt.
+D:John has to use a tan and jet auto. He joined Jane in its
+ :joint use. Jane just intends to use it in June on a jaunt.
 
 I:(5)
 *:_Q_R_L38
-D:Smith is his name.  He is on some Maine team.  I am to meet
- :him and Miss Smith.  I must see them some time this month.
+D:Smith is his name. He is on some Maine team. I am to meet
+ :him and Miss Smith. I must see them some time this month.
 
 I:(6)
 *:_Q_R_L39
-D:Kate uses ink to send a note south to Kansas kin.  She asks
+D:Kate uses ink to send a note south to Kansas kin. She asks
  :to use a kodak to take along on these keen skates and skis.
 
 I:(7)
@@ -364,23 +364,23 @@ D:I advise Eva in vain to avoid an auto visit in seven states.
 
 I:(8)
 *:_Q_R_L41
-D:She has questions and unique ideas to quote us.  So she is
+D:She has questions and unique ideas to quote us. So she is
  :quite the queen in this quiet set and sets us quaint quotas.
 
 I:(9)
 *:_Q_R_L42
-D:The zoo is shut.  His zest is dashed.  Dan dozes.  One sneeze
- :and then a dozen seize Dan.  In a daze he sees the zoo seized.
+D:The zoo is shut. His zest is dashed. Dan dozes. One sneeze
+ :and then a dozen seize Dan. In a daze he sees the zoo seized.
 
 I:(9A)
 *:_Q_R_L43
-D:The boat has been best to Boston.  On this basis no doubt one
+D:The boat has been best to Boston. On this basis no doubt one
  :is bound to be a bit behind but boats beat both dust and heat.
 
 I:(9B)
 *:_Q_R_L44
-D:Nan is in Texas.  She is anxious to dine at six.  She sees a
- :taxi stand next to the sixth exit.  Taxis exist to aid one.
+D:Nan is in Texas. She is anxious to dine at six. She sees a
+ :taxi stand next to the sixth exit. Taxis exist to aid one.
 
 I:(10) Rhythmic Review
 *:_Q_R_L45
@@ -397,7 +397,7 @@ B:                             Lesson Q5
 
 *:_Q_R_L46
 T:
- :Now you know all of the alphabet.  In this lesson we add the hyphen (-) and
+ :Now you know all of the alphabet. In this lesson we add the hyphen (-) and
  :the apostrophe (').
 
 I:(1) Rhythm Drill
@@ -413,7 +413,7 @@ D:ad ar an al am ab ee st ed er en el es em ex om on or un up
 
 I:(3) Continuous Copy -- Review
 *:_Q_R_L49
-D:It is a good thing papa has gone.  Pat gets up a deep song.
+D:It is a good thing papa has gone. Pat gets up a deep song.
  :Yet Ann says an easy song any day is a sign to guess again.
 
 I:(4)
@@ -423,18 +423,18 @@ D:They often need funds but don't think it is any fun to study.
 
 I:(5)
 *:_Q_R_L51
-D:Ted notes an odd noise.  Dan is in the seas and needs aid.
+D:Ted notes an odd noise. Dan is in the seas and needs aid.
  :He sheds his suit and shoes on the sand and is out in haste.
 
 I:(6)
 *:_Q_R_L52
-D:A good visit East is Ann's next quest.  Ann seems to seize
- :on this idea with zest.  She has set seven visits as a quota.
+D:A good visit East is Ann's next quest. Ann seems to seize
+ :on this idea with zest. She has set seven visits as a quota.
 
 I:(7)
 *:_Q_R_L53
 D:She is to adjust her six visits to have a snow-white Maine
- :Christmas.  An Iowa aunt asks Ann to take in that state, too.
+ :Christmas. An Iowa aunt asks Ann to take in that state, too.
 
 I:(8)
 *:_Q_R_L54
@@ -498,11 +498,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -532,45 +532,45 @@ D:uch pos oug ept ing ope hic ati sch cou get ice con goo ght
 
 I:(3) Continuous Copy
 *:_R_R_L3
-D:Nan is cute.  She can sing and dance.  She can tap a piano.
+D:Nan is cute. She can sing and dance. She can tap a piano.
 
 I:(4)
 *:_R_R_L4
-D:Tonight Nan opens the piano.  She sings such good songs and
- :soon dashes into a dance.  Nan can dance.  The noise stops.
+D:Tonight Nan opens the piano. She sings such good songs and
+ :soon dashes into a dance. Nan can dance. The noise stops.
 
 I:(5)
 *:_R_R_L5
-D:Nan gets us going.  The dance is on.  Ted pounds the piano
- :as Ann stops to go to the phone.  She has to get the gang.
- :This chance scene passes too soon.  I hope it happens again.
+D:Nan gets us going. The dance is on. Ted pounds the piano
+ :as Ann stops to go to the phone. She has to get the gang.
+ :This chance scene passes too soon. I hope it happens again.
 
 I:(6)
 *:_R_R_L6
 D:At eight papa said that he ought to put out his good pipe
- :and then get a good nap.  Soon papa is snug in a deep nap.
- :At eight ten I guess the dance gets going.  At ten it stops.
+ :and then get a good nap. Soon papa is snug in a deep nap.
+ :At eight ten I guess the dance gets going. At ten it stops.
  :As papa put it, such singing upsets him enough for one night.
 
 I:(7)
 *:_R_R_L7
-D:Get the gang.  Catch this sign.  Get going.  Go up this high
- :post and put a sign on top.  Put these copies on each post.
- :I guess no one intends to stop us.  The cast is set.  Each
- :scene is set.  Each act can open in good shape.  I hope that
+D:Get the gang. Catch this sign. Get going. Go up this high
+ :post and put a sign on top. Put these copies on each post.
+ :I guess no one intends to stop us. The cast is set. Each
+ :scene is set. Each act can open in good shape. I hope that
  :enough cash is paid in so the cast need not stand the costs.
 
 *:_R_R_L8
 T:			SPEED EXERCISES
  :
- :From now on, I will be mixing speed exercises in with the lessons.  In the
+ :From now on, I will be mixing speed exercises in with the lessons. In the
  :drills that you have been doing, I make you keep practicing a line until
- :you get it right.  In a speed exercise, I will only display the text once.
+ :you get it right. In a speed exercise, I will only display the text once.
  :
- :What will be different is that I will be timing you.  From the time you type
+ :What will be different is that I will be timing you. From the time you type
  :the first letter of the line until you hit the final carriage return, my
- :stopwatch will be running.  When you finish, I will calculate your typing speed
- :and convert it to words per minute (WPM).  I will also count each of the
+ :stopwatch will be running. When you finish, I will calculate your typing speed
+ :and convert it to words per minute (WPM). I will also count each of the
  :mistakes you make and display the total number of errors.
  :
  :If you make a mistake, I will beep at you and light up the letter that you
@@ -579,19 +579,19 @@ T:			SPEED EXERCISES
 
 I:(8) Pointer Paragraph (o e)
 *:_R_R_L9
-S:     Only too well do we know about your house.  Mother told
- :me you hope to be settled there quite soon.  Of course she
- :would enjoy seeing the whole house next week.  Before then
+S:    Only too well do we know about your house. Mother told
+ :me you hope to be settled there quite soon. Of course she
+ :would enjoy seeing the whole house next week. Before then
  :please write her a letter to let her know how to get there
- :from here.  We know you have moved to a very cozy new home.
+ :from here. We know you have moved to a very cozy new home.
 
 I:(9) Test Paragraph
 *:_R_R_L10
-S:     The High dance opens at eight and the gang is going.
+S:    The High dance opens at eight and the gang is going.
  :So Ted shuts the piano and stops at the phone to catch Ann.
  :I ought to post Ted that he pounds the piano as I once did.
- :I guess he is upset.  He has to catch Dad to get the cash.
- :He has to see Ann to each dance.  This is not a noisy night.
+ :I guess he is upset. He has to catch Dad to get the cash.
+ :He has to see Ann to each dance. This is not a noisy night.
  :His auto is a cheap one and no good on a night such as this.
 
 I:(10) Rhythmic Review
@@ -621,48 +621,48 @@ D:Dad and his son, Dan, are to go east on a great auto trip.
 
 I:(4)
 *:_R_R_L15
-D:The phone rings.  Dan hopes the rain has not upset the trip.
+D:The phone rings. Dan hopes the rain has not upset the trip.
  :Soon the pair share a snug rug and start out in our red car.
 
 I:(5)
 *:_R_R_L16
-D:On a poor, rough road, Dan dares to rush in the rain.  Soon
- :he sees a horse ahead.  He tries hard to stop.  The car hits
- :and then turns around.  The horse runs east at a great rate.
+D:On a poor, rough road, Dan dares to rush in the rain. Soon
+ :he sees a horse ahead. He tries hard to stop. The car hits
+ :and then turns around. The horse runs east at a great rate.
 
 I:(6)
 *:_R_R_L17
 D:In order to raise a poor grade one tries to use good sense.
  :An error is a sure sign not to do the thing that one did.
- :An error seen once does not hurt.  As soon as an error is
+ :An error seen once does not hurt. As soon as an error is
  :seen or heard again, note its sort and end it right there.
 
 I:(7)
 *:_R_R_L18
 D:Her error is a sign that this thing or that has upset her.
- :Does she care?  Is it a hard part?  She has to get used to
- :the letters that she has to print.  Is this order upset?
- :Is she tired?  Then she needs a short rest.  Is it the rate?
- :She need not raise her rate too high.  Has she a good touch?
+ :Does she care? Is it a hard part? She has to get used to
+ :the letters that she has to print. Is this order upset?
+ :Is she tired? Then she needs a short rest. Is it the rate?
+ :She need not raise her rate too high. Has she a good touch?
 
 #
 I:(8) Pointed Paragraph (t h)
 *:_R_R_L19
-S:     Hugh thought he ought to start that night although the
- :weather might hurt his health.  Hal thought they ought to go
- :to Arizona together the thirtieth of June.  Both hastened
- :through the streets to their very high hotel.  Hal hesitated
- :to start north without warm clothes.  Although he hated to
+S:    Hugh thought he ought to start that night although the
+ :weather might hurt his health. Hal thought they ought to go
+ :to Arizona together the thirtieth of June. Both hastened
+ :through the streets to their very high hotel. Hal hesitated
+ :to start north without warm clothes. Although he hated to
  :hurt his health, Hugh started north quickly on the sixteenth.
 
 I:(9) Test Paragraph
 *:_R_R_L20
-S:     Dad and his son are to start on a trip in our red car.
+S:    Dad and his son are to start on a trip in our red car.
  :House cares are the sort that upset Dad and he is so tired
- :that he tries a nap in order to rest.  It rains at a great
- :rate.  Dan is too sure.  He has heard this road is poor in
- :parts.  It is a great error, Dan, to rush a short turn on a
- :grade.  The car turns out and ends on its side.  Hurt?  No.
+ :that he tries a nap in order to rest. It rains at a great
+ :rate. Dan is too sure. He has heard this road is poor in
+ :parts. It is a great error, Dan, to rush a short turn on a
+ :grade. The car turns out and ends on its side. Hurt? No.
 
 I:(10) Rhythmic Review
 *:_R_R_L21
@@ -691,13 +691,13 @@ D:As a rule it is the real line drill that helps one to learn.
 
 I:(4)
 *:_R_R_L25
-D:It helps to read a line as soon as one can.  It helps to see
- :its sense.  This, indeed, helps to hold each line until done.
+D:It helps to read a line as soon as one can. It helps to see
+ :its sense. This, indeed, helps to hold each line until done.
 
 I:(5)
 *:_R_R_L26
 D:As soon as one hits a hard place then one plans to drill on
- :this part.  Later one can drill this hard part again.  In
+ :this part. Later one can drill this hard part again. In
  :order to end an error one can drill all the old line again.
 
 I:(6)
@@ -713,36 +713,36 @@ D:Total lines that one turns out tell all that one is young.
  :In order that this class also can print a large line total,
  :it still helps to spell; it also helps to print all the line
  :as one line, and it helps less and less to drill single
- :letters.  Each one in the class can tell his total lines.
+ :letters. Each one in the class can tell his total lines.
 
 I:(8) One- to three-letter words (a to l)
 *:_R_R_L29
 S:Dear Ted,
  :
- :     A day ago Ann got a bad cut on her arm and a few by her
- :eye and ear.  It is an act of God she did not die.  Her car
- :did the job.  It is the end of her car.  She has no use for a
- :car.  The fee is to be big.  She is in bed, but she can not
- :eat.  She can not eat a bit of egg.  It is no fun at all.
+ :    A day ago Ann got a bad cut on her arm and a few by her
+ :eye and ear. It is an act of God she did not die. Her car
+ :did the job. It is the end of her car. She has no use for a
+ :car. The fee is to be big. She is in bed, but she can not
+ :eat. She can not eat a bit of egg. It is no fun at all.
  :
- :     It is hot.  It is too hot for her fur hat, but I can buy
- :a box for it.  I am due any day.  I can cut a day if I fly.
- :It is not far if I go by air.  If I go by car, I add a day.
+ :    It is hot. It is too hot for her fur hat, but I can buy
+ :a box for it. I am due any day. I can cut a day if I fly.
+ :It is not far if I go by air. If I go by car, I add a day.
  :
- :     How is Dan?  Did he get his job?  Dan had to beg for it
- :if he did.  He is big and fat but not bad.  The boy can do
- :it if he can act to fit his age.  Ask him not to act as a kid.
+ :    How is Dan? Did he get his job? Dan had to beg for it
+ :if he did. He is big and fat but not bad. The boy can do
+ :it if he can act to fit his age. Ask him not to act as a kid.
  :
  :Yours sincerely,
 
 I:(9) Test Paragraph
 *:_R_R_L30
-S:     To tell this class all there is to learn is not a real
- :help later.  Let the class plan the loose ease that can hold
+S:    To tell this class all there is to learn is not a real
+ :help later. Let the class plan the loose ease that can hold
  :each hand in place, or plan to end this or that poor slip,
- :or plan to do its total lines in less hours.  As a rule, to
- :plan and to do are also to learn.  The class plans to drop
- :the old action to clear the road.  Those old slips are lost.
+ :or plan to do its total lines in less hours. As a rule, to
+ :plan and to do are also to learn. The class plans to drop
+ :the old action to clear the road. Those old slips are lost.
  :The class has large plans; gains in hours and less slips.
 
 I:(10) Rhythmic Review
@@ -780,41 +780,41 @@ D:All loose lots are sent on fast local lines at a half rate,
 I:(5)
 *:_R_R_L36
 D:This offer is only for fancy fresh fruit to be used as gifts.
- :Try these and candy to suit the young lady.  They are dandy.
- :You can feel safe.  Sales are easy and final.  They go fast.
+ :Try these and candy to suit the young lady. They are dandy.
+ :You can feel safe. Sales are easy and final. They go fast.
  :After at least four days you can order daily or on Friday.
 
 I:(6)
 *:_R_R_L37
 S:Dear Ted,
  :
- :     After I read your dandy note I felt sorry for the lady.
+ :    After I read your dandy note I felt sorry for the lady.
  :Here is plenty of cash if you young people agree to spend it
- :sanely.  Is it for a natty sail or only for golf?  Did you and
- :Dan play or fight?  Dan said he felt as if a full load of
- :coal hit his head.  Is that fact or fancy?
+ :sanely. Is it for a natty sail or only for golf? Did you and
+ :Dan play or fight? Dan said he felt as if a full load of
+ :coal hit his head. Is that fact or fancy?
  :
  :Yours sincerely,
 
 I:(7) Pointed Paragraph (a s)
 *:_R_R_L38
-S:     Sadness possesses her as she stands against the panes
- :that the sash separates.  She is sad because the same dress
+S:    Sadness possesses her as she stands against the panes
+ :that the sash separates. She is sad because the same dress
  :is not washed and in shape; and so she says it is useless to
- :save it.  She is sad also because she has to stay in Alabama
- :next season.  She says to plan to sail across the seas to
- :Alaska or Asia or Spain is useless.  So in June she amuses
+ :save it. She is sad also because she has to stay in Alabama
+ :next season. She says to plan to sail across the seas to
+ :Alaska or Asia or Spain is useless. So in June she amuses
  :herself by drawing five or six quaint, small-sized maps.
 
 I:(8) Test Paragraph
 *:_R_R_L39
-S:     They say this fruit is the finest.  It is full and good.
+S:    They say this fruit is the finest. It is full and good.
  :Dr. Ted feels the first fruit is too green for young or old.
- :After one eats any of it he is sorry.  In fact, if I try it,
+ :After one eats any of it he is sorry. In fact, if I try it,
  :that night in fancy I sail the South Seas for eight hours.
  :The air is fine and clear; on the ship are only fruit and I.
  :To a lady in those seas I gladly offer all fruit and candy.
- :There is no reply.  Only the seas run high and I feel ill.
+ :There is no reply. Only the seas run high and I feel ill.
 
 I:(9) Rhythmic Review
 *:_R_R_L40
@@ -848,7 +848,7 @@ D:If you read copy set your eyes on that copy and stay on it.
 
 I:(5)
 *:_R_R_L45
-D:Do not hurry.  Set a nice rate.  Yet hit each letter fast.
+D:Do not hurry. Set a nice rate. Yet hit each letter fast.
  :To strike letters start easily and fast and use a light touch.
  :You can not type lightly and faster if you start to pound.
 
@@ -864,38 +864,38 @@ I:(7)
 D:It is easy at first to make errors by losing this usual order.
  :If you read, hold the eyes on copy to help get this order.
  :If you do hit this or that letter out of order, it is not
- :that you fail to spell.  You can spell and yet not type;
+ :that you fail to spell. You can spell and yet not type;
  :this fine class drill is to help the type fly in fair order.
 
 I:(8) One- to three-letter words (m to z)
 *:_R_R_L48
 S:Dear Tom,
  :
- :     Mr. May has one new car.  It has a low red top.  The top
- :is so low you can not see the sun if you sit in the car.  Mr.
- :May has not let his own son use it.  I saw his son try to put
- :the top up.  I ran and met him.  Why not be men and run the car
- :out?  We did.  We set out to run it at six.  We two ran it off
+ :    Mr. May has one new car. It has a low red top. The top
+ :is so low you can not see the sun if you sit in the car. Mr.
+ :May has not let his own son use it. I saw his son try to put
+ :the top up. I ran and met him. Why not be men and run the car
+ :out? We did. We set out to run it at six. We two ran it off
  :to an old lot by the sea.
  :
- :     Did his pa see us?  Yes, sir, who but Pa was at No. Ten
- :as we ran by in the car--and Ma, too.  Oh, it was war--his pa
- :had a lot to say.  Let me lay out the law to you.  You may not
- :use the car as you did not pay for it.  You are not yet a man.
+ :    Did his pa see us? Yes, sir, who but Pa was at No. Ten
+ :as we ran by in the car--and Ma, too. Oh, it was war--his pa
+ :had a lot to say. Let me lay out the law to you. You may not
+ :use the car as you did not pay for it. You are not yet a man.
  :Son did not lie nor did he win his way.
  :
- :     How are you all?  Now if you get a new car, let me run it.
+ :    How are you all? Now if you get a new car, let me run it.
  :
  :Yours sincerely,
 
 I:(9) Pointed Paragraph (t c)
 *:_R_R_L49
-S:     Is it quite certain that the citizens could continue the
- :old conditions if they voted a straight ticket?  If we accept
+S:    Is it quite certain that the citizens could continue the
+ :old conditions if they voted a straight ticket? If we accept
  :as accurate the picture of recent conditions, we can not crave
- :to continue them.  We lack the tact to get the citizens to
- :vote a split ticket.  Tax collectors try to collect taxes on
- :vacant lots.  A discount for cash increases collections.
+ :to continue them. We lack the tact to get the citizens to
+ :vote a split ticket. Tax collectors try to collect taxes on
+ :vacant lots. A discount for cash increases collections.
 
 I:(10) Rhythmic Review
 *:_R_R_L50
@@ -930,7 +930,7 @@ D:I must see the warm colors, and feel the wind on that land.
 
 I:(5)
 *:_R_R_L55
-D:I like to hear a horse stamp.  I like the sweat on a horse.
+D:I like to hear a horse stamp. I like the sweat on a horse.
  :I want to keep a camp, close to water, miles from any crowd.
  :At night, I want to enjoy a moon that shines on all the land.
 
@@ -951,22 +951,22 @@ D:I want to hear the talk of folks who know hot sun and stock.
 
 I:(8) Pointed Paragraph (p y)
 *:_R_R_L58
-S:     Please report the people who study typing.  You may
+S:    Please report the people who study typing. You may
  :truly say that money paid for this study is happily spent.
  :Today typing plays a very practical part in acquiring a
- :paying position.  We can use plenty of these days for exact
- :work in typing:  Monday, Tuesday, Wednesday, Thursday, Friday,
- :and Saturday.  Have you this sized type to print your copy?
+ :paying position. We can use plenty of these days for exact
+ :work in typing: Monday, Tuesday, Wednesday, Thursday, Friday,
+ :and Saturday. Have you this sized type to print your copy?
 
 I:(9) Test Paragraph
 *:_R_R_L59
-S:     Were you the judge in a case like this, could you do the
- :just thing?  An old woman who keeps rooms hides her money
- :under a clock.  A man using one of the rooms motors rapidly
- :away.  The old woman says her money is gone.  We join in a
- :hunt for the man who is found in the West.  We take from him
- :the same sum of money.  We try to make him sweat and talk.
- :I use my power to set his term at ten years.  After he is put
+S:    Were you the judge in a case like this, could you do the
+ :just thing? An old woman who keeps rooms hides her money
+ :under a clock. A man using one of the rooms motors rapidly
+ :away. The old woman says her money is gone. We join in a
+ :hunt for the man who is found in the West. We take from him
+ :the same sum of money. We try to make him sweat and talk.
+ :I use my power to set his term at ten years. After he is put
  :in jail, the old woman finds her money still under the clock.
 
 I:(10) Rhythmic Review
@@ -996,48 +996,48 @@ D:At our new villa a very novel event was given for the navy.
 
 I:(4)
 *:_R_R_L64
-D:Covers were laid in the unique ivory room.  Even the king
+D:Covers were laid in the unique ivory room. Even the king
  :and queen were there with a quota of fair and lovely ladies.
 
 I:(5)
 *:_R_R_L65
-D:The queen was ready to quaff when her glass fell.  At once
- :all was quiet.  Every one, save one alone, quit the dance.
+D:The queen was ready to quaff when her glass fell. At once
+ :all was quiet. Every one, save one alone, quit the dance.
  :In all their lives, to quote, was never a thing more grave.
 
 I:(6)
 *:_R_R_L66
 D:Who was the lady with the vivid hair in the dress of heavy
- :gold?  Who was this queer one who dared so treat the queen?
- :Each guest did quail.  Could such quiet nerve ever avail?
+ :gold? Who was this queer one who dared so treat the queen?
+ :Each guest did quail. Could such quiet nerve ever avail?
  :With a move quite free and easy the lady let fall her glass.
 
 I:(7)
 *:_R_R_L67
 D:The queen put this query in a quick voice to quell them all:
- :Why does the whole world love a lover?  Why do we value you?
- :All did laugh.  The queen asked that, as a favor, you give us
- :those who have nerve, for they can love and serve.  Quite as
+ :Why does the whole world love a lover? Why do we value you?
+ :All did laugh. The queen asked that, as a favor, you give us
+ :those who have nerve, for they can love and serve. Quite as
  :one who gave an equal favor, the queen sang over the radio.
 
 I:(8) Pointed Paragraph (l s)
 *:_R_R_L68
-S:     The earliest possible sales lessen the total losses.
+S:    The earliest possible sales lessen the total losses.
  :Please enclose the latest details in those lists yourself.
  :On almost all calls I could save six dollars, especially in
- :July.  Tell the girls all the usual questions asked will be
- :useful shortly.  Use a small-sized envelope to post letters.
+ :July. Tell the girls all the usual questions asked will be
+ :useful shortly. Use a small-sized envelope to post letters.
  :Last but not least, all else should still go on as usual.
 
 I:(9) Test Paragraph
 *:_R_R_L69
-S:     In our queen city I used to value two covers set every
- :day.  At these I used to serve a young man and a girl.  I did
+S:    In our queen city I used to value two covers set every
+ :day. At these I used to serve a young man and a girl. I did
  :love to see her quiet dress and quick smile favor her so.
  :I have never quite seen her equal, or a girl so very alive.
  :After I had given over this work, I went there to see them.
  :One night I saw a query form on her lips until she gave it
- :up and took leave.  The way she quit the boy was very queer
+ :up and took leave. The way she quit the boy was very queer
  :even if the papers did quote his prison term as five years.
 
 I:(10) Rhythmic Review
@@ -1068,52 +1068,52 @@ D:I'd never call Dan lazy; still, I can't say he wins prizes.
 
 I:(4)
 *:_R_R_L74
-D:Doesn't Dan know how to make an exclamation point?  He'll
+D:Doesn't Dan know how to make an exclamation point? He'll
  :have to hold down the spacer and hit the apostrophe and period.
 
 I:(5)
 *:_R_R_L75
 D:Owing to Dan's zeal, he'll get the point; he'll realize it's
- :faster.  He'll use it when amazed, as:  Whiz!  He'll use it
- :when he feels real zest, as:  Zip!  Let's go!  It's a fire!
+ :faster. He'll use it when amazed, as: Whiz! He'll use it
+ :when he feels real zest, as: Zip! Let's go! It's a fire!
 
 I:(6)
 *:_R_R_L76
 D:A dozen small-sized craft frozen in the ice are afire under
- :a cold azure sky.  It's near zero in the fire zone; and over
+ :a cold azure sky. It's near zero in the fire zone; and over
  :the ships now razed to the water's edge, a light haze hangs.
  :I'm dazed as I gaze at my own ship; I'd never recognize that
- :crazy maze of still fizzing ruins as a deck.  What a fizzle!
+ :crazy maze of still fizzing ruins as a deck. What a fizzle!
 
 I:(7)
 *:_R_R_L77
 D:Isn't there a lot of zip and zest to your work on a paper of
- :this size?  Don't you like to seize some amazing news item
- :that's good for the first page?  If Tom's hazy fire story is
- :a fizzle, why won't you squeeze it to a dozen lines?  Isn't
- :that easy for you?  I've wanted to see my name in print; I
+ :this size? Don't you like to seize some amazing news item
+ :that's good for the first page? If Tom's hazy fire story is
+ :a fizzle, why won't you squeeze it to a dozen lines? Isn't
+ :that easy for you? I've wanted to see my name in print; I
  :guess I'll sail in a zeppelin to see if you'll print that.
 
 I:(8) Pointed Paragraph (r n)
 *:_R_R_L78
-S:     A note from Ann says her friend prefers to change her
- :return to Arizona from next February to November.  The reason
+S:    A note from Ann says her friend prefers to change her
+ :return to Arizona from next February to November. The reason
  :is an error of the owner of the ranch who will not refund
- :her rent.  The janitor is running some errand, for he has
+ :her rent. The janitor is running some errand, for he has
  :worked in the rain near the northern entrance during dinner.
  :I hear that now neither her friends from North Carolina nor
  :Virginia can remain an afternoon and refrain from a quarrel.
 
 I:(9) Test Paragraph
 *:_R_R_L79
-S:     I'll admit I seize a chance to go with these dozen
- :people.  We left under an azure sky, yet today it's rainy
- :and hazy.  That Dr. Tedd is odd; he won't play; he's doing
+S:    I'll admit I seize a chance to go with these dozen
+ :people. We left under an azure sky, yet today it's rainy
+ :and hazy. That Dr. Tedd is odd; he won't play; he's doing
  :a report on how to zone cities of any size; so he won't let
- :us dance to radio jazz.  Tonight we're to try a play that
- :hasn't any zest or zip.  Its prize is Tom's money, and he'll
- :not stay; he feels it's a fizzle.  My zeal for gazing on the
- :crowd is at zero.  They don't and can't pass any play quiz.
+ :us dance to radio jazz. Tonight we're to try a play that
+ :hasn't any zest or zip. Its prize is Tom's money, and he'll
+ :not stay; he feels it's a fizzle. My zeal for gazing on the
+ :crowd is at zero. They don't and can't pass any play quiz.
 
 I:(10) Rhythmic Review
 *:_R_R_L80
@@ -1138,64 +1138,64 @@ D:abo bet bee ble bou bef ext ber six sib nex abl aby mbe box
 
 I:(3) Continuous Copy
 *:_R_R_L83
-D:Dad just about broke down at the bad news.  Bill has no job.
+D:Dad just about broke down at the bad news. Bill has no job.
 
 I:(4)
 *:_R_R_L84
-D:Dad was vexed.  He said that he might as well burn his bonds
- :next.  He has sixty bonds but the prices sent all below par.
+D:Dad was vexed. He said that he might as well burn his bonds
+ :next. He has sixty bonds but the prices sent all below par.
 
 I:(5)
 *:_R_R_L85
-D:Dad talks about a jinx.  He says that maybe their bank will
+D:Dad talks about a jinx. He says that maybe their bank will
  :close so he cannot pay up taxes and bills before Christmas.
  :Dad says they all may have to exist on home-grown wax beans.
 
 I:(6)
 *:_R_R_L86
 D:Dad adds that boys ought to be busy and maybe play ball or
- :box at the club.  Bill excels, but says he cannot box on
- :wax beans alone.  Beef must be back on the board.  Bill has
- :boxed as an extra at a bazaar.  He is big, and able to box.
+ :box at the club. Bill excels, but says he cannot box on
+ :wax beans alone. Beef must be back on the board. Bill has
+ :boxed as an extra at a bazaar. He is big, and able to box.
 
 I:(7)
 *:_R_R_L87
-D:Bill begs Dad not to be blue, and his text is this:  We
- :are all in the same boat.  No one can buy.  No one can build.
- :Labor is hard hit, too.  I, for one, would like to toss the
- :cards on the table and start a new deal.  When exact codes
+D:Bill begs Dad not to be blue, and his text is this: We
+ :are all in the same boat. No one can buy. No one can build.
+ :Labor is hard hit, too. I, for one, would like to toss the
+ :cards on the table and start a new deal. When exact codes
  :are fixed, as best for all, every person must do his bit.
 
 I:(8) Pointed Paragraph (f y)
 *:_R_R_L88
-S:     Satisfy yourself that it will be funny, but perfectly
+S:    Satisfy yourself that it will be funny, but perfectly
  :satisfactory, for forty or fifty of the faculty to fly from
- :Buffalo to New York on the first Friday in February.  If
+ :Buffalo to New York on the first Friday in February. If
  :they prefer, we will offer them waffles, jelly, and coffee
- :before they fly or get dizzy.  Sixty flyers can qualify
- :confidently to face any difficulty.  A friendly inquiry
+ :before they fly or get dizzy. Sixty flyers can qualify
+ :confidently to face any difficulty. A friendly inquiry
  :from any family will be very cheerfully and fully answered.
 
 I:(8a) Pointed Paragraph (i d)
 *:_R_R_L89
-S:     Children find being quizzed in division, addition, and
- :reading difficult.  They studied daily during their third
- :period and tried to be confident.  I think they did include
+S:    Children find being quizzed in division, addition, and
+ :reading difficult. They studied daily during their third
+ :period and tried to be confident. I think they did include
  :Florida and Rhode Island in their wide reading; and have
  :just decided to dispose of Detroit, Grand Rapids, Richmond,
  :Providence, and Philadelphia next week.
 
 I:(9) Test Paragraph
 *:_R_R_L90
-S:     By using the new banks of keys on the new keyboard, you
- :are able to learn or excel with less labor.  These new banks
- :have been based on an exact table of words used.  You begin
- :at once on the best bank.  On the old keyboard you have to
+S:    By using the new banks of keys on the new keyboard, you
+ :are able to learn or excel with less labor. These new banks
+ :have been based on an exact table of words used. You begin
+ :at once on the best bank. On the old keyboard you have to
  :type most of the text on the next bank above and on the bank
- :below.  Because of this fact your fingers bound back and
- :forth between the upper and lower banks of keys.  But those
+ :below. Because of this fact your fingers bound back and
+ :forth between the upper and lower banks of keys. But those
  :extra jumps necessary on the old keyboard do not exist on the
- :new keyboard.  Nor is your left hand taxed with extra labor.
+ :new keyboard. Nor is your left hand taxed with extra labor.
  :The keys are fixed to keep both hands busy and in balance.
 
 I:(10) Rhythmic Review
@@ -1226,56 +1226,56 @@ D:I am going to be lazy this weekend and do just what I want.
 
 I:(4)
 *:_R_R_L95
-D:Today I quit being vexed with the old job.  I must seize
+D:Today I quit being vexed with the old job. I must seize
  :one extra bit of zest and join the exit from the big city.
 
 I:(5)
 *:_R_R_L96
 D:To begin with, the same old auto will bear us to the beach
  :where a good-sized boat floats easily in the blue water.
- :Our boat is build for room.  Her cabin has a busy table.
+ :Our boat is build for room. Her cabin has a busy table.
 
 I:(6)
 *:_R_R_L97
 D:I know Nan will come if Bill does, and Ted likes to be with
- :Ann.  I would never quite have the nerve to keep my good
+ :Ann. I would never quite have the nerve to keep my good
  :board back when our club navy moves out into the quiet water.
  :We leave at an early hour when the sun is still under cover.
 
 I:(7)
 *:_R_R_L98
-D:All day will be warm and novel.  The far banks will slide by
- :while we gaze.  She is an out-and-out able boat, heavy but
- :never gives trouble.  She is never taxed in quick water.  I
- :feel the water jump and break.  Queer how I feel the bond
- :that exists between me and my boat.  She is a prize I value.
+D:All day will be warm and novel. The far banks will slide by
+ :while we gaze. She is an out-and-out able boat, heavy but
+ :never gives trouble. She is never taxed in quick water. I
+ :feel the water jump and break. Queer how I feel the bond
+ :that exists between me and my boat. She is a prize I value.
 
 I:(8) Pointed Paragraph (m w)
 *:_R_R_L99
-S:     Some women swim in the spring.  Some women swim in
- :the warm water of summer.  Women in Brazil may swim even in
- :November.  Some women from Japan will swim tomorrow.  We want
+S:    Some women swim in the spring. Some women swim in
+ :the warm water of summer. Women in Brazil may swim even in
+ :November. Some women from Japan will swim tomorrow. We want
  :to show the women from New Mexico and Wyoming how to swim in
- :winter.  We will work with them for a few weeks.  When they
+ :winter. We will work with them for a few weeks. When they
  :go home we wonder if they will write from time to time.
 
 I:(8A) Pointed Paragraph (i o)
 *:_R_R_L100
-S:     I'm going to obtain oil options tonight and to file my
- :copies without noise, or outside notice.  I am anxious to
- :avoid an action.  If I voice an official opinion, I will omit
- :serious points.  Knowing conditions, I am hoping that I'll
- :be enjoying a glorious addition to my income.  I am going to
+S:    I'm going to obtain oil options tonight and to file my
+ :copies without noise, or outside notice. I am anxious to
+ :avoid an action. If I voice an official opinion, I will omit
+ :serious points. Knowing conditions, I am hoping that I'll
+ :be enjoying a glorious addition to my income. I am going to
  :join society and be social with juniors and seniors alike.
 
 I:(9) Test Paragraph
 *:_R_R_L101
-S:     Bound for some place where the sun sets in the west,
- :soon it is the night that I favor.  Next to the night and
+S:    Bound for some place where the sun sets in the west,
+ :soon it is the night that I favor. Next to the night and
  :boat and water, maybe I judge our sail by its excellent bill
- :of fare.  Here I am very exact, as I never set a poor table.
+ :of fare. Here I am very exact, as I never set a poor table.
  :I stock an up-to-date table, set out under the first dozen
- :stars.  I enjoy having every boy able to quaff his quota of
+ :stars. I enjoy having every boy able to quaff his quota of
  :soup and boast or sing with zeal and make any queer joke.
  :With a moon, I can name no event to equal a boat and water.
 
@@ -1295,7 +1295,7 @@ B:                            Lesson R11
 *:_R_R_L103
 T:
  :In this lesson we start on the top row, which has the numerals and
- :a lot of the special characters.  Note that the F-finger presses the
+ :a lot of the special characters. Note that the F-finger presses the
  :4-key and the 5-key; the J-finger presses the 7-key and the 8-key.
  :Either the F-finger or the J-finger may press the 6-key.
 
@@ -1315,7 +1315,7 @@ D:To buy an air-mail stamp I save 1, 2, 4, and at last 6 cents.
 I:(4)
 *:_R_R_L107
 D:In two years my dollar earns 1, 3, 5, 7, and perhaps 8 cents.
- :Buy at once:  4 candy balls,9 bars, 6 or 8 of gum, 2 cakes.
+ :Buy at once: 4 candy balls,9 bars, 6 or 8 of gum, 2 cakes.
 
 I:(5)
 *:_R_R_L108
@@ -1325,26 +1325,26 @@ D:2 and 2 are 4; 3 and 3 are 6; 4 and 4 are 8; 5 and 0 are 5.
 
 I:(6)
 *:_R_R_L109
-D:I have finished Grade 9B.  In my first weeks of typing in
+D:I have finished Grade 9B. In my first weeks of typing in
  :Grade 10A, I learned to use all the keys in Lessons 3 and 4.
  :In Lessons 1 and 2, and in part of No.5, I tried my hands on
- :the home row.  Both Lessons 6 and 7 were in the bank above.
+ :the home row. Both Lessons 6 and 7 were in the bank above.
 
 I:(7)
 *:_R_R_L110
-D:Typing is clerical work.  Twenty years ago less than 5 per
+D:Typing is clerical work. Twenty years ago less than 5 per
  :cent of all those at work had clerical jobs; today, about 8
- :per cent have such jobs.  Does it interest you that of all
+ :per cent have such jobs. Does it interest you that of all
  :paid typists only 3 per cent are more than 44 years of age?
  :Most of the 810,000 typists in the last census are young.
 
 I:(8-9)
 *:_R_R_L111
 S:To throw a carriage do you take 6 or 7 times--or to shift for
- :a capital, 2 or 3 times--as long as to hit one letter?  And
- :do you know the common keys?  One common pair of letters is used
+ :a capital, 2 or 3 times--as long as to hit one letter? And
+ :do you know the common keys? One common pair of letters is used
  :for every 3 or 4 other pairs, even though there are more than
- :600 other pairs.  The digits are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+ :600 other pairs. The digits are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
  :You will spell these out more often than you will type them.
 
 I:(10) Rhythmic Review
@@ -1382,43 +1382,43 @@ I:(5)
 *:_R_R_L117
 D:On one day in June the heat ran to 106, 103, 98, 95, 92, in
  :some cities, but only to 40, 43, 47, 50, 51, 52, 60 in other
- :cities.  Rain fell from .00 or .04 to .40 or to .68 inches.
+ :cities. Rain fell from .00 or .04 to .40 or to .68 inches.
 
 I:(6)
 *:_R_R_L118
 D:The next step in better typing is to learn to graph a curve.
  :If your test score each week rises from 22 to 28, 32, 37,
  :40, 44, 48, 51, 53, and 55 words a minute, put these on a
- :chart.  See this curve grow higher each week.  Or use bars.
+ :chart. See this curve grow higher each week. Or use bars.
 
 I:(7)
 *:_R_R_L119
-D:The usual test scores point to waste in many a class.  After
+D:The usual test scores point to waste in many a class. After
  :all the work of a first term, girls may reach only 25 words
- :a minute, boys only 22 words.  At the end of 34 weeks these
- :usual scores might be 29 or 31 or 34.  Indeed, 25 to 33 per
+ :a minute, boys only 22 words. At the end of 34 weeks these
+ :usual scores might be 29 or 31 or 34. Indeed, 25 to 33 per
  :cent of the students may type less than 20 words per minute.
 
 I:(8) Pointed Paragraph (n v)
 *:_R_R_L120
-S:     Eleven invitations for Thanksgiving vacation arrived in
- :advance of November.  In vain have a dozen relatives invited
- :me to visit Vermont, Virginia, and Nevada.  I love being
+S:    Eleven invitations for Thanksgiving vacation arrived in
+ :advance of November. In vain have a dozen relatives invited
+ :me to visit Vermont, Virginia, and Nevada. I love being
  :invited and I believe in never avoiding an invitation to any
- :Thanksgiving banquet.  I even plan to have the sixth to the
+ :Thanksgiving banquet. I even plan to have the sixth to the
  :seventeenth of November for varied ventures and to visit
  :that novel Denver University on my vacation.
 
 I:(9) Test Paragraph
 *:_R_R_L121
-S:     How much do you weigh?  A young boy who is 5 feet tall
- :may weigh 112 pounds; with an extra inch, 115 pounds.  Add 3
- :pounds for any inch added.  Thus if 5 feet and 4 inches, he
- :may weigh 124.  If taller, add 4 pounds for each added inch.
+S:    How much do you weigh? A young boy who is 5 feet tall
+ :may weigh 112 pounds; with an extra inch, 115 pounds. Add 3
+ :pounds for any inch added. Thus if 5 feet and 4 inches, he
+ :may weigh 124. If taller, add 4 pounds for each added inch.
  :If 5 feet and 7 inches, he may weigh 136; if 5 feet and 9
- :inches, 144; if 5 feet and 10 inches, he may weigh 148.  Now
- :add 5 pounds for each added inch.  Thus to stand 6 feet tall
- :may mean 158 pounds.  It is better to be a little over-weight.
+ :inches, 144; if 5 feet and 10 inches, he may weigh 148. Now
+ :add 5 pounds for each added inch. Thus to stand 6 feet tall
+ :may mean 158 pounds. It is better to be a little over-weight.
 
 I:(10) Rhythmic Review
 *:_R_R_L122
@@ -1450,7 +1450,7 @@ D:k9( d3# j8* f4$ j7& f5% f6^ j6^ l0) s2@ ;-_ ;[] ;`~ d3# ;/?
 
 I:(3) Continuous Copy
 *:_R_R_L126
-D:Send at once:  Form #93* @ $18.50 per dozen, 12% discount.
+D:Send at once: Form #93* @ $18.50 per dozen, 12% discount.
 
 I:(4)
 *:_R_R_L127
@@ -1461,7 +1461,7 @@ D:Sold to Smith & Sons, terms 1%, 10 days; 8 doz. 3" screws @
 I:(5)
 *:_R_R_L128
 D:Arrange to have A. C. Whitman & Co. deliver to our Seattle
- :office, Wednesday, October, 26:  30 reams white paper, #99,
+ :office, Wednesday, October, 26: 30 reams white paper, #99,
  :@ 75 cents, $22.50; 4 files, Style 6**, @ $9 each, $26.....$58.50.
 
 I:(6)
@@ -1477,8 +1477,8 @@ I:(7)
 *:_R_R_L130
 D:The common stock has paid from 8% to 27% cash before 1929.
  :Both the common and the "B" stocks have received 12% this
- :year, or $3 per share.  The class "B" stock has made a new
- :record, the range in price being 38.5 high and 32.25 low.  As
+ :year, or $3 per share. The class "B" stock has made a new
+ :record, the range in price being 38.5 high and 32.25 low. As
  :the market improves the common and "B" stocks may pay 15%.
 
 I:(8)
@@ -1532,7 +1532,7 @@ D:The Herald, the Daily News, and the Post reported the story.
 
 I:(4)
 *:_R_R_L137
-D:Read "National Affairs" in Time for December 6, 1940.  You
+D:Read "National Affairs" in Time for December 6, 1940. You
  :may think that Snappy Stories has more news than Time.
 
 I:(5)
@@ -1543,7 +1543,7 @@ D:He goes November 6, on Train #2 (North Coast), at 9:15 p.m.
 
 I:(6)
 *:_R_R_L139
-D:"Good morning," said the clerk.  "May I be of help to you?"
+D:"Good morning," said the clerk. "May I be of help to you?"
  :"Thank you," she replied, "but I must wait to see Mr. Burd."
  :"He will be in his office at 10:20," the clerk assured her.
  :"That will be fine," the clerk said, "I'll wait for him, too."
@@ -1558,22 +1558,22 @@ D:SOIL--Remove to depth of 9" under house and 5' on all sides.
 
 I:(8) Pointed Paragraph (a o)
 *:_R_R_L141
-S:     To attain a personal association with so popular an
- :author is an approved social ambition.  To loan him money or
- :catalog his books we consider a favor.  Today his tailor, later
- :with a coat, loads on him a thousand pardons.  A normal Mon-
+S:    To attain a personal association with so popular an
+ :author is an approved social ambition. To loan him money or
+ :catalog his books we consider a favor. Today his tailor, later
+ :with a coat, loads on him a thousand pardons. A normal Mon-
  :day program allows a lazy forenoon to ocean and boat; after-
  :noon to various auto roads in orange season; night to play
- :contract or follow the local opera.  As soon as he can account
+ :contract or follow the local opera. As soon as he can account
  :for another book, our author is anxious to go abroad.
 
 I:(9) Test Paragraph
 *:_R_R_L142
-S:     "Has #4-4 gone?" she asked, rushing in out of the cold.
- :     "No--why $4?" the station agent* answered (he had won-
- :dered why she was so worried).  But he wasn't to find out--
+S:    "Has #4-4 gone?" she asked, rushing in out of the cold.
+ :    "No--why $4?" the station agent* answered (he had won-
+ :dered why she was so worried). But he wasn't to find out--
  :for a white hand pushed back $15 and picked up an old copy
- :of Good Housekeeping from a seat.  She began to read.  When
+ :of Good Housekeeping from a seat. She began to read. When
  :he noted she had chosen "Winter Comfort" he was 100% amused.
  :------------------------------------------------------------
  :*Red Wild (heir to $750,000 at 5%, working on the B. & O.).
@@ -1680,11 +1680,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -1704,45 +1704,45 @@ B:                            Lesson T1
 T:			Welcome to lesson T1.
  :
  :In the T series of lessons, we will be learning to touch-type on the standard
- :keyboard.  I will introduce you to each letter on the keyboard, one at a time.
+ :keyboard. I will introduce you to each letter on the keyboard, one at a time.
  :By the time you have completed this series, you will be able to type the entire
  :alphabet, the numbers, and most of the punctuation keys by touch.
  :
- :If you have never taken any lessons in typing before, please be patient.  Typing
- :is not difficult but it does take a lot of practice.  Avoid the tendency to
- :look down at your fingers while typing.  This is a very bad habit and is hard
- :to break later.  If you hit the wrong key, I will let you know.  (But, I won't
+ :If you have never taken any lessons in typing before, please be patient. Typing
+ :is not difficult but it does take a lot of practice. Avoid the tendency to
+ :look down at your fingers while typing. This is a very bad habit and is hard
+ :to break later. If you hit the wrong key, I will let you know. (But, I won't
  :tell anyone else, so don't worry about it.)
  :
  :If you have always used the hunt-and-peck method, you will have an even harder
- :time keeping yourself from looking.  Don't be surprised if you find touch
- :typing slower than your old ways.  It may be slower when you first start.
+ :time keeping yourself from looking. Don't be surprised if you find touch
+ :typing slower than your old ways. It may be slower when you first start.
  :But, touch typing is far faster once you get the hang of it.
  :
  :If you can already touch type, you should be able to go through these lessons
- :fairly quickly.  Or, you may want to go directly to the S series.
+ :fairly quickly. Or, you may want to go directly to the S series.
 
 *:_T_R_L1
 T:
  :			The HOME Keys.
  :
  :In order to hit the correct keys by touch alone, you must always know where your
- :fingers are.  The way to do this is to have a special place for each finger.
+ :fingers are. The way to do this is to have a special place for each finger.
  :This key is called the HOME position.
  :
- :Place the first finger of your right hand on the J-key.  Now, place your second
+ :Place the first finger of your right hand on the J-key. Now, place your second
  :finger on the K-key, your third finger on the L-key, and your fourth-finger on
  :the ;-key (the one with the : and ; on it).
  :
  :Similarly place the four fingers of your left hand on the F, D, S, and A-keys.
- :Place your right thumb over the SPACE bar.  (Henceforth, always hit the SPACE
- :bar with this thumb.)  Now, lift all your fingers slightly so that they are
- :poised just over the keys.  Each finger should be just barely touching its home
- :key.  This is an electronic keyboard and does not take much pressure to ac-
+ :Place your right thumb over the SPACE bar. (Henceforth, always hit the SPACE
+ :bar with this thumb.) Now, lift all your fingers slightly so that they are
+ :poised just over the keys. Each finger should be just barely touching its home
+ :key. This is an electronic keyboard and does not take much pressure to ac-
  :cidentally press the key down.
  :
- :Learn these positions well.  Whenever you are about to type a line, look at your
- :fingers and make sure they are in the HOME position.  Then don't look at them
+ :Learn these positions well. Whenever you are about to type a line, look at your
+ :fingers and make sure they are in the HOME position. Then don't look at them
  :again.
 
 *:_T_R_L2
@@ -1753,20 +1753,20 @@ T:
  :screen and instructions at the top of the screen.
  :
  :All you have to do is type in the characters that you see in the middle of
- :the screen.  If you hit the correct key, I will not do anything.  If you make
+ :the screen. If you hit the correct key, I will not do anything. If you make
  :a mistake, I will display a large X under the letter that you got wrong and 
  :beep the terminal. In either event, just keep going by typing the next letter.
  :
- :When you have finished typing the line, hit the RETURN key.  To do this, extend
- :the little finger of your right hand over to the RETURN key.  Hit the key and
- :zip the finger back to its home position.  Be careful not to let your other
- :fingers move far from their home positions in the process.  Also, be careful
+ :When you have finished typing the line, hit the RETURN key. To do this, extend
+ :the little finger of your right hand over to the RETURN key. Hit the key and
+ :zip the finger back to its home position. Be careful not to let your other
+ :fingers move far from their home positions in the process. Also, be careful
  :not to type an extra space at the end of the line.
  :
- :If you made no mistakes on the line, I will display the next drill pattern.  If
- :you did make a mistake, I will beep at you and make you do the line again.  If
+ :If you made no mistakes on the line, I will display the next drill pattern. If
+ :you did make a mistake, I will beep at you and make you do the line again. If
  :on the second try you made more than two mistakes, I will beep again and make
- :you try again, etc.  Don't forget to use your right thumb for the SPACE bar.
+ :you try again, etc. Don't forget to use your right thumb for the SPACE bar.
 
 I:Hit the F-key four times with the first finger of your left hand.
 *:_T_R_L3
@@ -1809,7 +1809,7 @@ I:Use the fourth fingers for the A and ;-keys.
 *:_T_R_L12
 D:aaa ;;; aaa ;;; aa ;; aa ;; a ;
 
-I:That's enough keys for today.  Let's review them.
+I:That's enough keys for today. Let's review them.
 *:_T_R_L13
 D:fff jjj ddd kkk sss lll aaa ;;;
 
@@ -1852,11 +1852,11 @@ T:
  :and will add the letters E, G, and H and the period.
  :
  :When you reach for any of these keys, be sure to return your finger to its
- :home position.  For example, to hit the H-key, move the first finger of your
- :right hand (the J-finger) slightly to the left.  Tap the H-key and immediately
+ :home position. For example, to hit the H-key, move the first finger of your
+ :right hand (the J-finger) slightly to the left. Tap the H-key and immediately
  :bring your finger back over the J.
  :
- :If you lose track of where your fingers are guess.  Don't look!
+ :If you lose track of where your fingers are guess. Don't look!
 
 I:First let's review
 *:_T_R_L21
@@ -1964,15 +1964,15 @@ D:lll ... lll ... ll .. ll .. l .
 T:The next key we are going to practice is the right shift key.
  :
  :Whenever you want to capitalize a key on the left side, you must use the
- :right shift-key.  To do so, follow these steps:
+ :right shift-key. To do so, follow these steps:
  :
- :	a.)  Without moving your first finger from the J-key, swing the
- :	     fourth finger of your right hand over to the SHIFT-key and
- :	     hold it down.
+ :	a.) Without moving your first finger from the J-key, swing the
+ :	    fourth finger of your right hand over to the SHIFT-key and
+ :	    hold it down.
  :
- :	b.)  Strike the key that you want to type with your left hand.
+ :	b.) Strike the key that you want to type with your left hand.
  :
- :	c.)  Immediately bring your fourth finger back to the ;-key.
+ :	c.) Immediately bring your fourth finger back to the ;-key.
 
 I:Don't look at your fingers!
 *:_T_R_L44
@@ -2000,11 +2000,11 @@ D:She sells seashells.
 
 I:Always double space after a period.
 *:_T_R_L50
-D:A free red jade is fake.  Girls like silk.
+D:A free red jade is fake. Girls like silk.
 
 *:_T_R_L51
-D:She seeks a safe reef, if she sails.  A gale is rare.
- :Alf fed her egg salad.  Gail likes hash.
+D:She seeks a safe reef, if she sails. A gale is rare.
+ :Alf fed her egg salad. Gail likes hash.
 
 G:_T_E_T3
 
@@ -2042,11 +2042,11 @@ T:			The Left-Shift key.
  :
  :To capitalize letters on the right-side of the keyboard:
  :
- :	1.)  Move your A-finger to the LEFT-shift key and hold it down.
+ :	1.) Move your A-finger to the LEFT-shift key and hold it down.
  :
- :	2.)  Strike the key that you want to capitalize with your right hand.
+ :	2.) Strike the key that you want to capitalize with your right hand.
  :
- :	3.)  Immediately swing your A-finger back to its home position.
+ :	3.) Immediately swing your A-finger back to its home position.
 
 *:_T_R_L57
 D:aaa Pi aaa Lord aaa Jill aaa
@@ -2068,14 +2068,14 @@ D:;;; He? ;;; She? ;;; I? ;;;
 
 I:Let's try some sentences.
 *:_T_R_L62
-D:Dad fell off a ladder.  Is he safe?
+D:Dad fell off a ladder. Is he safe?
 
 I:Always double space after a question mark.
 *:_T_R_L63
-D:Is he here?  Sal said he fell hard.
+D:Is he here? Sal said he fell hard.
 
 *:_T_R_L64
-D:Did she see his fall?  Jake heard he is OK.
+D:Did she see his fall? Jake heard he is OK.
  :I hope people keep off high ladders.
 
 G:_T_E_T4
@@ -2123,22 +2123,22 @@ D:;;; ;:; ;;; ::: ;;; ;:; ;;;
 
 I:Always double space after a colon.
 *:_T_R_L74
-D:Dear Sirs:  Dear John:  Dear Alfred:
+D:Dear Sirs: Dear John: Dear Alfred:
 
 *:_T_R_L75
-D:Dear Dr. Stone:  To Heathkit:
+D:Dear Dr. Stone: To Heathkit:
 
 *:_T_R_L76
 T:			SPEED EXERCISES
  :
- :From now on, I will be mixing speed exercises in with the lessons.  In the
+ :From now on, I will be mixing speed exercises in with the lessons. In the
  :drills that you have been doing, I make you keep practicing a line until
- :you get it right.  In a speed exercise, I will only display the text once.
+ :you get it right. In a speed exercise, I will only display the text once.
  :
- :What will be different is that I will be timing you.  From the time you type
+ :What will be different is that I will be timing you. From the time you type
  :the first letter of the line until you hit the final carriage return, my
- :stopwatch will be running.  When you finish, I will calculate your typing speed
- :and convert it to words per minute (WPM).  I will also count each of the
+ :stopwatch will be running. When you finish, I will calculate your typing speed
+ :and convert it to words per minute (WPM). I will also count each of the
  :mistakes you make and display the total number of errors.
  :
  :If you make a mistake, I will beep at you and light up the letter that you
@@ -2157,14 +2157,14 @@ I:When you type a multi-line paragraph, you will have to hit the RETURN-key at
  :the end of each line.
 *:_T_R_L79
 S:All the sane people in this area sold their gold
- :right at the start.  The insane ones held their
+ :right at the start. The insane ones held their
  :gold and later it paid off.
 
 *:_T_R_L80
-S:One fine afternoon the king had an idea.  He
+S:One fine afternoon the king had an idea. He
  :sent a letter to all the lords and ladies of
- :his land.  He asked for a great feast.  His
- :people prepared roasts.  His jester did a jig.
+ :his land. He asked for a great feast. His
+ :people prepared roasts. His jester did a jig.
  :All the people left hoping to do it again.
 
 G:_T_E_T5
@@ -2189,7 +2189,7 @@ I:Use your F-finger for the B-key.
 *:_T_R_L83
 D:fff fbf fff bbb fff fbf fff
 
-I:The B-key is the longest reach we've seen so far.  Let's try it again.
+I:The B-key is the longest reach we've seen so far. Let's try it again.
 *:_T_R_L84
 D:fff fbf fff bbb fff fbf fff
 
@@ -2215,19 +2215,19 @@ D:;;; ;/; ;;; /// ;;; ;/; ;;;
 D:;/; n/a ;/; and/or ;/; left/right
  :In this era of E.R.A., I hope he/she likes his/her job.
  :He/she should bring his/her spouse at about noon or just before.
- :Should I be here alone?  Is Bernie and/or Julie going to be here, too?
+ :Should I be here alone? Is Bernie and/or Julie going to be here, too?
 
 I:Try your speed on some paragraphs:
 *:_T_R_L89
-S:All bills are to be paid in full.  If
+S:All bills are to be paid in full. If
  :there is no fee to be paid, return the
  :bill and put n/a in the total due part.
 
-I:You should be aiming for 15 WPM.  (If you did better, work on accuracy.)
+I:You should be aiming for 15 WPM. (If you did better, work on accuracy.)
 *:_T_R_L90
-S:In baseball, bunting is a kind of hit.  But, bunting also
+S:In baseball, bunting is a kind of hit. But, bunting also
  :refers to a kind of bird and the stuff that is used in
- :flags.  English sure is a strange language.
+ :flags. English sure is a strange language.
 
 G:_T_E_T6
 
@@ -2281,9 +2281,9 @@ D:Motion pictures often depict macabre scenes.
 
 *:_T_R_L101
 D:Once upon a time, marriages lasted longer than mortgages.
-I:There are three uses of the hyphen.  It can be used to combine two words:
+I:There are three uses of the hyphen. It can be used to combine two words:
 *:_T_R_L102
-D:She had on a bluish-green dress.  But, no one noticed.
+D:She had on a bluish-green dress. But, no one noticed.
 
 I:To divide a word:
 *:_T_R_L103
@@ -2297,16 +2297,16 @@ D:Fifteen dollars a month--measured in current dollars--is a good rate.
 I:Let's try a speed drill on these sentences:
 *:_T_R_L105
 S:The clock ran out, signaling the end of
- :the second-half.  The game had been lost.
+ :the second-half. The game had been lost.
 
 *:_T_R_L106
 S:The paper just made an announce-
  :ment about a commotion at the
- :college.  Someone has just
+ :college. Someone has just
  :produced a micro-organism in the
- :DNA-research lab.  It is a
+ :DNA-research lab. It is a
  :special kind of bacteria that
- :consumes crude oil.  The talk is
+ :consumes crude oil. The talk is
  :that it is being patented for use
  :on oil spills at sea.
 
@@ -2315,8 +2315,8 @@ I:Hit the return key twice for blank lines:
 S:Dear Mr. Mandrake:
  :
  :All of us appreciated the fine performance of those magic
- :tricks.  Please arrange to come to another of our meet-
- :ings, if possible.  Perhaps our Christmas meeting?
+ :tricks. Please arrange to come to another of our meet-
+ :ings, if possible. Perhaps our Christmas meeting?
  :
  :Thanks,
  :
@@ -2352,7 +2352,7 @@ D:sws who sws what sws when sws where sws
 
 *:_T_R_L113
 S:How much wood could a woodchuck chuck if a
- :woodchuck could chuck wood?  A woodchuck
+ :woodchuck could chuck wood? A woodchuck
  :would chuck all the wood that a woodchuck
  :could chuck, if a woodchuck could chuck wood.
 
@@ -2388,13 +2388,13 @@ D:driven vertical advent ventrical
 T:			THE BACKSPACE
  :
  :Most of the programs that you use will allow you to correct your mistakes by
- :using the BACKSPACE and/or DELETE keys.  These keys will generally delete the
- :previous character that you typed.  (This feature is one of the principal
+ :using the BACKSPACE and/or DELETE keys. These keys will generally delete the
+ :previous character that you typed. (This feature is one of the principal
  :advantages of a word-processing system over a conventional typewriter.)
  :
- :I refuse to accept either of these keys during a drill pattern.  (You should
- :keep practicing until you get it right!)  But, I will accept either a BACK-
- :SPACE or a DELETE during a speed drill.  (I will remove the white error
+ :I refuse to accept either of these keys during a drill pattern. (You should
+ :keep practicing until you get it right!) But, I will accept either a BACK-
+ :SPACE or a DELETE during a speed drill. (I will remove the white error
  :markers but I still count it as an error in my totals.)
  :
  :If you do chose to use the DELETE or BACKSPACE keys, hit the key with your
@@ -2541,9 +2541,9 @@ D:l;l l:l k,k l.l ;/; ;?; :?: ;-;
 T:
  :			NUMERIC KEYS
  :
- :The terminal has two sets of numeric keys.  One set--directly above the
- :alphabetic keys--conforms to the standard for typewriter keyboards.  The other
- :set--to your right--resembles a calculator keypad.  In this typing series we
+ :The terminal has two sets of numeric keys. One set--directly above the
+ :alphabetic keys--conforms to the standard for typewriter keyboards. The other
+ :set--to your right--resembles a calculator keypad. In this typing series we
  :will be concerned only with the standard numeric keys on the main keyboard.
  :(If you would like to learn to touch type on a numeric keypad, use the N-series
  :lessons instead.)
@@ -2551,15 +2551,15 @@ T:
  :NOTE - not all terminals have the numeric keys in a separate keypad
  :
  :The numeric keys, like all the keys you will be learning from now on, vary
- :somewhat from machine to machine.  The 2 through 0 keys are always in exactly
- :the same place on all typewriter keyboards.  (On keypunch machines and some
+ :somewhat from machine to machine. The 2 through 0 keys are always in exactly
+ :the same place on all typewriter keyboards. (On keypunch machines and some
  :terminals, however, they are located over the U, I, O, J, K, L, M, comma and
- :period keys.  We will not be concerned with these layouts in this series.)
+ :period keys. We will not be concerned with these layouts in this series.)
  :Even if a typewriter or terminal has the standard 2 through 0 keys, it may not
- :have a 1 key.  If it does, the 1 will always be next to the 2.  If it does not,
+ :have a 1 key. If it does, the 1 will always be next to the 2. If it does not,
  :you will have to use the L-key.
 
-I:Let's start by using the 1-key, since we have one.  (Use your A-finger.)
+I:Let's start by using the 1-key, since we have one. (Use your A-finger.)
 *:_T_R_L147
 D:aaa a1a aaa 111 aaa a1a
 
@@ -2585,9 +2585,9 @@ D:ddd d3d ddd d3d ddd d3d ddd
 *:_T_R_L151
 D:ddd d3e ddd d3c ddd e3c ddd
  :333 did 333 cat 333 eat 333
- :1 plus 2 is 3.  11 plus 22 is 33.  111 plus 222 is 333.
+ :1 plus 2 is 3. 11 plus 22 is 33. 111 plus 222 is 333.
 
-I:The last number we will practice today is the 4-key.  (Use your F-finger.)
+I:The last number we will practice today is the 4-key. (Use your F-finger.)
 *:_T_R_L152
 D:fff f4f fff f4f fff f4f
 
@@ -2602,13 +2602,13 @@ I:Try your speed on this line:
 *:_T_R_L154
 S:Our team won 1st, 2nd, and 3rd place at the 12th annual outing.
 
-I:As we stated earlier, many typewriters do not have a 1 key.  Let's practice
+I:As we stated earlier, many typewriters do not have a 1 key. Let's practice
  :using the L-key as a 1, so you can use any kind of typewriter.
 *:_T_R_L155
-D:One dozen is l2.  A gross is l2 dozen or l44.
+D:One dozen is l2. A gross is l2 dozen or l44.
 
 *:_T_R_L156
-D:In both octal and decimal, ll times ll is l2l.  And, 3 minus 4 is -l.
+D:In both octal and decimal, ll times ll is l2l. And, 3 minus 4 is -l.
  :But in octal, l2 is not divisible by 3.
 
 G:_T_E_T10
@@ -2635,7 +2635,7 @@ D:jjj j7j jjj j7j jjj j7j jjj
 D:jjj j7u jjj 7um jjj u7m jjj
  :777 map 777 jug 777 rum 777
  :Is flight number 377 for Florida a 707, a 727 or a 747?
- :It is a 727 with 4 stops.  With all those stops it takes almost 7 hours.
+ :It is a 727 with 4 stops. With all those stops it takes almost 7 hours.
 
 I:Use your K-finger for the 8-key.
 *:_T_R_L161
@@ -2644,8 +2644,8 @@ D:kkk k8k kkk k8k kkk k8k kkk
 *:_T_R_L162
 D:kkk k8i kkk 8,i kkk ,i8 kkk
  :888 kick 888 sink 888 keep 888
- :Agent 88 was supposed to check in at 8:14.  She is 38 minutes late.
- :Her team was assigned to zone 8 of quadrant 828.  Send 8 more agents.
+ :Agent 88 was supposed to check in at 8:14. She is 38 minutes late.
+ :Her team was assigned to zone 8 of quadrant 828. Send 8 more agents.
 
 I:Use your L-finger for the 9-key.
 *:_T_R_L163
@@ -2664,29 +2664,29 @@ D:;;; ;0; ;;; ;0; ;;; ;0; ;;;
 *:_T_R_L166
 D:;;; ;0p ;;; /0p ;;; 0/p ;;;
  :000 a/c 000 pup 000 me? 000
- :Dear Sirs:  The 10:00 meeting on March 10 has been postponed until 10:30.
+ :Dear Sirs: The 10:00 meeting on March 10 has been postponed until 10:30.
  :The 10:30 meeting was moved to 11:00 in Room 302.
- :But, Room 302 can only hold 10 people.  We will need Conference Room 10.
+ :But, Room 302 can only hold 10 people. We will need Conference Room 10.
 
 I:Let's try some paragraphs.
 *:_T_R_L167
 S:Zip codes are arranged so that the first 3 digits
  :designate the regional office and the last 2
- :digits designate the local branch.  The numbering
- :is roughly east to west.  That is, numbers
+ :digits designate the local branch. The numbering
+ :is roughly east to west. That is, numbers
  :starting with 0 are in New England, numbers
  :starting with 1 are the New York area, etc.
  :There are notable exceptions to this rule,
- :however.  The Virgin Islands are south of
+ :however. The Virgin Islands are south of
  :Florida, but their Zip Codes start with 00.
 
 *:_T_R_L168
 S:The new nine digit zip codes have upset quite a
- :few people.  It was bad enough being referred to
- :as 73218.  But now, we will have to remember
- :numbers like 73218-4208.  The worst hit will be
+ :few people. It was bad enough being referred to
+ :as 73218. But now, we will have to remember
+ :numbers like 73218-4208. The worst hit will be
  :the companies whose mailing list programs were
- :poorly designed.  Those unstructured programs
+ :poorly designed. Those unstructured programs
  :will be very difficult to change.
 
 G:_T_E_T11
@@ -2717,7 +2717,7 @@ D:f5f f54 f5f t5g f5f t5r f5f
 *:_T_R_L173
 S:The 5 of us each carried 50 pound packs all 45 miles of the trip.
 
-I:And now, the longest reach of all!  Use your J-finger for the 6-key.
+I:And now, the longest reach of all! Use your J-finger for the 6-key.
 *:_T_R_L174
 D:jjj j6j jjj 666 jjj j6j jjj
 
@@ -2726,7 +2726,7 @@ D:j6j June j6j much j6j hum j6j
  :j6j y6n j6j u6m j6j h76 j6j
  :j6j 4567 j6j 7654 j6j 6754 j6j
 
-I:The open parenthesis is the shift of the 9-key.  (Use your L-finger).
+I:The open parenthesis is the shift of the 9-key. (Use your L-finger).
 *:_T_R_L176
 
 *:_T_R_L177
@@ -2735,7 +2735,7 @@ D:l(l (.l l(l 9(9 l(l
 *:_T_R_L178
 D:l(l loop l(l oil l(l only l(l
 
-I:The close parenthesis is the shift of the 0-key.  (Use your ;-finger).
+I:The close parenthesis is the shift of the 0-key. (Use your ;-finger).
 *:_T_R_L179
 D:;;; ;); ;;; ;); ;;; ;);
 
@@ -2762,10 +2762,10 @@ S:1 little, 2 little, 3 little Indians,
 *:_T_R_L185
 S:If we want to catch the 6:15 flight to Phoenix (which is the
  :non-stop), we will have to leave by 5:00 at the latest (in
- :case we run into traffic).  Otherwise, we will have to take
+ :case we run into traffic). Otherwise, we will have to take
  :the 6:45 flight (which makes 5 stops).
 
-I:Use the main keyboard keys.  Don't cheat and use the auxilliary keypad!
+I:Use the main keyboard keys. Don't cheat and use the auxilliary keypad!
  :Try entering straight numbers: 
 *:_T_R_L186
 D:423 475 925 235 295 175 650
@@ -2801,14 +2801,14 @@ B:                            Lesson T13
 
 *:_T_R_L191
 T:
- :There is no Lesson 13!  Don't you know that 13 is an unlucky number?
+ :There is no Lesson 13! Don't you know that 13 is an unlucky number?
  :
  :If you have completed Lessons T1 through T12, then you are now ready
- :to call yourself a touch typist.  You have learned to touch type all
- :of the keys which are standardized!  You can now begin the SPEED
- :series of lessons if you would like.  (If you come across a punctua-
- :tion symbol which you have not learned, simply look for it.  Use the
- :appropriate finger for the shifted numeric keys.  Use your ;-finger
+ :to call yourself a touch typist. You have learned to touch type all
+ :of the keys which are standardized! You can now begin the SPEED
+ :series of lessons if you would like. (If you come across a punctua-
+ :tion symbol which you have not learned, simply look for it. Use the
+ :appropriate finger for the shifted numeric keys. Use your ;-finger
  :for all the keys on the right-hand side.)
  :
  :We will practice touch typing on the keyboard layout for the remaining
@@ -2832,8 +2832,8 @@ D:;'; it's ;'; 'till ;'; won't ;';
 
 *:_T_R_L194
 D:;'; 'tis ;'; isn't ;'; 'tis too ;';
- :What's this I've got?  Isn't this yesterday's paper?  Where's today's?
- :Can't you find anything?  It's right next to Dad's chair.
+ :What's this I've got? Isn't this yesterday's paper? Where's today's?
+ :Can't you find anything? It's right next to Dad's chair.
 
 I:Shift the apostrophe for the quote key.
 *:_T_R_L195
@@ -2854,10 +2854,10 @@ D:a!a Ah! a!a What! a!a Oh! a!a
 
 I:Always double space after an exclamation point.
 *:_T_R_L199
-D:Tomorrow's quiz!  What if we get caught?  We'll be expelled!
+D:Tomorrow's quiz! What if we get caught? We'll be expelled!
 
 *:_T_R_L200
-D:He'll never suspect a thing!  We'll get some answers wrong to fool him.
+D:He'll never suspect a thing! We'll get some answers wrong to fool him.
 
 G:_T_E_T14
 
@@ -2872,8 +2872,8 @@ B:                            Lesson T15
 T:
  :
  :In this lesson we will be practicing the special symbols which you will need
- :for BASIC or other programming languages.  I won't give you too much practice
- :with these symbols right now.  (You should be able to get plenty of exercise by
+ :for BASIC or other programming languages. I won't give you too much practice
+ :with these symbols right now. (You should be able to get plenty of exercise by
  :simply typing in programs.)
 
 I:Use your ;-finger for the equals key.
@@ -2956,9 +2956,9 @@ S:100 REM PROGRAM TO SOLVE QUADRATIC EQUATION
  :275 PRINT "ONE ROOT IS: ";-B+SQR(D)/2/A
  :300 PRINT "THE OTHER IS: ";-B-SQR(D)/2/A
  :325 STOP
- :400 PRINT "NOT A QUADRATIC.  TRY AGAIN."
+ :400 PRINT "NOT A QUADRATIC. TRY AGAIN."
  :425 GOTO 100
- :500 PRINT "COMPLEX ROOTS.  TRY AGAIN."
+ :500 PRINT "COMPLEX ROOTS. TRY AGAIN."
  :525 GOTO 125
 
 G:_T_E_T15
@@ -2973,14 +2973,14 @@ B:                            Lesson T16
 *:_T_R_L217
 T:
  :In this lesson we will be practicing the shifted numeric keys on the
- :terminal keyboard.  I will only be giving you practice in the keystroke
- :motions.  Very few sentence drills or speed exercises are included, since these
+ :terminal keyboard. I will only be giving you practice in the keystroke
+ :motions. Very few sentence drills or speed exercises are included, since these
  :keys are used so infrequently.
  :
  :If you are typing something which includes one of these special characters and
- :you cannot remember where a key is, look.  But, always make sure to hit the key
- :with the correct finger.  (If you do use the key often, you will eventually
- :learn where it is without looking.)  Since these keys are used infrequently and
+ :you cannot remember where a key is, look. But, always make sure to hit the key
+ :with the correct finger. (If you do use the key often, you will eventually
+ :learn where it is without looking.) Since these keys are used infrequently and
  :are in different places on most other keyboards or are totally missing, speed
  :is not important.
 
@@ -3007,7 +3007,7 @@ D:fff f$f fff f$f fff f$f fff
 *:_T_R_L223
 D:f$f r$v f$f v$4 f$f 4$r f$f
  :f$f rave f$f fare f$f $10.00 f$f
- :Joe keeps cryptic inventory bills like:  4# @ $5.00/# or 6# @ $4.50/#.
+ :Joe keeps cryptic inventory bills like: 4# @ $5.00/# or 6# @ $4.50/#.
 
 I:Use your F-finger for the percent sign as well.
 *:_T_R_L224
@@ -3017,7 +3017,7 @@ D:fff f%f fff f%f fff f%f fff
 D:f%f 12% f%f 10% f%f 20% f%f
  :f%f two f%f ran f%f bug f%f
  :If a $25.00 item is sold at a 10% discount, it will cost $22.50.
- :But, a 10% markup on a item selling for $22.50 is only $24.75!  How come?
+ :But, a 10% markup on a item selling for $22.50 is only $24.75! How come?
 
 I:Use your J-finger for the ampersand.
 *:_T_R_L226
@@ -3032,19 +3032,19 @@ D:j&j you&me j&j he&she j&j M&M j&j
 *:_T_R_L229
 T:				THE END
  :
- :You have now completed the T-series of these lessons.  If you have not already
+ :You have now completed the T-series of these lessons. If you have not already
  :done so, you should now start the N-series or S-series.
  :
- :There are a few keys which we have not studied.  If you decide to touch-type
- :these keys, use the closest finger.  Thus, the ESC, TAB, CAPS LOCK, and SCROLL
- :keys use the A-finger.  And, the keys to the far right (BACKSPACE, DELETE, LINE
- :FEED, RETURN, }, {, etc.) use the ;-finger.  The upper keys (f1, f2, etc.) are
- :not usually touch typed as the reach is too far.  If you can, fine.
+ :There are a few keys which we have not studied. If you decide to touch-type
+ :these keys, use the closest finger. Thus, the ESC, TAB, CAPS LOCK, and SCROLL
+ :keys use the A-finger. And, the keys to the far right (BACKSPACE, DELETE, LINE
+ :FEED, RETURN, }, {, etc.) use the ;-finger. The upper keys (f1, f2, etc.) are
+ :not usually touch typed as the reach is too far. If you can, fine.
  :
  :The CONTROL and REPEAT keys are difficult to touch type, but are treated like
- :the SHIFT keys whenever possible.  For example, to REPEAT an exclamation point,
+ :the SHIFT keys whenever possible. For example, to REPEAT an exclamation point,
  :hold the REPEAT key down with your ;-finger and then hit the ! with your A-
- :finger.  Certain command sequences, such as Control/S, are hard to do this way.
+ :finger. Certain command sequences, such as Control/S, are hard to do this way.
  :Many people simply hold the CONTROL-key down with their A-finger and then hit
  :the other key with whatever finger is convenient (usually the F-finger in this
  :case).
@@ -3157,11 +3157,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -3532,8 +3532,8 @@ D:It is GOOD WORK; It is GOOD WORK; It is GOOD WORK;
 I:(3)
 *:_V_R_L45
 D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
- :The TITLE of the REPORT is:  HOUSES FOR SALE
- :The TITLE of the REPORT is:  HOUSES FOR SALE
+ :The TITLE of the REPORT is: HOUSES FOR SALE
+ :The TITLE of the REPORT is: HOUSES FOR SALE
  :
  :aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
  :We quote LOW FIGURES for HIGHEST QUALITY paper;
@@ -3542,12 +3542,12 @@ D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 I:(4)
 *:_V_R_L46
 D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
- :The PARK POSTER reads:  KEEP OFF THE GRASS
- :The PARK POSTER reads:  KEEP OFF THE GRASS
+ :The PARK POSTER reads: KEEP OFF THE GRASS
+ :The PARK POSTER reads: KEEP OFF THE GRASS
  :
  :aqa ;p; sws lol ded kik frf juj ftf jyj fgf jhj
- :Paul quoted the old adage:  THE THRIFTY ARE WISE
- :Paul quoted the old adage:  THE THRIFTY ARE WISE
+ :Paul quoted the old adage: THE THRIFTY ARE WISE
+ :Paul quoted the old adage: THE THRIFTY ARE WISE
 
 *:_V_R_L46A
 #
@@ -3593,24 +3593,24 @@ D:frf juj ftf jyj fgf jhj ded kik sws lol aqa ;p;
 I:(2) The Period
 *:_V_R_L50
 D:. . . . . . l.l l.l l.l l.l l.l l.l l.l l.l l.l
- :Hit it lightly.  Hit it lightly.  Hit it lightly.
- :Hit it lightly.  Hit it lightly.  Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
 
 I:(3)
 *:_V_R_L51
-S:Strike all the keys with pep.  Strike the keys
- :as though they were red hot.  This is just how the
+S:Strike all the keys with pep. Strike the keys
+ :as though they were red hot. This is just how the
  :fast typist works.
  :
- :Type with thought.  Put forth your greatest efforts.
+ :Type with thought. Put forth your greatest efforts.
  :Let these two ideas guide you while you type.
  :
  :You should follow the daily drills as you are told.
  :These drills will show you that it is quite easy
  :to type well.
  :
- :Start your daily work without delay.  Keep at it
- :regularly.  It is steady work that will take you
+ :Start your daily work without delay. Keep at it
+ :regularly. It is steady work that will take you
  :to your goal.
 
 I:(4) Keyboard Review
@@ -3668,16 +3668,16 @@ D:over over over; gave gave gave; have have have;
 I:(4) Paragraph Practice
 *:_V_R_L58
 S:You will surely make good if you give more time to
- :your daily work here.  You must make ever effort
+ :your daily work here. You must make ever effort
  :to make good.
  :
  :You will improve your skill every day if you
- :devote some thought to your work.  You will surely
- :progress if you keep at your work regularly.  Just
+ :devote some thought to your work. You will surely
+ :progress if you keep at your work regularly. Just
  :have faith.
  :
- :Skillful typists make very good salaries.  All
- :types of firms require them.  So try your utmost to
+ :Skillful typists make very good salaries. All
+ :types of firms require them. So try your utmost to
  :develop your skill.
 
 I:(5) Exercises on G, H, T, and Y
@@ -3735,22 +3735,22 @@ D:bun bun bun; nip nip nip; fib fib fib; win win win;
  :mend mend mend; vine vine vine; blow blow blow;
  :
  :We require more time to turn out a very good job.
- :Be prompt.  Never shirk.  Make promptness a habit.
+ :Be prompt. Never shirk. Make promptness a habit.
 
 I:(5) Practice Paragraph
 *:_V_R_L65
 S:Never put off until tomorrow any job you should
- :finish today.  Try to be prompt at all times.  No one
+ :finish today. Try to be prompt at all times. No one
  :likes to be kept waiting.
  :
  :Keep on working just as diligently as you have
- :been doing up to this point.  You will soon be a
- :master of the keyboard.  You will have a valuable
+ :been doing up to this point. You will soon be a
+ :master of the keyboard. You will have a valuable
  :skill that will repay you for your efforts.
  :
- :Remember this:  every boy and girl is able to
- :learn typing.  All they have to do is to put forth
- :their very best efforts.  This means thinking while
+ :Remember this: every boy and girl is able to
+ :learn typing. All they have to do is to put forth
+ :their very best efforts. This means thinking while
  :training every finger to strike the right key.
 
 I:(6) Words with D, E, K, and I
@@ -3815,17 +3815,17 @@ D:If you call before five, the bank will cash your check.
 
 I:(6)
 *:_V_R_L74
-S:Space once after a comma.  Space once after a
- :semicolon.  Space twice after a period that ends a
- :sentence.  Strike each key with the same force.
+S:Space once after a comma. Space once after a
+ :semicolon. Space twice after a period that ends a
+ :sentence. Strike each key with the same force.
  :
  :The tabulator is a device which helps you to type faster.
  :It enables you to skip across the page to any point you
  :desire.
  :
  :First, set a tab stop at the point to which you
- :wish the carriage to jump.  Second, move the carriage
- :back to the left margin.  Third, hold the tabulator
+ :wish the carriage to jump. Second, move the carriage
+ :back to the left margin. Third, hold the tabulator
  :bar or the tabulator key down until the carriage has
  :stopped.
 
@@ -3871,8 +3871,8 @@ D:touch...learn...above...typing...talent...
 
 I:(3) Timed Drill:
 *:_V_R_L80
-S:Touch typing is easy to learn.  You do not need
- :a mind that is above the average.  You do not
+S:Touch typing is easy to learn. You do not need
+ :a mind that is above the average. You do not
  :even need a special talent for typing.
 
 I:(4) New Key Tryout
@@ -3899,11 +3899,11 @@ D:fixes fixes fixes; mixes mixes mixes; taxes taxes;
 I:(7) Practice Paragraph
 *:_V_R_L84
 S:Mr. Roxbury and Mr. Saxton will examine the six
- :boxes of wax with extreme care.  These boxes were
+ :boxes of wax with extreme care. These boxes were
  :returned by Prof. Maxton of Knoxville College.
  :
  :The Government tax experts were exceedingly
- :careful in examining the current tax receipts.  The
+ :careful in examining the current tax receipts. The
  :amount showed an excess of six million dollars over
  :the previous year.
  :
@@ -3949,11 +3949,11 @@ D:touch...learn...above...typing...talent...average
 
 I:(3)
 *:_V_R_L89
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even
  :need a special talent for typing.
  :
- :All you need is the will to learn.  The lessons in
+ :All you need is the will to learn. The lessons in
  :this book do the rest of the job for you; they
  :make touch typing easy for you to learn.
 
@@ -3985,15 +3985,15 @@ S:The slant is controlled by the semicolon finger.
  :NO CHARGE; and c/o, which means CARE OF.
  :
  :If you work with zeal and zest, you will soon be a
- :competent typist.  The ability to type well is a
+ :competent typist. The ability to type well is a
  :very valuable asset.
  :
  :You can develop your typing skill quickly by the proper
- :habits of work.  You should realize that poor work is a
- :mere waste of time.  Try to be exact.
+ :habits of work. You should realize that poor work is a
+ :mere waste of time. Try to be exact.
  :
  :Every business firm is dependent on the services of
- :competent typists.  You are now equipping yourself with
+ :competent typists. You are now equipping yourself with
  :a skill for which there is a constant demand.
 
 I:(8)
@@ -4042,11 +4042,11 @@ D:touch...learn...above...aside...typing
 
 I:(3)
 *:_V_R_L99
-S:Touch typing is easy to learn.  You do not need a mind
- :that is above the average.  You do not even need a
+S:Touch typing is easy to learn. You do not need a mind
+ :that is above the average. You do not even need a
  :special talent for typing.
  :
- :All you need is the will to learn.  The lessons in this
+ :All you need is the will to learn. The lessons in this
  :book do the rest of the job for you; they make touch
  :typing easy for you to learn.
  :
@@ -4055,44 +4055,44 @@ S:Touch typing is easy to learn.  You do not need a mind
 
 I:(4) New Key Tryout
 *:_V_R_L100
-D:? ? ? ? ? ? Who?  Who?  Who?  Who?  Who?  Who?
- :? ? ? ? ? ? Why?  Why?  Why?  Why?  Why?  Why?
+D:? ? ? ? ? ? Who? Who? Who? Who? Who? Who?
+ :? ? ? ? ? ? Why? Why? Why? Why? Why? Why?
 
 I:(5)
 *:_V_R_L101
-D:How much?  How many?  How soon?  How early?  How fast?
- :How many?  How much?  How fast?  How large?  How soon?
+D:How much? How many? How soon? How early? How fast?
+ :How many? How much? How fast? How large? How soon?
  :
- :Where is Max?  Where is Mary?  What is Cora sewing?
- :Where is Sam?  Where is Paul?  What is Zeke fixing?
+ :Where is Max? Where is Mary? What is Cora sewing?
+ :Where is Sam? Where is Paul? What is Zeke fixing?
  :
- :Can Max swim?  Can he dance?  Can he play tennis?
- :Can he dance?  Deos he swim?  Do you like tennis?
+ :Can Max swim? Can he dance? Can he play tennis?
+ :Can he dance? Deos he swim? Do you like tennis?
 
 I:(6)
 *:_V_R_L102
-D:Did you open the mail?  Did you read the note?
- :Did you read the note?  Did you open the mail?
+D:Did you open the mail? Did you read the note?
+ :Did you read the note? Did you open the mail?
  :
- :Can Van do the work?  Will he require aid?  Who knows?
- :Can Jim complete it?  Is he quite capable?  Who knows?
+ :Can Van do the work? Will he require aid? Who knows?
+ :Can Jim complete it? Is he quite capable? Who knows?
 
 I:(7) Practice Paragraph
 *:_V_R_L103
 S:Do you set aside a definite amount of time each
- :day for practice?  Do you start work promptly?  Can
+ :day for practice? Do you start work promptly? Can
  :you make the various machine adjustments quickly?
  :
- :Do you keep your fingers curved?  Do you strike each key
- :sharply with the tip of the finger?  Do you keep your eyes
+ :Do you keep your fingers curved? Do you strike each key
+ :sharply with the tip of the finger? Do you keep your eyes
  :on the copy?
  :
- :Do you throw the carriage without looking up?  Do you keep
+ :Do you throw the carriage without looking up? Do you keep
  :your right hand on the home keys when you throw the carriage?
  :Do you use the paper release to remove your paper?
  :
- :Do you practice the words in which you made errors?  Do you
- :practice them as explained in this book?  Do you follow the
+ :Do you practice the words in which you made errors? Do you
+ :practice them as explained in this book? Do you follow the
  :instructions exactly as given?
 
 I:(8)
@@ -4132,23 +4132,23 @@ D:touch...learn...above...aside...typing
 
 I:(3)
 *:_V_R_L108
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even need
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even need
  :a special talent for typing.
 
 I:(4)
 *:_V_R_L109
-S:Touch typing is easy to learn.  You do not need a
- :mind that is above the average.  You do not even need
+S:Touch typing is easy to learn. You do not need a
+ :mind that is above the average. You do not even need
  :a special talent for typing.
  :
- :All you need is the will to learn.  The lessons in this
+ :All you need is the will to learn. The lessons in this
  :book do the rest of the job for you; they make touch
  :typing easy for you to learn.
  :
  :Try to set aside each day a definite amount of time for
- :each lesson.  Follow each step in the lesson exactly as
- :given.  You will be surprised how easily and quickly
+ :each lesson. Follow each step in the lesson exactly as
+ :given. You will be surprised how easily and quickly
  :you will become a touch typist.
 
 I:(5) 4 and 7
@@ -4187,23 +4187,23 @@ S:Henry Clay, American statesman and orator, was
  :of the American warship, THE RANGER.
  :
  :In April 1777, Lafayette landed at night on the
- :shore of South Carolina to help the colonies.  In
+ :shore of South Carolina to help the colonies. In
  :July 1777, Congress made Lafayette a general.
  :
  :June 14 is now observed as Flag Day because the
- :flag was adopted by Congress on June 14, 1777.  The
+ :flag was adopted by Congress on June 14, 1777. The
  :house where Betsy Ross, designer of the flag, lived
  :is now preserved as a shrine.
 
 I:(9)
 *:_V_R_L114
-S:Do not erase.  Do not cross out.  Do not strike
- :one letter over another.  Let your errors stand.
+S:Do not erase. Do not cross out. Do not strike
+ :one letter over another. Let your errors stand.
  :Finish every line you start.
  :
  :You correct your typing errors by practicing the
- :words in which you made errors.  You have been doing
- :this in the previous lessons.  Keep right on doing so.
+ :words in which you made errors. You have been doing
+ :this in the previous lessons. Keep right on doing so.
  :That is the best practice for training your fingers
  :to strike the right keys.
  :
@@ -4247,11 +4247,11 @@ S:On June 15, 1775, George Washington was elected
  :
  :The Declaration of Independence, a famous state
  :paper, was issued by the American Continental Congress
- :on July 4w 1776.  It was drawn up by Thomas Jefferson.
+ :on July 4w 1776. It was drawn up by Thomas Jefferson.
  :
  :The invasion fleet consisted of 4 battleships, 15 light
  :cruisers, 6 aircraft carriers, 17 troopships, six submarines,
- :and 2 Dr. Strangeloves.  Air protection consisted of 14
+ :and 2 Dr. Strangeloves. Air protection consisted of 14
  :bombers, 175 fighters, 6 helicopters, and 75 paratroop planes.
 
 G:_V_E_V15
@@ -4282,21 +4282,21 @@ D:never...typing...office...become...getting...
 
 I:(3)
 *:_V_R_L122
-S:Typing is a very valuable skill to acquire.  It is
+S:Typing is a very valuable skill to acquire. It is
  :valuable for personal use and as a means of getting
  :an office job.
 
 I:(4)
 *:_V_R_L123
-S:Typing is a very valuable skill to acquire.  It is
+S:Typing is a very valuable skill to acquire. It is
  :valuable for personal use and as a means of getting
- :an office job.  This skill is yours to use; it can
+ :an office job. This skill is yours to use; it can
  :never be taken from you.
  :
  :So why not put forth your best efforts to become a
- :good typist?  You can become a good typist if you
- :put your mind to it.  You should also, if possible,
- :learn shorthand.  Typing and shorthand are two very
+ :good typist? You can become a good typist if you
+ :put your mind to it. You should also, if possible,
+ :learn shorthand. Typing and shorthand are two very
  :valuable skills to have.
  :
  :These two skills will help you get a good start
@@ -4313,8 +4313,8 @@ D:d3d k8k d3d k8k d3d k8k d3d k8k d3d k8k d3d k8k
 I:(6)
 *:_V_R_L125
 D:d3d k8k d3d k8k d3d k8k d3d k8k 318 813 138 813 381
- :13 lbs.  lamb roast; 38 lbs. lamb chops; 8 lbs. bananas;
- :31 lbs.  lamb chops; 83 lbs. lamb roast; 3 lbs. peaches;
+ :13 lbs. lamb roast; 38 lbs. lamb chops; 8 lbs. bananas;
+ :31 lbs. lamb chops; 83 lbs. lamb roast; 3 lbs. peaches;
  :
  :lie 3 dye 3 pie 3 dye 3 Fiji 8 Fiji 8 Fiji 8
  :18 cans grape juice; 138 cans prune juice; 4 lbs. coffee;
@@ -4333,19 +4333,19 @@ D:d3d k8k d3d k8k d3d k8k 183 381 813 318 138 381
 I:(8) Practice Paragraph
 *:_V_R_L127
 S:John Jacob Astor was born in 1763 and died in
- :1848.  He came to America from England in 1784 and
- :set up a prosperous fur trade.  In 1811 he founded
+ :1848. He came to America from England in 1784 and
+ :set up a prosperous fur trade. In 1811 he founded
  :the settlement of Astoria near the mouth of the
  :Columbia River.
  :
  :Alexander Graham Bell was born in Scotland on
- :March 3, 1847.  He invented the telephone in 1876.
+ :March 3, 1847. He invented the telephone in 1876.
  :The Bell Telephone Company was organized in 1877.
  :Mr. Bell also invented the gramophone in 1887.
  :
  :John Quincy Adams, sixth President of the
  :United States, was born in Massachusetts on July 11,
- :1767.  In 1817 he was appointed Secretary of State.
+ :1767. In 1817 he was appointed Secretary of State.
  :He died in 1848.
  :
  :Oliver Wendell Holmes, American jurist, was born
@@ -4385,23 +4385,23 @@ D:strike...center...finger...spring...though...
 I:(3)
 *:_V_R_L131
 S:Strike each key sharply with the fingertip and squarely
- :in the center.  Strike the key quickly, letting the
+ :in the center. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 I:(4)
 *:_V_R_L132
 S:Strike each key sharply with the fingertip and squarely
- :in the center.  Strike the key quickly, letting the
+ :in the center. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 *:_V_R_L133
 S:
  :To type fast, it is just as important to release the
- :key quickly as it is to strike it quickly.  Expert
+ :key quickly as it is to strike it quickly. Expert
  :typists do this; you too, can do it, with practice.
  :
  :One good way to develop this technique is to practice
- :familiar words and phrases.  Type them over and over
+ :familiar words and phrases. Type them over and over
  :again until you get the knack of hitting the keys quickly
  :and releasing the fingers instantly.
 
@@ -4436,20 +4436,20 @@ D:s2s l9l s2s l9l 219 921 192 s2s l9l s2s 191 291 129
 I:(8)
 *:_V_R_L137
 S:Christopher Latham Sholes was the inventor of the first practical
- :typewriter.  He was born in Columbia County, Pennsylvania,
+ :typewriter. He was born in Columbia County, Pennsylvania,
  :February 14, 1819.
  :
  :James Monroe, fifth President of The United States, was born on
- :April 28, 1758.  In 1782 he entered politics.  In 1799 he was appointed
- :Governor of Virginia.  In 1811 he became Secretary of State; in 1814,
+ :April 28, 1758. In 1782 he entered politics. In 1799 he was appointed
+ :Governor of Virginia. In 1811 he became Secretary of State; in 1814,
  :Secretary of War; in 1816, President of The United States.
  :
  :On September 1, 1939, Germany launched undeclared war on Poland.
- :On September 3, 1939, Great Britain declared war on Germany.  On
+ :On September 3, 1939, Great Britain declared war on Germany. On
  :December 8, 1941, The United States declared war against the Axis.
  :
  :Samuel F. B. Morse, inventor and artist, was born in 1791 and died in
- :1872.  In 1829 he went to Europe for three years.  For 12 years he
+ :1872. In 1829 he went to Europe for three years. For 12 years he
  :worked on perfecting the electrical telegraph, which was exhibited at New
  :York University in 1837.
 
@@ -4497,12 +4497,12 @@ S:Your typewriter is equipped with a bell which rings
  :rings when there are six or seven spaces left.
  :
  :The ring of the bell permits you to keep your eyes
- :on the copy.  When you hear the bell, finish the
+ :on the copy. When you hear the bell, finish the
  :word you are typing and throw the carriage for the
  :next line.
  :
  :Do not look up to watch for the end of the line; you
- :may lose your place in the copy.  Always keep your
+ :may lose your place in the copy. Always keep your
  :eyes on the copy like the expert typist.
 
 I:(5) New Key Tryout
@@ -4526,8 +4526,8 @@ D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
 I:(7)
 *:_V_R_L145
 D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
- :One-fourth may be typewritten like this:  1/4.
- :One-eighth may be typewritten like this:  1/8.
+ :One-fourth may be typewritten like this: 1/4.
+ :One-eighth may be typewritten like this: 1/8.
  :
  :f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
  :Every expert was once a beginner--with ambition.
@@ -4536,15 +4536,15 @@ D:f4f j7j f5f j6j d3d k8k s2s l9l ;0; ;-; ;0; ;-;
 I:(8)
 *:_V_R_L146
 S:As you have seen in the above sentence practice, the hyphen is used
- :for typing compound words.  Here are a few more examples:  up-to-date,
+ :for typing compound words. Here are a few more examples: up-to-date,
  :first-class, by-product.
  :
  :The hyphen is used also to divide words between syllables at the end
- :of a line.  When the bell rings, finish the word if it is short--less
- :than six letters.  If the word is longer, divide it at the end of a syllable.
+ :of a line. When the bell rings, finish the word if it is short--less
+ :than six letters. If the word is longer, divide it at the end of a syllable.
  :
  :The hyphens in the following words show where they could be divided
- :at the end of a line:  after-noon, state-ment, hesi-tate, cer-ti-fi-
+ :at the end of a line: after-noon, state-ment, hesi-tate, cer-ti-fi-
  :cate, exami-na-tion.
  :
  :The sum of 10 and 20 and 30 and 40 and 50 and 60 and 70 and 80 and 90
@@ -4553,8 +4553,8 @@ S:As you have seen in the above sentence practice, the hyphen is used
 I:(9)
 *:_V_R_L147
 S:Have you seen the new 7-room house at 175 West
- :239th Street?  It is equipped with every up-to-date,
- :labor-saving device for the home.  You may inspect
+ :239th Street? It is equipped with every up-to-date,
+ :labor-saving device for the home. You may inspect
  :it free of charge any day except Sunday between
  :10 a.m. and 4 p.m.
 
@@ -4591,13 +4591,13 @@ I:(4)
 S:You type capital letters by holding down a key
  :called the shift key while you strike the letter key.
  :
- :There are two shift keys.  Hold down the left
+ :There are two shift keys. Hold down the left
  :shift key for typing right-hand capitals; hold down
  :the right shift key for typing left-hand capitals.
  :Always use the fourth finger for the shift key.
  :
  :Keep your wrists low but not touching the frame
- :of the machine.  Raise the other fingers slightly as
+ :of the machine. Raise the other fingers slightly as
  :you depress the shift key with the fourth finger.
  :
  :Be sure that you hold the shift key all the way
@@ -4606,28 +4606,28 @@ S:You type capital letters by holding down a key
 
 I:(5)
 *:_V_R_L153
-S:Prepare a bill for the following items:  29 lbs. butter
- :@ $0.895; 36 doz. eggs @ $0.695;  28 doz. oranges
+S:Prepare a bill for the following items: 29 lbs. butter
+ :@ $0.895; 36 doz. eggs @ $0.695; 28 doz. oranges
  :@ $0.575; 15 bu. potatoes @ $0.795.
  :
  :Our company ordered 15 Ajax Pencil Sharpeners at
- :$0.98; 6 doz. Circular Rubber Erasers at $.43; 24 No.  68
+ :$0.98; 6 doz. Circular Rubber Erasers at $.43; 24 No. 68
  :Spiral Stenographic Notebooks at $.075.
  :
  :Deliver the following order to Mrs. Beverly
- :Vinson at 390 West 135th Street, New York City:  2 lbs.
+ :Vinson at 390 West 135th Street, New York City: 2 lbs.
  :Temple Oranges at $.135; 3 lbs. Red Circle Coffee at
  :$.91; 2 lbs. Lima Beans at $.29.
  :
  :The Johnston Hardware Company, Toledo, Ohio has
- :ordered the following supplies:  15 Pruning Shears,
+ :ordered the following supplies: 15 Pruning Shears,
  :10-inch, at $.795; 24 Steel Rakes, 14-inch, at $.815;
  :16 Steel Spades, D-Handle, at $.935.
 
 I:(6)
 *:_V_R_L154
 S:The backspace key is one of the most useful time-
- :saving devices on your typewriter.  You use it to back
+ :saving devices on your typewriter. You use it to back
  :up a space, to darken a light impression, or to pivot.
  :To pivot means to type a line so that the last letter
  :is at the right margin or other chosen point.
@@ -4764,11 +4764,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -4787,7 +4787,7 @@ B:                            Lesson U1
 *:_U_R_L0
 T:			Welcome to lesson U1
  :
- :Still don't know how to touch-type?  Let's start from the beginning and
+ :Still don't know how to touch-type? Let's start from the beginning and
  :drill you starting with the home row.
 
 I:(1) Try this:
@@ -4940,10 +4940,10 @@ S:She wishes to show us some samples.
 
 I:(4)
 *:_U_R_L25
-S:     Safety first.  This slogan is well known.  Yet many care-
- :less people disregard it and so we have accidents.  It is pos-
+S:    Safety first. This slogan is well known. Yet many care-
+ :less people disregard it and so we have accidents. It is pos-
  :sible to avoid many types of accidents by a little forethought.
- :Don't be careless.  Do your share to avoid mishaps.
+ :Don't be careless. Do your share to avoid mishaps.
 
 G:_U_E_U5
 
@@ -4978,8 +4978,8 @@ S:Every promise made should be observed.
 
 I:(4)
 *:_U_R_L30
-S:     Some people break promises as readily as they make them.
- :As a result, they acquire a reputation for unreliability.  It
+S:    Some people break promises as readily as they make them.
+ :As a result, they acquire a reputation for unreliability. It
  :is particularly important to be reliable in the business world.
  :A person or firm that comes to be regarded as unreliable has a
  :poor chance of success.
@@ -5018,9 +5018,9 @@ S:The mill will close in April.
 
 I:(4)
 *:_U_R_L35
-S:     Play is most important to a child.  All of us must play
- :a little.  All work and no play makes Jack a dull boy, the
- :old saying goes.  Play affords relaxation.  Some people claim
+S:    Play is most important to a child. All of us must play
+ :a little. All work and no play makes Jack a dull boy, the
+ :old saying goes. Play affords relaxation. Some people claim
  :their work is so enthralling that they do not need to play.
  :Psychologists say that the stress of modern life demands that
  :all adults have some hobby away from their daily pursuit.
@@ -5060,7 +5060,7 @@ S:The first shall be last.
 
 I:(4)
 *:_U_R_L40
-D:     To learn to typewrite is not difficult.  The keyboard
+D:    To learn to typewrite is not difficult. The keyboard
  :of the typewriter may be mastered in a few hours, but to
  :get speed in typewriting calls for a good deal of practice.
  :One of the best methods of getting up speed is to write a
@@ -5103,8 +5103,8 @@ S:We are informed that an increase is anticipated.
 
 I:(8)
 *:_U_R_L45
-S:     The employer must consider any increase in cost that
- :enters into the manufacture of his product.  Unless he includes
+S:    The employer must consider any increase in cost that
+ :enters into the manufacture of his product. Unless he includes
  :such cost in his selling price, he is unlikely to show a profit.
  :The installation of a cost system that enables the employer
  :to break down his costs to a unit basis is a prime necessity.
@@ -5145,10 +5145,10 @@ S:The lawyer consulted the complainant.
 
 I:(4)
 *:_U_R_L50
-S:     Character shows itself in a man's conduct.  Deeds speak
- :louder than words.  Words sometimes confuse as issue where
- :deeds clarify it.  The test of a man's sincerity is not what
- :he says but what he does.  Consider this well and you will
+S:    Character shows itself in a man's conduct. Deeds speak
+ :louder than words. Words sometimes confuse as issue where
+ :deeds clarify it. The test of a man's sincerity is not what
+ :he says but what he does. Consider this well and you will
  :never be confused in estimating a man's worth.
 
 G:_U_E_U10
@@ -5186,10 +5186,10 @@ S:Information on the invention has been sent you.
 
 I:(4)
 *:_U_R_L55
-S:     Concentration is a valuable faculty.  The ability to direct
+S:    Concentration is a valuable faculty. The ability to direct
  :one's attention exclusively along certain lines accounts for
- :the success of some people.  Diffusion of effort is considered
- :an enemy of success.  We are told that this is an age of
+ :the success of some people. Diffusion of effort is considered
+ :an enemy of success. We are told that this is an age of
  :specialization, and specialization demands concentration.
 
 G:_U_E_U11
@@ -5228,8 +5228,8 @@ S:The voter was required to register.
 
 I:(4)
 *:_U_R_L60
-S:     The best letter writers express themselves simply.  They
- :avoid long words where shorter words will do.  They have some-
+S:    The best letter writers express themselves simply. They
+ :avoid long words where shorter words will do. They have some-
  :thing to say and they say it interestingly and to the point.
  :A business letter should not be a literary masterpiece, but
  :that is not to say that it should not have style.
@@ -5278,11 +5278,11 @@ S:Raymond Investment Co.
  :
  :Gentlemen:
  :
- :     For many years our medium has been the leading adver-
+ :    For many years our medium has been the leading adver-
  :tising paper used by responsible investment firms who desire
  :to obtain new accounts.
  :
- :     Our records show that you are not now making use of the
+ :    Our records show that you are not now making use of the
  :Adviser, and we ask that you consider its use in connection
  :with your new promotion effort.
  :
@@ -5310,17 +5310,17 @@ S:Mr. Z. Dexter
 
 I:(6)
 *:_U_R_L67
-S:Strive for typing accuracy.  Speed without accuracy is of little value.
- :Rhythm is the secret of typing skill.  Don't write one part of a word
- :faster than another.  Slow down so that you can maintain a regular rhythm.
+S:Strive for typing accuracy. Speed without accuracy is of little value.
+ :Rhythm is the secret of typing skill. Don't write one part of a word
+ :faster than another. Slow down so that you can maintain a regular rhythm.
  :
- :Think of the letters before you strike them.  Strike the keys evenly, so
- :that the printing impression does not vary.  At the same time, try to
+ :Think of the letters before you strike them. Strike the keys evenly, so
+ :that the printing impression does not vary. At the same time, try to
  :develop your stroking speed and make it a habit to release the keys quickly.
  :To get up speed, type each exercise three or four times.
  :
- :To do your best, it is necessary that you be relaxed.  You may be trying so
- :hard that you are all tied up in knots.  Relax consciously.  If you have a
+ :To do your best, it is necessary that you be relaxed. You may be trying so
+ :hard that you are all tied up in knots. Relax consciously. If you have a
  :feeling of tenseness and hurry, you are not properly relaxed.
 
 G:_U_E_U13
@@ -5417,11 +5417,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -5446,14 +5446,14 @@ T:			Welcome to the Dvorak Course
  :QWERTY (Sholes) keyboard.
  :
  :This is because the Dvorak keyboard has been scientifically designed to minimize
- :cumulative finger motion while typing English.  The ten letters on the home row
+ :cumulative finger motion while typing English. The ten letters on the home row
  :(A, O, E, U, I, D, H, T, N, and S) make up about 70% of all keystrokes. These
- :ten letters alone can form over 3000 words.  Needless to say, having these keys
+ :ten letters alone can form over 3000 words. Needless to say, having these keys
  :in the home row facilitates both speed and accuracy.
  :
  :If you are already an experienced typist on the Sholes keyboard, don't despair:
- :you won't have to unlearn everything you know.  Your basic typing dexterity
- :remains with you, regardless of the keyboard layout.  Learning the Dvorak
+ :you won't have to unlearn everything you know. Your basic typing dexterity
+ :remains with you, regardless of the keyboard layout. Learning the Dvorak
  :keyboard is like learning to "play on a new surface", as a tennis player must
  :learn to adjust to grass court or hard court when she has been accustomed to
  :playing on a clay court.
@@ -5462,7 +5462,7 @@ T:			Welcome to the Dvorak Course
 T:			General Instructions
  :
  :The fingers of the left hand should be placed over the A-key, the O-key,
- :the E-key, and the U-key.  Similarly, the fingers of the right hand should be
+ :the E-key, and the U-key. Similarly, the fingers of the right hand should be
  :placed over the H-key, the T-key, the N-key, and the S-key.
 
 I:(1) Home Row Exercises
@@ -5472,11 +5472,11 @@ D:aoeu ueoa aoeui snth htns snthd uihd uihd
 
 I:(2)
 *:_D_R_L3
-D:a s o n e t u h i d  a s o n e t u h i d
+D:a s o n e t u h i d a s o n e t u h i d
 
 I:(3)
 *:_D_R_L4
-D:d i h u t e n o s a  d i h u t e n o s a
+D:d i h u t e n o s a d i h u t e n o s a
 
 I:(4)
 *:_D_R_L5
@@ -5537,7 +5537,7 @@ D:The sad tots sat on a tan seat in his neat tent and ate ten nuts
 I:(4)
 *:_D_R_L14
 D:Enos eats a thin hash diet in a hued dish as he sits on an odd seat
- :Dad does not eat suet   He had seen Sue dent his auto
+ :Dad does not eat suet  He had seen Sue dent his auto
 
 I:(5)
 *:_D_R_L15
@@ -5576,8 +5576,8 @@ T:                    Home Row and the Period
 #
 I:(1)
 *:_D_R_L18
-D:e.  e.  e.  e.  a.  s.  o.  n.  e.  t.  u.  h.  i.  d.  a.  a.
- :h.  u.  a.  i.  o.  n.  s.  d.  t.  e.  h.  o.  u.  i.  s.  a.
+D:e. e. e. e. a. s. o. n. e. t. u. h. i. d. a. a.
+ :h. u. a. i. o. n. s. d. t. e. h. o. u. i. s. a.
 
 I:(2)
 *:_D_R_L19
@@ -5590,13 +5590,13 @@ I:(3)
 *:_D_R_L20
 D:Adana Andie Annie Aonia Audie Denis Diana Dinah
  :Donna Duane Edith Ethan India Susan Susie Thane
- :Adana.  Andie.  Annie.  Aonia.  Audie.  Denis.  Diana.  Dinah.
+ :Adana. Andie. Annie. Aonia. Audie. Denis. Diana. Dinah.
 
 I:(4)
 *:_D_R_L21
 D:In the house Adana dined in haste on toast and dates.
  :Sated as she had eaten she noted the sheen on the dunes
- :and the shade in the sheds.  She hates to see an idiot
+ :and the shade in the sheds. She hates to see an idiot
  :stand and shoot his tenth doe in the dense heath.
 
 I:(5)
@@ -5661,17 +5661,17 @@ B:                            Lesson D5
 I:(1) Review
 *:_D_R_L30
 D:The left road can lead the lads and lady to good lots near
- :your land.  The sale of pure gold is held at your door.
+ :your land. The sale of pure gold is held at your door.
 
 I:(2)
 *:_D_R_L31
-D:You held no fear of loss for a year.  On each trip to your
+D:You held no fear of loss for a year. On each trip to your
  :shop he paid in cash for the caps, fish, cups, pans, fuel,
  :logs, peas, ales, rice and fats you sold.
 
 I:(3)
 *:_D_R_L32
-D:It is a fact that a slap on the face can hurt.  The poor
+D:It is a fact that a slap on the face can hurt. The poor
  :apes feel free to find a sure sort of life in the dale.
 
 I:(4)
@@ -5747,7 +5747,7 @@ D:Next time, I must have a town home, with a book and a vast tome,
 
 I:(3)
 *:_D_R_L43
-D:I know six men wait to put down their axes.  They want to quit
+D:I know six men wait to put down their axes. They want to quit
  :their jobs when the job zone size is too wide.
 
 I:(4)
@@ -5850,7 +5850,7 @@ D:Do zebras roam the miles of bleak velds which cover parts of the
 I:(3)
 *:_D_R_L58
 D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books.  Still
+ :cheer and worth from words and quest and seize all books. Still
  :others amply quell their needs with vocal music and seek all
  :works on voice.
 
@@ -5957,7 +5957,7 @@ D:Do zebras roam the miles of bleak velds which cover parts of the
 I:(4)
 *:_D_R_L74
 D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books.  Still
+ :cheer and worth from words and quest and seize all books. Still
  :others amply quell their needs with vocal music and seek all
  :works on voice.
 
@@ -5974,8 +5974,8 @@ D:Six husky cooks boiled clam broth, shrimp and prawns and broiled
 I:(7)
 *:_D_R_L77
 D:At the games, Mark was so very badly hurt with many broken bones,
- :lumps on his jaws, and some glands burst.  Blood oozed from a crack
- :in his wart where it had oozed for weeks.  He was lucky to have lived.
+ :lumps on his jaws, and some glands burst. Blood oozed from a crack
+ :in his wart where it had oozed for weeks. He was lucky to have lived.
 
 I:(8)
 *:_D_R_L78
@@ -6028,7 +6028,7 @@ B:                            Lesson D13
 *:_D_R_L84
 T:
  :The following 135 words are so frequently used that they comprise 50%
- :of all words normally typed.  If you can type the next two exercises without
+ :of all words normally typed. If you can type the next two exercises without
  :errors, half of your typed words will be correct!
 
 *:_D_R_L85
@@ -6036,7 +6036,7 @@ D:a about after all also an and another any are as at back be because
  :been before being between both but by can could day did do down each
  :even first for from get good had has have he her here him his how I
  :if in into is it its just know last life like little long made make
- :many may me men more most Mr.  Ms.  much must my never new no not now
+ :many may me men more most Mr. Ms. much must my never new no not now
 
 *:_D_R_L86
 D:of or on one only or other our out over own people said same see she
@@ -6055,15 +6055,15 @@ D:The duteous dietitian hesitated at the intense nauseousness inside
 
 I:(2)
 *:_D_R_L89
-D:In addition, the unastute assassin had another unsound idea.  He
+D:In addition, the unastute assassin had another unsound idea. He
  :intended to assassinate the dishonest attendant at the institute.
 
 I:(3)
 *:_D_R_L90
 D:The unintentioned noisiness and untidiness in the hostess house
- :astonished, astounded and nauseated Antonietta.  Undaunted and
+ :astonished, astounded and nauseated Antonietta. Undaunted and
  :unassisted, she did not hesitate to initiate a statute at the state
- :house.  The statute stated that no attendant in an untenanted haunted
+ :house. The statute stated that no attendant in an untenanted haunted
  :hostess house is to attain hostess status.
 
 G:_D_E_D13
@@ -6256,11 +6256,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -6278,20 +6278,20 @@ B:                             Lesson C1
 
 T:			Welcome to the Colemak Course
  :
- :This course is intended for beginners as well as experienced typists.  The
+ :This course is intended for beginners as well as experienced typists. The
  :Colemak keyboard is an alternative to the QWERTY (Sholes) keyboard layout.
  :You will find it easier to learn than the QWERTY and Dvorak keyboard layouts.
  :
  :Like the Dvorak keyboard, this is because the Colemak keyboard layout has been
  :scientifically designed to minimise cumulative finger motion while typing
- :English.  The ten letters on the home row (A, R, S, T, D, H, N, E, I, and O)
- :make up about 70% of all keystrokes.  These ten letters alone can form over
- :3000 words.  Needless to say, having these keys in the home row facilitates
+ :English. The ten letters on the home row (A, R, S, T, D, H, N, E, I, and O)
+ :make up about 70% of all keystrokes. These ten letters alone can form over
+ :3000 words. Needless to say, having these keys in the home row facilitates
  :both speed and accuracy.
  :
  :Unlike the Dvorak keyboard layout, however, the Colemak keyboard layout has
  :also specifically been designed to be easy to learn for people who are already
- :familiar with using a QWERTY keyboard layout.  Despite this, it appears that
+ :familiar with using a QWERTY keyboard layout. Despite this, it appears that
  :the Colemak keyboard is as fast as, if not faster than, the Dvorak keyboard.
  :
  :For information about the Colemak kyboard layout, see <http://colemak.com/>.
@@ -6299,13 +6299,13 @@ T:			Welcome to the Colemak Course
 T:			General Instructions
  :
  :The fingers of the left hand should be placed over the A-key, the R-key,
- :the S-key, and the T-key.  Similarly, the fingers of the right hand should be
- :placed over the N-key, the E-key, the I-key, and the O-key.  This is called the
- :HOME position.  Only these fingers should be used to press the keys that they
+ :the S-key, and the T-key. Similarly, the fingers of the right hand should be
+ :placed over the N-key, the E-key, the I-key, and the O-key. This is called the
+ :HOME position. Only these fingers should be used to press the keys that they
  :are above.
  :
  :In addition to these keys, the SPACE bar should be pressed with the thumb of
- :the right hand.  At the end of every line, the RETURN key should be pressed
+ :the right hand. At the end of every line, the RETURN key should be pressed
  :with the fourth finger of the right hand.
 
 I:(1) S, T, N and E
@@ -6378,7 +6378,7 @@ B:                             Lesson C4
 T:			General Instructions
  :
  :When you need to press the D-key or the H-key, the first finger of the left or
- :right hand, respectively, should be used.  No other finger should be used.
+ :right hand, respectively, should be used. No other finger should be used.
 
 I:(1) D and H
 *:_C_R_C4_1
@@ -6650,7 +6650,7 @@ B:                             Lesson C12
 
 T:			General Instructions
  :
- :The Q-key should be pressed only by fourth finger on the left hand.  The C-key
+ :The Q-key should be pressed only by fourth finger on the left hand. The C-key
  :should only be pressed by the second finger on the left hand.
 
 I:(1) Q and C
@@ -6766,7 +6766,7 @@ B:                            Lesson C15
 
 T:			Learning punctuation
  :
- :The period/full stop is below the forth finger on the right hand.  Note that
+ :The period/full stop is below the forth finger on the right hand. Note that
  :the end of a sentence should be followed by two spaces; in abbreviations, it is
  :followed by one space.
  :
@@ -6777,29 +6777,29 @@ T:			Learning punctuation
 
 I:(1)
 *:_C_R_C15_1
-D:e.  e.  e.  e.  a.  s.  o.  n.  e.  t.  r.  h.  i.  d.  a.  a.
- :h.  r.  a.  i.  o.  n.  s.  d.  t.  e.  h.  o.  r.  i.  s.  a.
+D:e. e. e. e. a. s. o. n. e. t. r. h. i. d. a. a.
+ :h. r. a. i. o. n. s. d. t. e. h. o. r. i. s. a.
 
 I:(2)
 *:_C_R_C15_2
-D:Adana.  Andie.  Annie.  Aonia.  Ardie.  Denis.  Diana.  Dinah.
+D:Adana. Andie. Annie. Aonia. Ardie. Denis. Diana. Dinah.
 
 I:(3)
 *:_C_R_C15_3
 D:On the horse, Adana dined in haste on toast and dates.
  :Sated, as she had eaten she noted the sheen on the drones
- :and the shade in the sheds.  She hates to see an idiot
+ :and the shade in the sheds. She hates to see an idiot
  :stand and shoot his tenth doe in the dense heath.
 
 I:(4)
 *:_C_R_C15_4
-D:An onion heats, stuned, a stout nose.  As does she?  As do I?
- :Do I send hands to douse teeth?  Are their suedes hoisted ahead?
+D:An onion heats, stuned, a stout nose. As does she? As do I?
+ :Do I send hands to douse teeth? Are their suedes hoisted ahead?
 
 I:(5)
 *:_C_R_C15_5
-D:The shy ape put on a red hat and ran off with the lot.  Can pa
- :go aft and lie on our old cot?  For a top fee, her act is to hop
+D:The shy ape put on a red hat and ran off with the lot. Can pa
+ :go aft and lie on our old cot? For a top fee, her act is to hop
  :in, lie on the rug, pat her pet cat, fit a fur on her ear, get
  :her fan, and run off.
 
@@ -6815,7 +6815,7 @@ B:                            Lesson C16
 T:			Frequent words
  :
  :The following 135 words are so frequently used that they comprise 50% of all
- :words normally typed.  If you can type the next two exercises without errors,
+ :words normally typed. If you can type the next two exercises without errors,
  :half of all of your typed words will be correct!
 
 I:(1)
@@ -7056,11 +7056,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -7082,7 +7082,7 @@ D:If you can do so, will you kindly let us know by return mail.
 
 I:(2) Continuous Copy
 *:_M_R_L1
-D:My totals were:  $2,309, $5,687, $3,498, $2,408, and $3,697.
+D:My totals were: $2,309, $5,687, $3,498, $2,408, and $3,697.
 
 I:(3)
 *:_M_R_L2
@@ -7097,8 +7097,8 @@ D:Often 25% of first-year students never do 25 words a minute.
 
 I:(5)
 *:_M_R_L4
-D:Why do we all thrill over sports?  Maybe it is the tireless
- :skill of the winner that we feel.  Ask the players.  They
+D:Why do we all thrill over sports? Maybe it is the tireless
+ :skill of the winner that we feel. Ask the players. They
  :may agree (Rice,* famous as a sports writer, said the cham-
  :pions all agreed) that skill is only part (50%) of it.
 
@@ -7106,45 +7106,45 @@ I:(6)
 *:_M_R_L5
 D:"When you step on the first tee," says the four-time gold
  :champion, Bobby Jones, "you know you can't afford to make
- :one careless slip."  A tired Bobby Jones (this was the way
+ :one careless slip." A tired Bobby Jones (this was the way
  :Bobby told it to Rice) has stood on the 16th tee, leading
  :Smith by 18 strokes.
 
 I:(7)
 *:_M_R_L6
 D:"Up to this point," says Bobby, "I had played 33 holes in 11
- :under par.  I believe it was the best golf I ever played in
- :my life.  But after easing up on the mental side I played
+ :under par. I believe it was the best golf I ever played in
+ :my life. But after easing up on the mental side I played
  :the last three holes in 5 over par."
 
 I:(8)
 *:_M_R_L7
 D:In 1919 Babe Ruth shot into the records with 29 home runs.
  :Yet few know that the Babe worked five years in big games
- :before this start that led past Home Run #600.  You may
- :have cheered Jimmy Foxx and many another.  Yet you can still
+ :before this start that led past Home Run #600. You may
+ :have cheered Jimmy Foxx and many another. Yet you can still
  :picture the Babe after two strikes, smashing to the very
  :spot he had "called" a famous home run.
 
 I:(9)
 *:_M_R_L8
-D:It is the effort against odds that thrills.  We feel these
- :drives that never let down.  We feel (this was the way Rice
+D:It is the effort against odds that thrills. We feel these
+ :drives that never let down. We feel (this was the way Rice
  :put it) the champion forces himself into the winning frame of
- :mind.  Can the fast typist afford to do less?  A typist has
- :to face such days of "mental torture" too.  Some days he has
- :to force himself along.  He need not punish his machine.  He
+ :mind. Can the fast typist afford to do less? A typist has
+ :to face such days of "mental torture" too. Some days he has
+ :to force himself along. He need not punish his machine. He
  :must pull himself together (100%) to type his steady, smooth
  :way over all upsets.
 
 I:(9A) Pointed Paragraph (m b)
 *:_M_R_L9
-S:     Men are bound to believe that business is bad in winter
- :months.  Maybe Mr. Smith remembers that most building became
+S:    Men are bound to believe that business is bad in winter
+ :months. Maybe Mr. Smith remembers that most building became
  :better in September but both November and December seemed to
- :be much behind.  Monday morning my mail box became blocked
+ :be much behind. Monday morning my mail box became blocked
  :by urgent requests of many families that small-sized homes
- :be built.  Some jobs may begin to come now from the Chamber
+ :be built. Some jobs may begin to come now from the Chamber
  :of Commerce members.
 
 I:(10) Rhythmic Review
@@ -7173,19 +7173,19 @@ I:(3) Four-letter words (a to d)
 *:_M_R_L13
 S:Dear Dan,
  :
- :     Yes, I came out of the corn, back to the city, both to
- :draw and to do copy on the new cars.  To date I am able to
- :put cash in the bank and bear a bill or two.  The new deed
+ :    Yes, I came out of the corn, back to the city, both to
+ :draw and to do copy on the new cars. To date I am able to
+ :put cash in the bank and bear a bill or two. The new deed
  :has done it.
  :
- :     The city has been busy but cold for two days.  Dear baby
- :has been to see her best aunt.  A band came by the door.
- :Baby let the bird cage drop down with a blow.  The bird died.
- :Boys put its dead body deep in a dark card case.  Baby also
- :has a ball and blue book to drop.  I put the boat away.  Its
+ :    The city has been busy but cold for two days. Dear baby
+ :has been to see her best aunt. A band came by the door.
+ :Baby let the bird cage drop down with a blow. The bird died.
+ :Boys put its dead body deep in a dark card case. Baby also
+ :has a ball and blue book to drop. I put the boat away. Its
  :deck did burn, but I care not as it does not cost a cent.
  :
- :     Come, call on me at the club.
+ :    Come, call on me at the club.
  :
  :Yours sincerely,
 
@@ -7193,17 +7193,17 @@ I:(4) Four-letter words (e to g)
 *:_M_R_L14
 S:Dear Bea,
  :
- :     I am glad you feel so for the farm in the East.  Even
+ :    I am glad you feel so for the farm in the East. Even
  :as a girl of four or five I was ever so glad to find the
- :farm.  In my eyes it was all as good as gold.  Even my feet
- :felt good.  A girl can gain and grow fast on farm food and
- :the fine free air.  Why else did face and form grow full
+ :farm. In my eyes it was all as good as gold. Even my feet
+ :felt good. A girl can gain and grow fast on farm food and
+ :the fine free air. Why else did face and form grow full
  :and fair so fast?
  :
- :     On each foot of my farm I felt free from fear.  It
- :gave me my fill of fun.  I felt no fear of any fire in the
- :fall.  Now the fire is a fact and my farm is gone.  Give me
- :my full life, etc.  The game goes on.
+ :    On each foot of my farm I felt free from fear. It
+ :gave me my fill of fun. I felt no fear of any fire in the
+ :fall. Now the fire is a fact and my farm is gone. Give me
+ :my full life, etc. The game goes on.
  :
  :Yours sincerely,
 
@@ -7211,22 +7211,22 @@ I:(5) Four-letter words (h to l)
 *:_M_R_L15
 S:Dear Hal,
  :
- :     Just a line to say I am lost if I cannot fly.  I
- :have to keep on here.  I knew it was but a hope last May.
- :It was just my last idea in June.  Yet I held my head high
+ :    Just a line to say I am lost if I cannot fly. I
+ :have to keep on here. I knew it was but a hope last May.
+ :It was just my last idea in June. Yet I held my head high
  :and did not lose hope.
  :
- :     Why not fly up in the air a half hour or less and
- :look at my lake and our home on the hill?  I left it late
- :last July with one item on my list.  Bill gave me half an
- :hour of help.  Like the lady of the lake I met the king.
+ :    Why not fly up in the air a half hour or less and
+ :look at my lake and our home on the hill? I left it late
+ :last July with one item on my list. Bill gave me half an
+ :hour of help. Like the lady of the lake I met the king.
  :Bill was a kind king, too.
  :
- :     To lead off into the air and see all our lake so
- :long and lots of land so low, was to live a high hour.  I
- :kept my hand at my ear so as to help hear.  In the air my
- :hair was a loss.  It did not kill me.  I have to fly to know
- :life can be less hard.  I like to hold on and help Bill.  I
+ :    To lead off into the air and see all our lake so
+ :long and lots of land so low, was to live a high hour. I
+ :kept my hand at my ear so as to help hear. In the air my
+ :hair was a loss. It did not kill me. I have to fly to know
+ :life can be less hard. I like to hold on and help Bill. I
  :love to fly.
  :
  :Yours sincerely,
@@ -7253,18 +7253,18 @@ I:(3) Four-letter words (m to p)
 *:_M_R_L18
 S:Dear "Pie,"
  :
- :     I open most of my mail and meet the news.  I note that
+ :    I open most of my mail and meet the news. I note that
  :you say Mrs. Page is a mere name but you met the Miss Page.
  :
- :     You must need the car.  Once the pass is open I can move
- :the car over to you.  Do you mind if I make it part of a nice
- :plan to meet Miss Page, too?  Mrs. Page was only a mile past
- :us.  Her son was my age and I made the mile at noon to play a
- :bit.  She paid us for milk.  She did not mean much to me, but
+ :    You must need the car. Once the pass is open I can move
+ :the car over to you. Do you mind if I make it part of a nice
+ :plan to meet Miss Page, too? Mrs. Page was only a mile past
+ :us. Her son was my age and I made the mile at noon to play a
+ :bit. She paid us for milk. She did not mean much to me, but
  :her son did.
  :
- :     Next we had more fun up the pass near the poor old No.
- :Nine mine.  I can mark many a mile we once ran.  I must mail
+ :    Next we had more fun up the pass near the poor old No.
+ :Nine mine. I can mark many a mile we once ran. I must mail
  :this note or I may miss the post.
  :
  :Yours sincerely,
@@ -7273,42 +7273,42 @@ I:(4) Four-letter words (r to s)
 *:_M_R_L19
 S:Dear Ross,
  :
- :     It is a real rain.  The road is so soft my car can but
- :roll, stop, and roll on.  Are you on the ship?  If I get as
- :far as the ship, can we sail in such a rain?  If we try to
- :sail, the ship is sure to rock or ride on one side.  If I get
+ :    It is a real rain. The road is so soft my car can but
+ :roll, stop, and roll on. Are you on the ship? If I get as
+ :far as the ship, can we sail in such a rain? If we try to
+ :sail, the ship is sure to rock or ride on one side. If I get
  :sick, it is up to you to stay by and show us how to save the
- :ship.  Ann has some sort of song to sing in the rain.  She
+ :ship. Ann has some sort of song to sing in the rain. She
  :said she sent it to you.
  :
- :     Did you read of our sale?  We set out a big sign.  Now
- :any sort of suit and any size seem to sell.  We are not rich
+ :    Did you read of our sale? We set out a big sign. Now
+ :any sort of suit and any size seem to sell. We are not rich
  :but we can soon step out or be sold out, if any such rate is
  :to rule.
  :
- :     Ann has not seen the ship as yet.  Rain or no rain, Ann
- :says to send her out.  All the rest of us say the same.  Can
+ :    Ann has not seen the ship as yet. Rain or no rain, Ann
+ :says to send her out. All the rest of us say the same. Can
  :you ring me in my room at the shop?
  :
  :Yours sincerely,
 
 I:(5) Pointed Paragraph (i u)
 *:_M_R_L20
-S:     The public is quite unfair about airing quibbles over
+S:    The public is quite unfair about airing quibbles over
  :house furniture and fruit juices for the university crew.
  :The alumni inquiry into the failure of equipment figures in
- :the issue.  The alumni attitude is useful but continues to
- :put a premium on a victorious crew.  Only genius can guide
+ :the issue. The alumni attitude is useful but continues to
+ :put a premium on a victorious crew. Only genius can guide
  :this outfit uphill and build a suitable crew that won't quit.
 
 I:(6) Pointed Paragraph (d s -)
 *:_M_R_L21
-S:     Students should be assisted in studying seated at their
+S:    Students should be assisted in studying seated at their
  :desks; cross-questioned as to their needs and desires; ad-
  :vised to use up-to-date leads based on studies of standards.
  :By-products of student days, well-bred friends, kindness,
  :self-help, with good grades and degrees, are listed as far-
- :sighted aids.  In Dad's old-fashioned address to his co-
+ :sighted aids. In Dad's old-fashioned address to his co-
  :workers, he said sadly that ideas are missed less than first-
  :class friends and good-natured wishers.
 
@@ -7334,18 +7334,18 @@ I:(3) Four-letter words (t to z)
 *:_M_R_L24
 S:Dear Tris,
  :
- :     It is so very warm at this time of year, I told my wife
- :that you and I wish to go west for a week or two.  Did I
- :tell you what a wind we had?  I went to town to vote for the
- :one man whom I want.  I took a well-used tire.  When it went
- :down on a bad turn, in the woods, I had to walk.  Then the
- :wind more than set in, and I had to wait by a wall.  It got
+ :    It is so very warm at this time of year, I told my wife
+ :that you and I wish to go west for a week or two. Did I
+ :tell you what a wind we had? I went to town to vote for the
+ :one man whom I want. I took a well-used tire. When it went
+ :down on a bad turn, in the woods, I had to walk. Then the
+ :wind more than set in, and I had to wait by a wall. It got
  :our old tree.
  :
- :     I saw two men and set them to work on the car, till
- :they told me it was no use.  If I were to turn it in, is it
- :true that you can take your car?  I want a wide view and I
- :want to talk with you.  Thus I wait upon your word.  Wire
+ :    I saw two men and set them to work on the car, till
+ :they told me it was no use. If I were to turn it in, is it
+ :true that you can take your car? I want a wide view and I
+ :want to talk with you. Thus I wait upon your word. Wire
  :yes if you will take this trip.
  :
  :Yours sincerely,
@@ -7354,32 +7354,32 @@ I:(4) Five-letter words (a to c)
 *:_M_R_L25
 S:Dear "Cab,"
  :
- :     Could you apply to the court to allow my claim as agent
- :for Mr. Blank?  I could bring in his books and see about his
- :bills.  If asked, he can cover the costs by checks on a bank
+ :    Could you apply to the court to allow my claim as agent
+ :for Mr. Blank? I could bring in his books and see about his
+ :bills. If asked, he can cover the costs by checks on a bank
  :that did not break.
  :
- :     Will you allow your child to come alone to see me?  He
- :can have every apple he can carry.  By the way, being clean
+ :    Will you allow your child to come alone to see me? He
+ :can have every apple he can carry. By the way, being clean
  :and above board, you must be above bad cases, but you began
  :to bring in off-color cases after April.
  :
- :     I agree you do not cross the law, but why let men win
- :in a black cause on any basis?  Why not build up your cases
- :from among men of our own class?  Close the awful cases you
+ :    I agree you do not cross the law, but why let men win
+ :in a black cause on any basis? Why not build up your cases
+ :from among men of our own class? Close the awful cases you
  :now carry along to court, and begin again.
  :
  :Sincerely yours,
 
 I:(5) Pointed Paragraph (r t)
 *:_M_R_L26
-S:     In our motor party on the return trip an attractive
+S:    In our motor party on the return trip an attractive
  :quartet first tried to tell thirty or forty short travel
- :stories.  By turns they transferred to the theater, to art
- :matters, to court trial stories.  In the latter a certain
+ :stories. By turns they transferred to the theater, to art
+ :matters, to court trial stories. In the latter a certain
  :doctor is hurt by a first truck, another truck is struck,
- :and three contractors are thrown to the street.  The girl's
- :strong brother has been hurt.  Further, there are arrests
+ :and three contractors are thrown to the street. The girl's
+ :strong brother has been hurt. Further, there are arrests
  :and the sort of extra details that enter into true stories.
 
 G:_M_E_M4
@@ -7404,19 +7404,19 @@ I:(3) Five-letter words (d to h)
 *:_M_R_L29
 S:Dear Fred,
  :
- :     I have dared to ask you for an extra favor on the first.
+ :    I have dared to ask you for an extra favor on the first.
  :If you are not dated, I am to draft you to drive me by horse
- :or car up the grade to the field house at eight.  I guess you
+ :or car up the grade to the field house at eight. I guess you
  :have not heard fully about the great dance to be given by the
  :girls on the floor of the field house.
  :
- :     My hands have put fresh green goods on the walls.  Every
+ :    My hands have put fresh green goods on the walls. Every
  :girl has a green dress, on its front a funny glass heart that
- :she gives as a favor.  The old folks can drive up early, eat
- :and drink and enjoy it all.  We will delay the dance till the
- :girls enter in a dozen files.  It would crush me to death if
- :an error were found in the plans.  Happy hours on earth are
- :never heavy.  Can you doubt that you are going?
+ :she gives as a favor. The old folks can drive up early, eat
+ :and drink and enjoy it all. We will delay the dance till the
+ :girls enter in a dozen files. It would crush me to death if
+ :an error were found in the plans. Happy hours on earth are
+ :never heavy. Can you doubt that you are going?
  :
  :Sincerely yours,
 
@@ -7424,20 +7424,20 @@ I:(4) Five-letter words (i to p)
 *:_M_R_L30
 S:Dear Madam,
  :
- :     I have your two later notes of March 1.  Maybe it is a
+ :    I have your two later notes of March 1. Maybe it is a
  :large order for you to leave for the north in the month of
  :March.
  :
- :     Our place is miles away, but the real issue is that mu-
- :sic means much to us.  A night of music, even one piece of
+ :    Our place is miles away, but the real issue is that mu-
+ :sic means much to us. A night of music, even one piece of
  :music, has often meant more to me than my local paper and all
- :the power I have known.  If I can plant a love of music in all
+ :the power I have known. If I can plant a love of music in all
  :parts of this place so that all who hear you sing can learn to
  :love it, it will mean more to me than money.
  :
- :     I never laugh at money, but isn't it plain in these
- :lines that price ought to be the least of all the items?  The
- :point is that our plans for your party are more important.  If
+ :    I never laugh at money, but isn't it plain in these
+ :lines that price ought to be the least of all the items? The
+ :point is that our plans for your party are more important. If
  :you read our other offer in the light of our love for music,
  :we might not seem so far away.
  :
@@ -7445,15 +7445,15 @@ S:Dear Madam,
 
 I:(5) Pointed Paragraph (u y)
 *:_M_R_L31
-S:     If truly quoted, you and Guy, mere youths, fly a con-
+S:    If truly quoted, you and Guy, mere youths, fly a con-
  :tinuous journey of thousands of miles yearly in your study
- :of numerous flying routes.  You say you were south in July
+ :of numerous flying routes. You say you were south in July
  :in the dry country conspicuous for yucca, but now you are
  :busy buying a quota of various useful items to supply your
- :outfit for the famous Yukon.  Yet I am suspicious when you
+ :outfit for the famous Yukon. Yet I am suspicious when you
  :say this unusual survey is monotonous rather than glorious.
  :You should hurry surely to Vancouver for some delicious
- :yuletide fare.  It seems only yesterday that I was conscious
+ :yuletide fare. It seems only yesterday that I was conscious
  :of being young and vigorous enough to fly my buoyant plane.
  :If you lucky boys are victorious over any unusually furious,
  :dangerous, or anxious double duty on this survey, write a
@@ -7481,19 +7481,19 @@ I:(3) Five-letter words (q to s)
 *:_M_R_L34
 S:Dear Alice,
  :
- :     I shall start my river story since you have shown you like
+ :    I shall start my river story since you have shown you like
  :my style.
  :
- :     The scene is a state in the South.  A sweet girl speaks of
- :the sound and sight of the river.  Seven men without shame raise
+ :    The scene is a state in the South. A sweet girl speaks of
+ :the sound and sight of the river. Seven men without shame raise
  :the stock sales and the boy tries to spend too much at the store.
  :In order to make a quiet and quick slide down the river, the men
  :seize the boat while the others, who are quite ready to serve the
  :girl, sleep.
  :
- :     It seems the girl has sense, for on a sheet of paper she
+ :    It seems the girl has sense, for on a sheet of paper she
  :writes that her stock of gold is within reach from a round stone
- :under the small shade tree.  She does not quote the boy, but does
+ :under the small shade tree. She does not quote the boy, but does
  :refer to the sorry end of his short study, and in her reply to his
  :folks she will state how the gold may still be spent in the right
  :way, which will stamp the story as real.
@@ -7504,21 +7504,21 @@ I:(4) Five-letter words (t to z)
 *:_M_R_L35
 S:Dear Mrs. White,
  :
- :     I wish to thank you for the words you wrote three weeks ago,
+ :    I wish to thank you for the words you wrote three weeks ago,
  :and I trust you will write again on the wrong and waste of war.
  :
- :     As I watch the wheels of events today, I think you value a
- :thing it has taken me a third of my years to see.  In its total
+ :    As I watch the wheels of events today, I think you value a
+ :thing it has taken me a third of my years to see. In its total
  :trade the world is one whole, and each part in touch with the
  :other at most times.
  :
- :     The usual farm woman won't see a trade table or understand
+ :    The usual farm woman won't see a trade table or understand
  :its terms, for she is tired with her efforts to train and teach
- :her young.  She has tried to throw her value into her home, which
- :to her is worth so much.  War can not be put under until these
+ :her young. She has tried to throw her value into her home, which
+ :to her is worth so much. War can not be put under until these
  :women see there is but one world, which truly is their world.
  :
- :     Where will you be while the thick wheat is harvested?  If
+ :    Where will you be while the thick wheat is harvested? If
  :not across the water, would you visit us, using your voice to
  :teach us these things?
  :
@@ -7526,10 +7526,10 @@ S:Dear Mrs. White,
 
 I:(5) Pointed Paragraph (n m)
 *:_M_R_L36
-S:     Important dinner company in our small apartment was
+S:    Important dinner company in our small apartment was
  :not common, and November ninth mamma was solemn in manner.
  :The moment nine American gentlemen were announced, fun and
- :argument began.  I remember one ancient gentleman, manager
+ :argument began. I remember one ancient gentleman, manager
  :of much more income than mine, who was not solemn as imag-
  :ined, but funny and human, even if normal demand, planned
  :movements of modern machines to Canada, long term payments,
@@ -7556,16 +7556,16 @@ I:(3) Continuous Copy
 *:_M_R_L39
 S:Dear Mr. and Mrs. Blank,
  :
- :     Your son has not called on me.  If he is to become almost an
+ :    Your son has not called on me. If he is to become almost an
  :annual charge upon the county, the church will answer with action.
  :Yet, I am afraid his arrest can not assure his coming around and
- :asking us for advice.  Of course he has to appear before August.
+ :asking us for advice. Of course he has to appear before August.
  :He bought on credit, got behind in cash, and the amount became too
- :big.  I shall pay it.
+ :big. I shall pay it.
  :
- :     You are an old couple, and I advise you to accept this.  Any-
- :way, he is not a common boy and must have a chance.  He always does
- :appear to anyone as fit.  I run across copies of his art.  I can
+ :    You are an old couple, and I advise you to accept this. Any-
+ :way, he is not a common boy and must have a chance. He always does
+ :appear to anyone as fit. I run across copies of his art. I can
  :advise your son, attend to his credit, and try to help him arrive
  :at a change for the better.
  :
@@ -7575,32 +7575,32 @@ I:(4) Six-letter words (d to k)
 *:_M_R_L40
 S:Dear Dick
  :
- :     I have a dollar.  I expect you to follow me and take dinner.
+ :    I have a dollar. I expect you to follow me and take dinner.
  :Friday I didn't have cash, but a friend of the family had enough
  :for both of us.
  :
- :     Father is having all the lot, except the garden, filled in
- :during the week.  Giving in to his desire, I intend to work the
- :ground.  Doctor says that my health is hardly an excuse, so I had
- :better decide to make an effort.  Indeed, I am driven either to
+ :    Father is having all the lot, except the garden, filled in
+ :during the week. Giving in to his desire, I intend to work the
+ :ground. Doctor says that my health is hardly an excuse, so I had
+ :better decide to make an effort. Indeed, I am driven either to
  :finish the work in the near future or pay to have it done.
  :
- :     I am hoping you will happen upon some kindly fellow to whom
- :a flower garden itself is fun, and inform me.  I shall direct him,
+ :    I am hoping you will happen upon some kindly fellow to whom
+ :a flower garden itself is fun, and inform me. I shall direct him,
  :as the entire effect will lie in the way we handle the ground
- :plan.  Don't forget.
+ :plan. Don't forget.
  :
  :Yours sincerely,
 
 I:(5) Pointed Paragraph (q z)
 *:_M_R_L41
-S:     I quit the quiz when I saw the quantity of queer hazy
- :questions.  To seize lesser prizes required answers to a
- :dozen queries.  Only a quarter of the quotas qualified with
- :zest.  Many had zero when the quiz asked:  In what zones are
- :Brazil, Switzerland, Arizona, or Texas?  Zebras in our zoos
- :grow to what sizes?  Analyze and quote one great citizen's
- :query as to zeppelins.  Criticize the quality of jazz music.
+S:    I quit the quiz when I saw the quantity of queer hazy
+ :questions. To seize lesser prizes required answers to a
+ :dozen queries. Only a quarter of the quotas qualified with
+ :zest. Many had zero when the quiz asked: In what zones are
+ :Brazil, Switzerland, Arizona, or Texas? Zebras in our zoos
+ :grow to what sizes? Analyze and quote one great citizen's
+ :query as to zeppelins. Criticize the quality of jazz music.
 
 G:_M_E_M7
 
@@ -7623,22 +7623,22 @@ I:(3) Six-letter words (l to r)
 *:_M_R_L44
 S:Dear Rollin,
  :
- :     I did notice a number of the pretty places I passed in
+ :    I did notice a number of the pretty places I passed in
  :the air nearly two months ago, and I can at length locate
- :the best.  If prices remain rather low, I will not return
- :for any person or be prompt at orders.  I can play a record
+ :the best. If prices remain rather low, I will not return
+ :for any person or be prompt at orders. I can play a record
  :or two, and not regret there is no report to be looked at.
  :I want to be myself and regard nature, not people.
  :
- :     To obtain this latter result is the proper reason for
- :making this quiet trip.  So far from the public, matter in
+ :    To obtain this latter result is the proper reason for
+ :making this quiet trip. So far from the public, matter in
  :the papers will be old and market policy of little moment.
  :It will please me to have you with us longer than the others.
  :I was really living for the period when I would be placed with
- :you both.  Your mother has a lovely manner.  I am glad to
+ :you both. Your mother has a lovely manner. I am glad to
  :oblige so recent a member of our office, too.
  :
- :     This letter is being mailed Monday, and in two days we
+ :    This letter is being mailed Monday, and in two days we
  :shall go.
  :
  :Yours sincerely,
@@ -7647,21 +7647,21 @@ I:(4) Six-letter words (s to z)
 *:_M_R_L45
 S:Dear Sylvia,
  :
- :     I wonder if my sister talked to you on Sunday of the
- :thirty things we wanted to do this summer?  We were trying
+ :    I wonder if my sister talked to you on Sunday of the
+ :thirty things we wanted to do this summer? We were trying
  :all the spring season at school to secure a supply of sim-
  :ple but strong materials for a camp in the valley.
  :
- :     It struck me as we were taking a walk down the street
+ :    It struck me as we were taking a walk down the street
  :that we would surely be unable to do as we stated unless you
- :took a sudden notion to help.  It seemed to me on second
+ :took a sudden notion to help. It seemed to me on second
  :thought we should give thanks to you for giving tongue to our
  :wishes last winter, for you turned the folks in our favor.
  :
- :     My sister was saying that girls from twenty states had
- :signed our pledge, so we are united.  Though this is off the
+ :    My sister was saying that girls from twenty states had
+ :signed our pledge, so we are united. Though this is off the
  :subject, I saw a pretty yellow and silver dress within a win-
- :dow on Main Street toward our corner.  Would you think it
+ :dow on Main Street toward our corner. Would you think it
  :suitable for the writer?
  :
  :Sincerely yours,
@@ -7669,14 +7669,14 @@ S:Dear Sylvia,
 I:(5) Pointed Paragraph (a q)
 *:_M_R_L45A
 #
-S:     I acquired a bequest from a quizzical Quaker.  How
- :to apply it was a quandary.  As a quasi artist, I began in
+S:    I acquired a bequest from a quizzical Quaker. How
+ :to apply it was a quandary. As a quasi artist, I began in
  :Albuquerque to make a quantity of plaques of chance Indian
- :acquaintances.  My masquerade as an artist of quality in
+ :acquaintances. My masquerade as an artist of quality in
  :that quaint land of quite Spanish art and adobe was adequate
- :and equally unique.  Squeezed in quiet, antiquated adobe
+ :and equally unique. Squeezed in quiet, antiquated adobe
  :quarters, I began quickly and without qualms to qualify as
- :an artist.  After quarrels and questions over my queer tech-
+ :an artist. After quarrels and questions over my queer tech-
  :niques, I acquired my quota of opaque plaques.
 
 G:_M_E_M8
@@ -7700,23 +7700,23 @@ I:(3) Continuous Copy; Seven-letter words (a-f)
 *:_M_R_L48
 S:Dear Annabel,
  :
- :     My brother and his college friends in the factory decided to arrange an
- :evening exactly as in the old days.  After calling us, they arrived and we
- :carried out the idea.  We used an old college catalog and each girl had an
+ :    My brother and his college friends in the factory decided to arrange an
+ :evening exactly as in the old days. After calling us, they arrived and we
+ :carried out the idea. We used an old college catalog and each girl had an
  :old college dress.
  :
- :     Further to advance the evening, my brother advised us of an old address
+ :    Further to advance the evening, my brother advised us of an old address
  :near the freight yard where certain college boys brought this or that article
- :and were allowed a few dollars.  As we went in, an old man came a step farther,
- :fell forward and against me.  Brother charged him.  Will you believe this care-
- :ful account I enclose?  Between brother and me lay this old man who did seem
- :dead.  I can't express my feeling.  His head was covered with marks of blows.
+ :and were allowed a few dollars. As we went in, an old man came a step farther,
+ :fell forward and against me. Brother charged him. Will you believe this care-
+ :ful account I enclose? Between brother and me lay this old man who did seem
+ :dead. I can't express my feeling. His head was covered with marks of blows.
  :
- :     Already we were anxious to go.  Yet his safe was open, as if to furnish us
- :the old books with the many expense charges against the college boys.  When I
+ :    Already we were anxious to go. Yet his safe was open, as if to furnish us
+ :the old books with the many expense charges against the college boys. When I
  :looked to see who of our company were in them, I read one balance after another
- :paid from the old country to My Dearest Son.  You are correct if you guess we
- :now ran, because we did.  What follows?  Today's paper doesn't have a line.
+ :paid from the old country to My Dearest Son. You are correct if you guess we
+ :now ran, because we did. What follows? Today's paper doesn't have a line.
  :
  :Yours sincerely,
 
@@ -7724,20 +7724,20 @@ I:(4) Seven-letter words (g to o)
 *:_M_R_L49
 S:Dear Mrs. White,
  :
- :     I have been holding on, but this January I am getting out.
- :My wife herself may have told you of our opening.  However, I go
- :at ten o'clock this morning, and your husband is still out.  He is
+ :    I have been holding on, but this January I am getting out.
+ :My wife herself may have told you of our opening. However, I go
+ :at ten o'clock this morning, and your husband is still out. He is
  :to do my general work himself, and may not imagine there is any
- :measure of justice in that.  We married men are obliged to do as
+ :measure of justice in that. We married men are obliged to do as
  :ordered.
  :
- :     I am leaving a hundred matters.  He has my opinion on each.
+ :    I am leaving a hundred matters. He has my opinion on each.
  :Tell him the minutes of the last meeting of the members are on my
- :table.  Tell him I haven't an invoice, but have instead an October
- :bill, for our new machine parts.  He may mention this item to the
+ :table. Tell him I haven't an invoice, but have instead an October
+ :bill, for our new machine parts. He may mention this item to the
  :manager, as he has neither its history nor my letters of inquiry.
  :
- :     I find nothing else to include.  We shall miss you greatly,
+ :    I find nothing else to include. We shall miss you greatly,
  :and we shall be looking for you at our new home.
  :
  :Yours sincerely,
@@ -7746,22 +7746,22 @@ I:(4) Seven-letter words (p to z)
 *:_M_R_L50
 S:Dear Patrick,
  :
- :     I realize that this letter I am sending may subject you to some trouble.
+ :    I realize that this letter I am sending may subject you to some trouble.
  :I am writing tonight without waiting to go through various reports on our
- :present program.  If I had thought that you would be willing to give me an
+ :present program. If I had thought that you would be willing to give me an
  :extra day, perhaps I would have come myself.
  :
- :     As soon as this letter has reached you, and you have finished reading the
+ :    As soon as this letter has reached you, and you have finished reading the
  :several items about which I have written, I hope you can give extra working
  :time to my request for special records. These items will suggest a new plan as
- :I picture it.  I shall add them to this note.
+ :I picture it. I shall add them to this note.
  :
- :     It is my purpose to prepare a fast station-to-station service that should
- :be in running order soon.  I suppose it could be started next month.  Let me
+ :    It is my purpose to prepare a fast station-to-station service that should
+ :be in running order soon. I suppose it could be started next month. Let me
  :ask, also, whether we could receipt each payment, as we receive it, on a
- :regular form similar to those in the package shipped you Tuesday.  I am pleased
- :with your showing.  You have been like a soldier on duty in any and all
- :weather.  Success is your teacher.
+ :regular form similar to those in the package shipped you Tuesday. I am pleased
+ :with your showing. You have been like a soldier on duty in any and all
+ :weather. Success is your teacher.
  :
  :With my best regards,
 
@@ -7787,8 +7787,8 @@ I:(3) Continuous Copy; Eight-letter words(a to m)
 *:_M_R_L53
 S:Dear Thomas,
  :
- :     First, I consider of definite interest anything from
- :the business of as good a customer as you.  As director of
+ :    First, I consider of definite interest anything from
+ :the business of as good a customer as you. As director of
  :our division, I am to continue handling building material.
  :My judgment on all the evidence, which I send herewith
  :enclosed in a second envelope, is one of complete approval.
@@ -7796,8 +7796,8 @@ S:Dear Thomas,
  :Are you advising me what increase in your discount is to be
  :expected?
  :
- :     Second, this forenoon I saw your son and he told me of
- :his marriage in February.  Although you had not entirely
+ :    Second, this forenoon I saw your son and he told me of
+ :his marriage in February. Although you had not entirely
  :finished the addition to your lake house by last December,
  :couldn't you exchange it, as it is, for my mountain home?
  :Your son said that his young wife wants to live on this
@@ -7810,21 +7810,21 @@ I:(4) Eight-letter words (n to z)
 *:_M_R_L54
 S:Dear Nathan,
  :
- :     My last shipment has probably been received, for the purchase was made
- :Thursday.  Tomorrow is Saturday, a pleasant day, for I go on my vacation.
+ :    My last shipment has probably been received, for the purchase was made
+ :Thursday. Tomorrow is Saturday, a pleasant day, for I go on my vacation.
  :
- :     Do you remember an original idea you proposed last November relative
- :to planning for some shipping from my property?  My neighbor recently
+ :    Do you remember an original idea you proposed last November relative
+ :to planning for some shipping from my property? My neighbor recently
  :called it a plan in a thousand, and we must get together so that I can
- :thank you properly.  This is a national as well as personal question,
+ :thank you properly. This is a national as well as personal question,
  :and I am trusting that you will be thinking that it is possible for you to
  :help put it into practice.
  :
- :     If you can possibly separate yourself from teachers and your
+ :    If you can possibly separate yourself from teachers and your
  :teaching position sometime soon, plan to get a standard car and
- :whatever else is required for the trip.  The car would also be a
- :pleasure after you return to New York.  May I persuade you in re-
- :plying to state that you are planning to come promptly?  We will
+ :whatever else is required for the trip. The car would also be a
+ :pleasure after you return to New York. May I persuade you in re-
+ :plying to state that you are planning to come promptly? We will
  :make you one of the officers of the shipping business.
  :
  :Yours sincerely,
@@ -7833,18 +7833,18 @@ I:(5) Nine-letter words (a to i)
 *:_M_R_L55
 S:Dear Son,
  :
- :     I am beginning this afternoon to give my immediate attention
- :to a Christmas that should be beautiful.  I have addressed, to be
+ :    I am beginning this afternoon to give my immediate attention
+ :to a Christmas that should be beautiful. I have addressed, to be
  :forwarded and delivered in good condition, some new equipment
- :according to your wish.  I note, too, that your committee met.
+ :according to your wish. I note, too, that your committee met.
  :What these gentlemen said is important and may be a sort of in-
- :surance that your plan does not fail.  I certainly would not want
+ :surance that your plan does not fail. I certainly would not want
  :to duplicate for you the kind of education given me.
  :
- :     Be different by following more than one new idea, including
- :some of your own.  If you can carefully take fair advantage of
+ :    Be different by following more than one new idea, including
+ :some of your own. If you can carefully take fair advantage of
  :every available condition, everybody should accept you cordially,
- :as answering to the character of a gentleman.  Mother is enclosing
+ :as answering to the character of a gentleman. Mother is enclosing
  :a few lines.
  :
  :Yours sincerely,
@@ -7871,20 +7871,20 @@ I:(3) Nine-letter words (j to z)
 *:_M_R_L58
 S:Dear Gertrude,
  :
- :     This letter has no reference to shipments which you have
- :so kindly purchased from me in the past.  Rather, as you are
+ :    This letter has no reference to shipments which you have
+ :so kindly purchased from me in the past. Rather, as you are
  :returning to this territory by September, our president has re-
  :quested me as secretary to ask that you make a statement before
  :our club the first Wednesday.
  :
- :     Let me say something of the questions we have been receiving
- :for the year.  Recently I read that the old principle today still
- :applies.  It is wonderful what our new knowledge has surprised us
+ :    Let me say something of the questions we have been receiving
+ :for the year. Recently I read that the old principle today still
+ :applies. It is wonderful what our new knowledge has surprised us
  :into regarding as necessary for ourselves--sometimes things not
  :even mentioned yesterday.
  :
- :     Will you therefore represent this new deal and present the
- :situation to us in principle, sincerely, as you see it?  Other-
+ :    Will you therefore represent this new deal and present the
+ :situation to us in principle, sincerely, as you see it? Other-
  :wise, if you cannot make this provision now, I shall be glad to
  :call upon you later.
  :
@@ -7894,20 +7894,20 @@ I:(4) Ten-letter words (a to z)
 *:_M_R_L59
 S:Dear Alex,
  :
- :     We are especially interested in the settlement run by a
- :new department at the University.  We appreciate the importance
+ :    We are especially interested in the settlement run by a
+ :new department at the University. We appreciate the importance
  :of its additional study to understand impossible conditions in
  :the poor parts of our city, and its use for adjustment of some
- :particular boy or girl.  Have you read our memorandum in this
+ :particular boy or girl. Have you read our memorandum in this
  :connection?
  :
- :     Our city is absolutely too big.  With the automobile we can
+ :    Our city is absolutely too big. With the automobile we can
  :distribute every person to his home along a line, our wide road,
- :run far out from the city.  The difference between country and
+ :run far out from the city. The difference between country and
  :city grows less and less, in accordance with such use of the auto-
  :mobile.
  :
- :     Concerning our collection of any remittance from you, this
+ :    Concerning our collection of any remittance from you, this
  :would serve to form a Conference which would develop everything
  :that can make city governments bring full and rich experience
  :to all.
@@ -7918,34 +7918,34 @@ I:(5) Eleven- to fourteen-letter words (a to z)
 *:_M_R_L60
 S:Dear Sir,
  :
- :     I wish to acknowledge the recent interesting correspondence
+ :    I wish to acknowledge the recent interesting correspondence
  :from your office on the very considerable requirements of the new
  :law that have to do with any unfortunate advertising that might
  :appear in my papers.
  :
- :     Our association also has appreciated both your instructions
+ :    Our association also has appreciated both your instructions
  :and the opportunity for prompt examination and understanding of
  :the new arrangement, particularly its application to all informa-
- :tion given the public about merchandise for sale.  This has been
+ :tion given the public about merchandise for sale. This has been
  :a real convenience in our consideration of the entire proposition.
  :
- :     I want to assure you that our co-operation under the new law
+ :    I want to assure you that our co-operation under the new law
  :will be satisfactory in every way.
  :
  :Yours respectfully,
 
 I:(6) Pointed Paragraph (l r z)
 *:_M_R_L61
-S:     The JOURNAL learned that the relatives on their arrival in
- :April had already referred the trouble to lawyers.  Their early re-
- :turn surprises me.  As to the children themselves, the older girls
- :are personally agreeable, slender, and certainly full of zest.  They
- :travel yearly and already are familiar with the world.  Their father
- :was a quizzical old man who fairly idolized them.  His will leaves
- :them very nearly a half-million dollars.  Only the earlier, first
- :will is very irregular.  I've already quizzed them about the real
- :hazards of quarrels over legal prizes of similar size.  From their
- :replies I've realized slowly that the girls are all right.  It
+S:    The JOURNAL learned that the relatives on their arrival in
+ :April had already referred the trouble to lawyers. Their early re-
+ :turn surprises me. As to the children themselves, the older girls
+ :are personally agreeable, slender, and certainly full of zest. They
+ :travel yearly and already are familiar with the world. Their father
+ :was a quizzical old man who fairly idolized them. His will leaves
+ :them very nearly a half-million dollars. Only the earlier, first
+ :will is very irregular. I've already quizzed them about the real
+ :hazards of quarrels over legal prizes of similar size. From their
+ :replies I've realized slowly that the girls are all right. It
  :really amazes me that even persons like ourselves promptly seize
  :upon some hostile relative's version of an earlier will, which
  :should be recognized easily as false.
@@ -8033,11 +8033,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -8057,33 +8057,33 @@ B:                             Lesson S1
 T:			SPEED PRACTICE SERIES
  :
  :The S series of lessons is designed to help you improve your typing speed
- :and accuracy.  It is assumed that you have already learned how to touch
+ :and accuracy. It is assumed that you have already learned how to touch
  :type either from a previous course in touch typing or from the T series of
  :these lessons.
  :
- :You can use this series even if you do not know how to touch type.  But, it is
+ :You can use this series even if you do not know how to touch type. But, it is
  :recommended that you at least learn to touch type most of the letters of the
- :alphabet before starting this series.  When you encounter a letter or symbol
- :which you have not learned, you will have to look.  This is a very bad habit to
- :get into and is hard to break.  (You needn't worry if you only need to glance
+ :alphabet before starting this series. When you encounter a letter or symbol
+ :which you have not learned, you will have to look. This is a very bad habit to
+ :get into and is hard to break. (You needn't worry if you only need to glance
  :down for unusual keys, like the dollar sign.)
 
 *:_S_R_L1
 T:			   RULES OF THE GAME
  :
- :I will display a paragraph on the screen.  You should then type the entire
- :paragraph as quickly and as accurately as possible.   As you type each
- :character, I will immediately check it for accuracy.  If it was right, I won't
- :do anything.  But, if you made a mistake, I will beep and write that letter in
- :inverse video (a black character on a white background).  You can ignore the
+ :I will display a paragraph on the screen. You should then type the entire
+ :paragraph as quickly and as accurately as possible.  As you type each
+ :character, I will immediately check it for accuracy. If it was right, I won't
+ :do anything. But, if you made a mistake, I will beep and write that letter in
+ :inverse video (a black character on a white background). You can ignore the
  :error and continue going; or, you can backup and correct it with the DELETE
- :or BACKSPACE keys.  (I will still count it as an error though.)
+ :or BACKSPACE keys. (I will still count it as an error though.)
  :
- :I will also be timing you.  From the time you type the first character until
- :you hit the final carriage return, my stop watch will be going.  At the
+ :I will also be timing you. From the time you type the first character until
+ :you hit the final carriage return, my stop watch will be going. At the
  :end of the paragraph, I will tell you your rating (in words-per-minute).
  :
- :If you made too many mistakes, try the next paragraph slower.  If you made no
+ :If you made too many mistakes, try the next paragraph slower. If you made no
  :mistakes or only one or two, try the next one faster.
 
 I:First, a quick warm-up.
@@ -8099,11 +8099,11 @@ I:If the cursor is on a blank line, type return to skip it
 S:Dear Sirs:
  :
  :I have just purchased a Heathkit H89 computer system and would
- :like to order two boxes of diskettes for it.  This system uses
+ :like to order two boxes of diskettes for it. This system uses
  :5 1/4 inch, hard-sectored, ten-sector, single-sided, single-
  :density diskettes.
  :
- :Enclosed is my check for $45.00.  Please rush this order, as I
+ :Enclosed is my check for $45.00. Please rush this order, as I
  :can not use my system before they arrive.
  :
  :Sincerely,
@@ -8113,9 +8113,9 @@ S:Dear Sirs:
 *:_S_R_L5
 S:Dear Sirs:
  :
- :Thank you for sending the diskettes so promptly.  How-
+ :Thank you for sending the diskettes so promptly. How-
  :ever, the diskettes which you sent are for soft-sectored
- :drives.  As I stated in my original letter my system
+ :drives. As I stated in my original letter my system
  :accepts only ten-sector, hard-sectored diskettes.
  :
  :I will return these two boxes as soon as I receive the
@@ -8129,11 +8129,11 @@ S:Dear Sirs:
 S:Dear Mr. Smith:
  :
  :Thank you for informing us that the diskettes which you pur-
- :chased from us are not satisfactory.  We are sorry for the
+ :chased from us are not satisfactory. We are sorry for the
  :inconvenience you have been caused in this transaction.
  :
  :We shall be glad to replace the diskettes you now have or to
- :allow you to select a different brand.  If you will let us know
+ :allow you to select a different brand. If you will let us know
  :your wishes we shall be glad to give the matter our immediate
  :attention.
  :
@@ -8188,7 +8188,7 @@ S:Tell me what you are busy about, and I will tell you what you are.
 I:Gelett Burgess
 *:_S_R_L15
 S:If in the last few years you haven't discarded a major opinion or
- :acquired a new one, check your pulse.  You may be dead.
+ :acquired a new one, check your pulse. You may be dead.
 
 I:James B. Conant
 *:_S_R_L16
@@ -8197,7 +8197,7 @@ S:Democracy is a small hard core of common agreement, surrounded
 
 I:Albert Einstein
 *:_S_R_L17
-S:I never think of the future.  It comes soon enough.
+S:I never think of the future. It comes soon enough.
 
 I:Harry S. Truman
 *:_S_R_L18
@@ -8224,7 +8224,7 @@ S:When you have to make a choice and don't make it, that is in itself a choice.
 I:James Holt McGravran.
 *:_S_R_L23
 S:There is a way of transferring funds that is even faster
- :than electronic banking.  It is called marriage.
+ :than electronic banking. It is called marriage.
 
 I:Woody Allen
 *:_S_R_L24
@@ -8236,7 +8236,7 @@ S:A poem begins in delight and ends in wisdom.
 
 I:Louis Pasteur
 *:_S_R_L26
-S:When I approach a child, he inspires in me two sentiments:  tenderness
+S:When I approach a child, he inspires in me two sentiments: tenderness
  :for what he is, and respect for what he may become.
 
 G:_S_E_S2
@@ -8257,15 +8257,15 @@ I:A Christmas Carol, Stave One, Marley's Ghost
 *:_S_R_L28
 S:Now, it is a fact, that there was nothing at all par-
  :ticular about the knocker on the door, except that it
- :was very large.  It is also a fact, that Scrooge had
+ :was very large. It is also a fact, that Scrooge had
  :seen it, night and morning, during his whole residence
  :in that place; also that Scrooge has as little of what
  :is called fancy about him as any man in the city of
  :London, even including--which is a bold word--the
- :corporation, aldermen, and livery.  Let it also be
+ :corporation, aldermen, and livery. Let it also be
  :borne in mind that Scrooge had not bestowed one
  :thought on Marley, since his last mention of his
- :seven year's dead partner that afternoon.  And then
+ :seven year's dead partner that afternoon. And then
  :let any man explain to me, if he can, how it happened
  :that Scrooge, having his key in the lock of the door,
  :saw in the knocker, without its undergoing any inter-
@@ -8274,19 +8274,19 @@ S:Now, it is a fact, that there was nothing at all par-
 
 I:Gulliver's Travels, Chapter One, A Voyage to Lilliput
 *:_S_R_L29
-S:When I awaked it was just daylight.  I attempted to rise, but I
+S:When I awaked it was just daylight. I attempted to rise, but I
  :found my arms and legs were strongly fastened on each side to
  :the ground; and my hair, which was long and thick, tied to the
- :ground in the same manner.  I likewise felt several slender
- :ligatures across my body, from my armpits to my thighs.  I
+ :ground in the same manner. I likewise felt several slender
+ :ligatures across my body, from my armpits to my thighs. I
  :could only look upward; the sun began to grow hot, and the
- :light offended my eyes.  I heard a confused noise about me;
- :but in the posture I lay could see nothing except the sky.  In a
+ :light offended my eyes. I heard a confused noise about me;
+ :but in the posture I lay could see nothing except the sky. In a
  :little time I felt something alive moving on my left leg,
  :which, advancing gently forward over my breast, came almost up
  :to my chin; when bending my eyes downward as much as I could, I
  :perceived it to be a human creature not six inches high, with a
- :bow and arrow in his hands, and a quiver at his back.  In the
+ :bow and arrow in his hands, and a quiver at his back. In the
  :mean time I felt at least forty more of the same kind (as I
  :conjectured) following the first.
 
@@ -8295,16 +8295,16 @@ I:Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.
 S:I lost no time, of course, in telling my mother all that
  :I knew, and perhaps should have told her long before,
  :and we saw ourselves at once in a difficult and dangerous
- :position.  Some of the man's money--if he had any--was
+ :position. Some of the man's money--if he had any--was
  :certainly due to us; but it was not likely that our
  :captain's shipmates, above all the two specimens seen by
  :me, Black Dog and the blind beggar, would be inclined to
  :give up their booty in payment of the dead man's debts.
  :The captain's order to mount at once and ride for Dr.
  :Livesey would have left my mother alone and unprotected,
- :which was not to be thought of.  Indeed, it seemed
+ :which was not to be thought of. Indeed, it seemed
  :impossible for either of us to remain much longer in the
- :house:  the fall of coals in the kitchen grate, the very
+ :house: the fall of coals in the kitchen grate, the very
  :ticking of the clock, filled us with alarms.
 
 I:Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.
@@ -8314,10 +8314,10 @@ S:The neighborhood, to our ears, seemed haunted by
  :body of the captain on the parlor floor, and the thought
  :of that detestable blind beggar hovering near at hand,
  :and ready to return, there were moments when, as the
- :saying goes, I jumped in my skin for terror.  Something
+ :saying goes, I jumped in my skin for terror. Something
  :must speedily be resolved upon; and it occurred to us at
  :last to go forth together and seek help in the neighbor-
- :ing hamlet.  No sooner said than done.  Bareheaded as we
+ :ing hamlet. No sooner said than done. Bareheaded as we
  :were, we ran out at once in the gathering evening and
  :the frosty fog.
 
@@ -8333,8 +8333,8 @@ B:                             Lesson S4
 *:_S_R_L32
 T:
  :In this lesson you will be given several soliloquies from
- :Shakespeare's plays.  The spelling and punctuation are
- :quite hard.  Take your time and type them carefully.
+ :Shakespeare's plays. The spelling and punctuation are
+ :quite hard. Take your time and type them carefully.
 
 I:Romeo and Juliet, Act II, Scene II (Capulet's Garden).
 *:_S_R_L33
@@ -8348,7 +8348,7 @@ S:But, soft! what light through yonder window breaks?
  :And none but fools do wear it; cast it off.--
  :It is my lady; O, it is my love!
  :O, that she knew she were!--
- :She speaks, yet she says nothing:  what of that?
+ :She speaks, yet she says nothing: what of that?
  :Her eye discourses, I will answer it.--
  :I am too bold, 'tis not to me she speaks:
 
@@ -8371,7 +8371,7 @@ S:Friends, Romans, countrymen, lend me your ears;
  :I come to bury Caesar, not to praise him.
  :The evil that men do lives after them;
  :The good is oft interred with their bones;
- :So let it be with Caesar:  The noble Brutus
+ :So let it be with Caesar: The noble Brutus
  :Hath told you Caesar was ambitious:
  :If it were so, it was a grievous fault;
  :And grievously hath Caesar answer'd it.
@@ -8393,7 +8393,7 @@ S:He hath brought many captives home to Rome.
  :And Brutus is an honourable man.
  :You all did see that on the Lupercal
  :I thrice presented him a kingly crown,
- :Which he did thrice refuse:  was this ambition?
+ :Which he did thrice refuse: was this ambition?
  :Yet Brutus says he was ambitious;
  :And, sure, he is an honourable man.
 
@@ -8424,12 +8424,12 @@ S:But mercy is above this scepter'd sway,--
  :It is enthroned in the heart of kings,
  :It is an attribute to God himself;
  :And earthly power doth then show likest God's
- :When mercy seasons justice.  Therefore, Jew,
+ :When mercy seasons justice. Therefore, Jew,
  :Though justice be thy plea consider this--
  :That in the course of justice none of us
  :Should see salvation: we do pray for mercy;
  :And that same prayer doth teach us all to render
- :The deeds of mercy.  I have spoke thus much
+ :The deeds of mercy. I have spoke thus much
  :To mitigate the justice of thy plea;
  :Which if thou follow, this strict court of Venice
  :Must needs give sentence 'gainst the merchant there.
@@ -8482,11 +8482,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -8507,21 +8507,21 @@ T:
  :			Numeric Keypad Lessons
  :
  :The N series lessons are provided for practice with the numeric keys available
- :on the H89/H19 terminal.  You do not need to know how to touch type on the
- :standard keyboard in order to learn touch typing on a calculator keypad.  So,
+ :on the H89/H19 terminal. You do not need to know how to touch type on the
+ :standard keyboard in order to learn touch typing on a calculator keypad. So,
  :you can begin this series right away.
  :
  :When entering numeric values, accuracy is usually more important than speed.
- :Take these lessons very slowly.  Speed will come naturally later.
+ :Take these lessons very slowly. Speed will come naturally later.
  :
- :As with the standard keypad, you must start in the HOME position.  Place the
+ :As with the standard keypad, you must start in the HOME position. Place the
  :first three fingers of your right hand over the 4, 5, and 6 keys of the keypad.
- :(Your thumb and fifth finger are not used.)  Your fingers should be poised just
- :over the keys gently brushing them.  Use the thumb or any finger of your left
+ :(Your thumb and fifth finger are not used.) Your fingers should be poised just
+ :over the keys gently brushing them. Use the thumb or any finger of your left
  :hand for other keys, such as the SPACE bar.
  :
  :After entering each line, hit the ENTER key with the 6-finger (the third finger
- :of your right hand).  Immediately return your finger to the 6 key.  It is very
+ :of your right hand). Immediately return your finger to the 6 key. It is very
  :important that you bring the finger back without looking.
 
 I:Use your third finger only.
@@ -8908,11 +8908,11 @@ B: Help screen
 T:
  :Use the arrow-keys to navigate through the menus.
  :
- :Press ESC to exit, repeat or skip a lesson.  If you are half way through a
+ :Press ESC to exit, repeat or skip a lesson. If you are half way through a
  :drill, pressing ESC will first reset it (so you will have to press it twice).
  :
  :You can access gtypist's manual either by running "info gtypist", or by
- :loading "gtypist.html" in your browser.  The most recent version of the
+ :loading "gtypist.html" in your browser. The most recent version of the
  :manual can also be found here:
  :    http://www.gnu.org/software/gtypist/doc/
  :

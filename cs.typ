@@ -36,11 +36,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -54,7 +54,7 @@ G:_Q_MENU
 *:Q1
 *:_Q_S_Q1
 *:_Q_R_L0
-#                                                             ../orig/q.typ:21
+#                                                            ../orig/q.typ:21
 T:			Welcome to lesson Q1.
  :
  :In the Q series of lessons, we will be learning to touch-type on the standard
@@ -65,7 +65,7 @@ T:			Welcome to lesson Q1.
  :If you have never taken any lessons in typing before, please be patient. Typing
  :is not difficult but it does take a lot of practice. Avoid the tendency to
  :look down at your fingers while typing. This is a very bad habit and is hard
- :to break later. If you hit the wrong key, I will let you know.  (But, I won't
+ :to break later. If you hit the wrong key, I will let you know. (But, I won't
  :tell anyone else, so don't worry about it.)
  :
  :If you have always used the hunt-and-peck method, you will have an even harder
@@ -77,7 +77,7 @@ T:			Welcome to lesson Q1.
  :fairly quickly. Or, you may want to go directly to the S series.
 
 *:_Q_R_L1
-#                                                             ../orig/q.typ:42
+#                                                            ../orig/q.typ:42
 T:
  :			The HOME Keys.
  :
@@ -96,12 +96,12 @@ T:
  :key. This is an electronic keyboard and does not take much pressure to ac-
  :cidentally press the key down.
  :
- :Above the D-key is the E-key. Above the K-key is the I-key.  Learn these
+ :Above the D-key is the E-key. Above the K-key is the I-key. Learn these
  :positions well. Whenever you are about to type a line, look at your fingers and
  :make sure they are in the HOME position. Then don't look at them again.
 
 *:_Q_R_L2
-#                                                             ../orig/q.typ:63
+#                                                            ../orig/q.typ:63
 T:
  :			DRILL PATTERNS
  :
@@ -109,7 +109,7 @@ T:
  :screen and instructions at the top of the screen.
  :
  :All you have to do is type in the characters that you see in the middle of
- :the screen. If you hit the correct key, I will not do anything.  If you make
+ :the screen. If you hit the correct key, I will not do anything. If you make
  :a mistake, I will display a large X under the letter that you got wrong and
  :beep the terminal. In either event, just keep going by typing the next letter.
  :
@@ -124,70 +124,70 @@ T:
  :on the second try you made more than two mistakes, I will beep again and make
  :you try again, etc. Don't forget to use your right thumb for the SPACE bar.
 
-#                                                             ../orig/q.typ:64
+#                                                            ../orig/q.typ:64
 I:(1) Try this:
 *:_Q_R_L3
-#                                                             ../orig/q.typ:65
+#                                                            ../orig/q.typ:65
 D:asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj
 
-#                                                             ../orig/q.typ:66
+#                                                            ../orig/q.typ:66
 I:Now this:
 *:_Q_R_L4
-#                                                             ../orig/q.typ:67
+#                                                            ../orig/q.typ:67
 D:asdef ;lkij asdef ;lkij asdef ;lkij asdef ;lkij asdef ;lkij
 
-#                                                             ../orig/q.typ:68
+#                                                            ../orig/q.typ:68
 I:(2) Some more:
 *:_Q_R_L5
-#                                                             ../orig/q.typ:71
+#                                                            ../orig/q.typ:71
 D:as al ad ak af aj fa ka da la sa ja sl sd sk sf ls ds ks fs
  :de le ae ke se je fe ed el ea ek es ej ef ed lf dk dl fl kl
  :ki ai li si di ji fi ia il is ik id ij if dd ee ss ff ll ei
 
-#                                                             ../orig/q.typ:72
+#                                                            ../orig/q.typ:72
 I:(3) Hang in there; let's do some sentences...
 *:_Q_R_L6
-#                                                             ../orig/q.typ:73
-D:Dad adds a salad A lad asks  Salad falls as a lad asks Dad
+#                                                            ../orig/q.typ:73
+D:Dad adds a salad A lad asks Salad falls as a lad asks Dad
 
-#                                                             ../orig/q.typ:74
+#                                                            ../orig/q.typ:74
 I:(4)
 *:_Q_R_L7
-#                                                             ../orig/q.typ:76
-D:Lease a desk Add a safe deal  Ask less fees  Add a lease
- :Lease a lake Add lake sales  Add deeds  Flee false deals
+#                                                            ../orig/q.typ:76
+D:Lease a desk Add a safe deal Ask less fees Add a lease
+ :Lease a lake Add lake sales Add deeds Flee false deals
 
-#                                                             ../orig/q.typ:77
+#                                                            ../orig/q.typ:77
 I:(5)
 *:_Q_R_L8
-#                                                             ../orig/q.typ:80
+#                                                            ../orig/q.typ:80
 D:Feel a dead faded leaf Seeds fall as a faded leaf falls
- :A lad sells seeds Dad feels a seed  Dad adds a seed deal
+ :A lad sells seeds Dad feels a seed Dad adds a seed deal
  :A deaf lad sells a false jade Dad sells a deaf lad a sled
 
-#                                                             ../orig/q.typ:81
+#                                                            ../orig/q.typ:81
 I:(6)
 *:_Q_R_L9
-#                                                             ../orig/q.typ:85
-D:Idle Sid seeks a salad Sis aids Sid  A salad is laid aside
+#                                                            ../orig/q.typ:85
+D:Idle Sid seeks a salad Sis aids Sid A salad is laid aside
  :Sid seeks a lake Sis is all silks Sid likes silks
- :A lad asks if Dad likes lilies Dad is ill  Dad feels life dies as lilies fade
+ :A lad asks if Dad likes lilies Dad is ill Dad feels life dies as lilies fade
  :Dad slides all lilies aside Dad is jaded
 
-#                                                             ../orig/q.typ:86
+#                                                            ../orig/q.typ:86
 I:(7)
 *:_Q_R_L10
-#                                                             ../orig/q.typ:91
-D:Sails fill as Sis sails a safe lake Skill aids Sis  Dad
- :likes a safe sail Sis seeks a lee isle  All sail is
- :laid aside Sis feels life is ideal  Idle fields lead as
- :Sis seeks lilies Sis falls  Lilies fade as Sis falls
+#                                                            ../orig/q.typ:91
+D:Sails fill as Sis sails a safe lake Skill aids Sis Dad
+ :likes a safe sail Sis seeks a lee isle All sail is
+ :laid aside Sis feels life is ideal Idle fields lead as
+ :Sis seeks lilies Sis falls Lilies fade as Sis falls
  :Faded sails fill Idle isles slide aside as Sis sails
 
-#                                                             ../orig/q.typ:92
+#                                                            ../orig/q.typ:92
 I:(8)
 *:_Q_R_L11
-#                                                             ../orig/q.typ:93
+#                                                            ../orig/q.typ:93
 D:Sid adds all sail as Dad sees a safe sea as idle as a lake
 
 G:_Q_E_Q1
@@ -197,7 +197,7 @@ G:_Q_E_Q1
 *:Q2
 *:_Q_S_Q2
 *:_Q_R_L12
-#                                                            ../orig/q.typ:104
+#                                                           ../orig/q.typ:104
 T:
  :			 (h g o u n . t)
  :
@@ -207,66 +207,66 @@ T:
  :
  :Note that a period is followed by one space because it's no longer 1957.
 
-#                                                            ../orig/q.typ:105
+#                                                           ../orig/q.typ:105
 I:(1) Rhythm Drill
 *:_Q_R_L13
-#                                                            ../orig/q.typ:108
+#                                                           ../orig/q.typ:108
 D:a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh a;sldkfjgh
  :asdefghk lokijujhjn asdefghk lokijujhjn asdefghk
- :l. a.  l.  s.  l.  d.  l.  e.  l.  n.  l.  t.  l.  o.
+ :l. a. l. s. l. d. l. e. l. n. l. t. l. o.
 
-#                                                            ../orig/q.typ:109
+#                                                           ../orig/q.typ:109
 I:(2) Balanced Keyboard Drill
 *:_Q_R_L14
-#                                                            ../orig/q.typ:112
+#                                                           ../orig/q.typ:112
 D:as os es us is an on en un in at ot et ut it ad od ed ud id
  :sa so se su si na no ne nu ni ta to te tu ti ha ho he hu hi
  :da do de du di au st oi sh oi ts ht oe nk ou nd ue ns ui th
 
-#                                                            ../orig/q.typ:113
+#                                                           ../orig/q.typ:113
 I:(3) Continuous Copy
 *:_Q_R_L15
-#                                                            ../orig/q.typ:116
-D:Ed had a shed.  His shed had dishes.  He had shade.
- :Ed had his ease. Sis liked a safe shed.  Sis had shade.
- :His shed is ashes. Ed hides his head.  He heeds Sis.
+#                                                           ../orig/q.typ:116
+D:Ed had a shed. His shed had dishes. He had shade.
+ :Ed had his ease. Sis liked a safe shed. Sis had shade.
+ :His shed is ashes. Ed hides his head. He heeds Sis.
 
-#                                                            ../orig/q.typ:117
+#                                                           ../orig/q.typ:117
 I:(4)
 *:_Q_R_L16
-#                                                            ../orig/q.typ:120
+#                                                           ../orig/q.typ:120
 D:Odd ideas are like odd seeds. Odd seeds die as do odd deeds.
- :Dad has odd ideas. Dad sees a soda as a sad dose.  A soda
- :aids Sis. So I see a soda is added.  Sis does like a soda.
+ :Dad has odd ideas. Dad sees a soda as a sad dose. A soda
+ :aids Sis. So I see a soda is added. Sis does like a soda.
 
-#                                                            ../orig/q.typ:121
+#                                                           ../orig/q.typ:121
 I:(5)
 *:_Q_R_L17
-#                                                            ../orig/q.typ:124
-D:Sid used us. Sid sued us.  Ada used us as aid.  I did aid.
- :I added ease. I issued added deeds.  Ada said adieu.  Ada
+#                                                           ../orig/q.typ:124
+D:Sid used us. Sid sued us. Ada used us as aid. I did aid.
+ :I added ease. I issued added deeds. Ada said adieu. Ada
  :used dead deeds as issues. Sid said I used deeds due Ada.
 
-#                                                            ../orig/q.typ:125
+#                                                           ../orig/q.typ:125
 I:(6)
 *:_Q_R_L18
-#                                                            ../orig/q.typ:128
-D:Ed is staid. Ed uses tested data as assets.  Sis is a
- :tease. Sis sets a tea date.  As Ed tastes tea I state tea
- :data. Sis teases Ed at tea.  As Ed eats I state diet data.
+#                                                           ../orig/q.typ:128
+D:Ed is staid. Ed uses tested data as assets. Sis is a
+ :tease. Sis sets a tea date. As Ed tastes tea I state tea
+ :data. Sis teases Ed at tea. As Ed eats I state diet data.
 
-#                                                            ../orig/q.typ:129
+#                                                           ../orig/q.typ:129
 I:(7)
 *:_Q_R_L19
-#                                                            ../orig/q.typ:132
+#                                                           ../orig/q.typ:132
 D:Sis said Dean is dense as sand. Dean needs an idea and Sis
- :needs a sedan. Dad sends a sedan.  Dean is indeed sad as
+ :needs a sedan. Dad sends a sedan. Dean is indeed sad as
  :he sees Sis and Ed inside. At nine he sees Sis and Ed dine.
 
-#                                                            ../orig/q.typ:133
+#                                                           ../orig/q.typ:133
 I:(8) Rhythmic Review
 *:_Q_R_L20
-#                                                            ../orig/q.typ:134
+#                                                           ../orig/q.typ:134
 D:He sees that in a test he has to state and use a sane idea.
 
 G:_Q_E_Q2
@@ -276,7 +276,7 @@ G:_Q_E_Q2
 *:Q3
 *:_Q_S_Q3
 *:_Q_R_L21
-#                                                            ../orig/q.typ:147
+#                                                           ../orig/q.typ:147
 T:
  :			 (y r c , ? : p)
  :
@@ -288,86 +288,86 @@ T:
  :
  :The colon (:) introduces a list and is followed by two spaces.
 
-#                                                            ../orig/q.typ:148
+#                                                           ../orig/q.typ:148
 I:(1) Rhythm Drill
 *:_Q_R_L22
-#                                                            ../orig/q.typ:150
+#                                                           ../orig/q.typ:150
 D:deki frju dck, dcl. frju ftjy deki frju dck, dcl. frju ftjy
  :fgjh ;p;? jujy dedc lol. kik, fgju ;:;: frfk jujy dedc kik,
 
-#                                                            ../orig/q.typ:151
+#                                                           ../orig/q.typ:151
 I:(2) Balanced Keyboard Drill
 *:_Q_R_L23
-#                                                            ../orig/q.typ:157
+#                                                           ../orig/q.typ:157
 D:ag ac ar al ap at ay af ug uc ur ul up ut eg ec er el ep et
  :ey ef og or ol op ot of ig ic ir il ip if ga ca ra la pa fa
  :gu cu ru lu pu fu ge ce re le pe ye fe go co ro lo po yo fo
  :gi ci ri li fi gn pl gh ld sy rd ty ct ft ch nc dy dr ph ng
- :s? d?  e?  f?  r?  f?  t?  j?  n?  s:  d:  e:  r:  t:  n:
+ :s? d? e? f? r? f? t? j? n? s: d: e: r: t: n:
  :k, i, d, e, f, r, k, u, f, t, k, y, d, c, k, n, k, h, l, o,
 
-#                                                            ../orig/q.typ:158
+#                                                           ../orig/q.typ:158
 I:(3) Continuous Copy
 *:_Q_R_L24
-#                                                            ../orig/q.typ:160
+#                                                           ../orig/q.typ:160
 D:Chance can aid a nice choice. It can teach one to count his
  :costs too. In each such case a chance cause can hit costs.
 
-#                                                            ../orig/q.typ:161
+#                                                           ../orig/q.typ:161
 I:(4)
 *:_Q_R_L25
-#                                                            ../orig/q.typ:163
+#                                                           ../orig/q.typ:163
 D:At his age a good song is the thing as he gets his dog and
- :gun. He is going to hunt again.  As night ends he sets out.
+ :gun. He is going to hunt again. As night ends he sets out.
 
-#                                                            ../orig/q.typ:164
+#                                                           ../orig/q.typ:164
 I:(5)
 *:_Q_R_L26
-#                                                            ../orig/q.typ:166
+#                                                           ../orig/q.typ:166
 D:As soon as papa is deep in a nap Pat happens to pound in his
  :shop and the phone sounds. Pat is to paint and pass up noise.
 
-#                                                            ../orig/q.typ:167
+#                                                           ../orig/q.typ:167
 I:(6)
 *:_Q_R_L27
-#                                                            ../orig/q.typ:169
+#                                                           ../orig/q.typ:169
 D:I hear there is an error in her other order. The store sent
  :her red dress to our door. She is sure that it is too dear.
 
-#                                                            ../orig/q.typ:170
+#                                                           ../orig/q.typ:170
 I:(7)
 *:_Q_R_L28
-#                                                            ../orig/q.typ:172
+#                                                           ../orig/q.typ:172
 D:I shall hold those ideal hotel lots at least until all land
  :is sold. Late sales still total less than the one old deal.
 
-#                                                            ../orig/q.typ:173
+#                                                           ../orig/q.typ:173
 I:(8)
 *:_Q_R_L29
-#                                                            ../orig/q.typ:175
+#                                                           ../orig/q.typ:175
 D:Sunday is too soon. It is not easy to stay and study this
- :dandy day. I need to study.  It is not easy on the eyes.
+ :dandy day. I need to study. It is not easy on the eyes.
 
-#                                                            ../orig/q.typ:176
+#                                                           ../orig/q.typ:176
 I:(9)
 *:_Q_R_L30
-#                                                            ../orig/q.typ:178
+#                                                           ../orig/q.typ:178
 D:One needs to use faith if one fishes often. It is fun to sit
  :on soft sod and fish. It is fun to feel a fish dash out fast.
 
-#                                                            ../orig/q.typ:179
+#                                                           ../orig/q.typ:179
 I:(9A)
 *:_Q_R_L31
-#                                                            ../orig/q.typ:183
-D:Hello, is this Dan? Hello, Dan, this is Ann.  No, Ann.  Did
- :you see Ted? Is Nan at the house?  Then dash to the house.
- :Is he at the house? Has he his auto?  Did he tie on those
+#                                                           ../orig/q.typ:183
+D:Hello, is this Dan? Hello, Dan, this is Ann. No, Ann. Did
+ :you see Ted? Is Nan at the house? Then dash to the house.
+ :Is he at the house? Has he his auto? Did he tie on those
  :odds and ends: used suits, sun hats, shoes, and side tent?
 
-#                                                            ../orig/q.typ:184
+#                                                           ../orig/q.typ:184
 I:(10) Rhythmic Review
 *:_Q_R_L32
-#                                                            ../orig/q.typ:185
+#                                                           ../orig/q.typ:185
 D:Papa can not plan to get us all there in such a car as this.
 
 G:_Q_E_Q3
@@ -421,7 +421,7 @@ D:John has to use a tan and jet auto. He joined Jane in its
 I:(5)
 *:_Q_R_L38
 #                                                            ../orig/q.typ:213
-D:Smith is his name. He is on some Maine team.  I am to meet
+D:Smith is his name. He is on some Maine team. I am to meet
  :him and Miss Smith. I must see them some time this month.
 
 #                                                            ../orig/q.typ:214
@@ -449,7 +449,7 @@ D:She has questions and unique ideas to quote us. So she is
 I:(9)
 *:_Q_R_L42
 #                                                            ../orig/q.typ:225
-D:The zoo is shut. His zest is dashed.  Dan dozes.  One sneeze
+D:The zoo is shut. His zest is dashed. Dan dozes. One sneeze
  :and then a dozen seize Dan. In a daze he sees the zoo seized.
 
 #                                                            ../orig/q.typ:226
@@ -463,7 +463,7 @@ D:The boat has been best to Boston. On this basis no doubt one
 I:(9B)
 *:_Q_R_L44
 #                                                            ../orig/q.typ:231
-D:Nan is in Texas. She is anxious to dine at six.  She sees a
+D:Nan is in Texas. She is anxious to dine at six. She sees a
  :taxi stand next to the sixth exit. Taxis exist to aid one.
 
 #                                                            ../orig/q.typ:232
@@ -613,11 +613,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -1952,7 +1952,7 @@ G:_R_E_R10
 *:_R_R_L103
 #                                                            ../orig/r.typ:514
 T:
- :  Již jsme téměř u konce, vydržte!
+ : Již jsme téměř u konce, vydržte!
 
 #                                                            ../orig/r.typ:515
 I:Rozcvička.
@@ -2402,7 +2402,7 @@ D:kkk kkk kkk kk kk kk k k k
 I: Nyní oba.
 *:_T_R_L11
 #                                                             ../orig/t.typ:81
-D:ddd kkk dd  dkd dkd kdk ddd kkk
+D:ddd kkk dd dkd dkd kdk ddd kkk
  :dkd dkd dkd dkd dkd dkd dkd dkd
  :dd kk kd dk dd kk kd dk kk dd d
 
@@ -3076,11 +3076,11 @@ D:lll l:l lll ::: lll l:l lll
 I:Za dvojtečkou vždy následuje dvojitá mezera.
 *:_T_R_L104
 #                                                            ../orig/t.typ:255
-D:Test:  Drahá Petro:  Drahý Jane:
+D:Test: Drahá Petro: Drahý Jane:
 
 *:_T_R_L105
 #                                                            ../orig/t.typ:256
-D:Drahý Dr. Stone:  K Hilbertu:
+D:Drahý Dr. Stone: K Hilbertu:
 
 *:_T_R_L106
 #                                                            ../orig/t.typ:271
@@ -4712,8 +4712,8 @@ I:(2) The Period
 *:_V_R_L50
 #                                                            ../orig/v.typ:271
 D:. . . . . . l.l l.l l.l l.l l.l l.l l.l l.l l.l
- :Hit it lightly. Hit it lightly.  Hit it lightly.
- :Hit it lightly. Hit it lightly.  Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
+ :Hit it lightly. Hit it lightly. Hit it lightly.
 
 #                                                            ../orig/v.typ:272
 I:(3)
@@ -4874,14 +4874,14 @@ D:bun bun bun; nip nip nip; fib fib fib; win win win;
  :mend mend mend; vine vine vine; blow blow blow;
  :
  :We require more time to turn out a very good job.
- :Be prompt. Never shirk.  Make promptness a habit.
+ :Be prompt. Never shirk. Make promptness a habit.
 
 #                                                            ../orig/v.typ:371
 I:(5) Practice Paragraph
 *:_V_R_L65
 #                                                            ../orig/v.typ:384
 S:Never put off until tomorrow any job you should
- :finish today. Try to be prompt at all times.  No one
+ :finish today. Try to be prompt at all times. No one
  :likes to be kept waiting.
  :
  :Keep on working just as diligently as you have
@@ -5252,21 +5252,21 @@ S:Touch typing is easy to learn. You do not need a mind
 I:(4) New Key Tryout
 *:_V_R_L100
 #                                                            ../orig/v.typ:595
-D:? ? ? ? ? ? Who? Who?  Who?  Who?  Who?  Who?
- :? ? ? ? ? ? Why? Why?  Why?  Why?  Why?  Why?
+D:? ? ? ? ? ? Who? Who? Who? Who? Who? Who?
+ :? ? ? ? ? ? Why? Why? Why? Why? Why? Why?
 
 #                                                            ../orig/v.typ:596
 I:(5)
 *:_V_R_L101
 #                                                            ../orig/v.typ:604
-D:How much? How many?  How soon?  How early?  How fast?
- :How many? How much?  How fast?  How large?  How soon?
+D:How much? How many? How soon? How early? How fast?
+ :How many? How much? How fast? How large? How soon?
  :
- :Where is Max? Where is Mary?  What is Cora sewing?
- :Where is Sam? Where is Paul?  What is Zeke fixing?
+ :Where is Max? Where is Mary? What is Cora sewing?
+ :Where is Sam? Where is Paul? What is Zeke fixing?
  :
- :Can Max swim? Can he dance?  Can he play tennis?
- :Can he dance? Deos he swim?  Do you like tennis?
+ :Can Max swim? Can he dance? Can he play tennis?
+ :Can he dance? Deos he swim? Do you like tennis?
 
 #                                                            ../orig/v.typ:605
 I:(6)
@@ -5275,15 +5275,15 @@ I:(6)
 D:Did you open the mail? Did you read the note?
  :Did you read the note? Did you open the mail?
  :
- :Can Van do the work? Will he require aid?  Who knows?
- :Can Jim complete it? Is he quite capable?  Who knows?
+ :Can Van do the work? Will he require aid? Who knows?
+ :Can Jim complete it? Is he quite capable? Who knows?
 
 #                                                            ../orig/v.typ:611
 I:(7) Practice Paragraph
 *:_V_R_L103
 #                                                            ../orig/v.typ:626
 S:Do you set aside a definite amount of time each
- :day for practice? Do you start work promptly?  Can
+ :day for practice? Do you start work promptly? Can
  :you make the various machine adjustments quickly?
  :
  :Do you keep your fingers curved? Do you strike each key
@@ -5418,7 +5418,7 @@ S:Henry Clay, American statesman and orator, was
 I:(9)
 *:_V_R_L114
 #                                                            ../orig/v.typ:713
-S:Do not erase. Do not cross out.  Do not strike
+S:Do not erase. Do not cross out. Do not strike
  :one letter over another. Let your errors stand.
  :Finish every line you start.
  :
@@ -5698,7 +5698,7 @@ S:Christopher Latham Sholes was the inventor of the first practical
  :February 14, 1819.
  :
  :James Monroe, fifth President of The United States, was born on
- :April 28, 1758. In 1782 he entered politics.  In 1799 he was appointed
+ :April 28, 1758. In 1782 he entered politics. In 1799 he was appointed
  :Governor of Virginia. In 1811 he became Secretary of State; in 1814,
  :Secretary of War; in 1816, President of The United States.
  :
@@ -5707,7 +5707,7 @@ S:Christopher Latham Sholes was the inventor of the first practical
  :December 8, 1941, The United States declared war against the Axis.
  :
  :Samuel F. B. Morse, inventor and artist, was born in 1791 and died in
- :1872. In 1829 he went to Europe for three years.  For 12 years he
+ :1872. In 1829 he went to Europe for three years. For 12 years he
  :worked on perfecting the electrical telegraph, which was exhibited at New
  :York University in 1837.
 
@@ -5808,7 +5808,7 @@ I:(8)
 *:_V_R_L146
 #                                                            ../orig/v.typ:972
 S:As you have seen in the above sentence practice, the hyphen is used
- :for typing compound words. Here are a few more examples:  up-to-date,
+ :for typing compound words. Here are a few more examples: up-to-date,
  :first-class, by-product.
  :
  :The hyphen is used also to divide words between syllables at the end
@@ -6109,11 +6109,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -6318,7 +6318,7 @@ S:Sára se sama snaží systematicky studovat.
 I:(4) Zkusíme anglický text. Nebudete potřebovat diakritickou řadu.
 *:_U_R_L25
 #                                                             ../orig/u.typ:91
-S:    Safety first.  This slogan is well known.  Yet many care-
+S:   Safety first. This slogan is well known. Yet many care-
  :less people disregard it and so we have accidents. It is pos-
  :sible to avoid many types of accidents by a little forethought.
  :Don't be careless. Do your share to avoid mishaps.
@@ -6410,9 +6410,9 @@ S:Lada maloval pěkné a líbivé malby.
 I:(4) Zkuste si opsat tento text:
 *:_U_R_L35
 #                                                            ../orig/u.typ:138
-S:    Play is most important to a child.  All of us must play
+S:   Play is most important to a child. All of us must play
  :a little. All work and no play makes Jack a dull boy, the
- :old saying goes. Play affords relaxation.  Some people claim
+ :old saying goes. Play affords relaxation. Some people claim
  :their work is so enthralling that they do not need to play.
  :Psychologists say that the stress of modern life demands that
  :all adults have some hobby away from their daily pursuit.
@@ -6696,11 +6696,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -6865,7 +6865,7 @@ I:(4)
 *:_D_R_L14
 #                                                             ../orig/d.typ:66
 D:Enos eats a thin hash diet in a hued dish as he sits on an odd seat
- :Dad does not eat suet  He had seen Sue dent his auto
+ :Dad does not eat suet He had seen Sue dent his auto
 Q:Stisknutím Y můžete pokračovat, N bude cvičení opakovat, F12 - konec. 
 N:_D_R_L14
 
@@ -6917,8 +6917,8 @@ Q: Pro pokračování stiskněte Y, F12 pro konec.
 I:(1)
 *:_D_R_L18
 #                                                             ../orig/d.typ:91
-D:e. e.  e.  e.  a.  s.  o.  n.  e.  t.  u.  h.  i.  d.  a.  a.
- :h. u.  a.  i.  o.  n.  s.  d.  t.  e.  h.  o.  u.  i.  s.  a.
+D:e. e. e. e. a. s. o. n. e. t. u. h. i. d. a. a.
+ :h. u. a. i. o. n. s. d. t. e. h. o. u. i. s. a.
 Q: Stisknutím Y můžete pokračovat, N bude cvičení opakovat, F12 - konec. 
 N:_D_R_L18
 
@@ -6939,7 +6939,7 @@ I:(3)
 #                                                            ../orig/d.typ:100
 D:Adana Andie Annie Aonia Audie Denis Diana Dinah
  :Donna Duane Edith Ethan India Susan Susie Thane
- :Adana. Andie.  Annie.  Aonia.  Audie.  Denis.  Diana.  Dinah.
+ :Adana. Andie. Annie. Aonia. Audie. Denis. Diana. Dinah.
 Q: Stisknutím Y můžete pokračovat, N bude cvičení opakovat, F12 - konec. 
 N:_D_R_L20
 
@@ -7611,7 +7611,7 @@ D:a about after all also an and another any are as at back be because
  :been before being between both but by can could day did do down each
  :even first for from get good had has have he her here him his how I
  :if in into is it its just know last life like little long made make
- :many may me men more most Mr. Ms.  much must my never new no not now
+ :many may me men more most Mr. Ms. much must my never new no not now
 Q: Stisknutím Y můžete pokračovat, N bude cvičení opakovat, F12 - konec. 
 N:_D_R_L85
 
@@ -7976,11 +7976,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -8070,7 +8070,7 @@ D:Jednou z velmi zajímavých oblastí nových výpočetních
 I:(9A) Odstavec zaměřený na procvičování m a b
 *:_M_R_L9
 #                                                             ../orig/m.typ:53
-S:    Men are bound to believe that business is bad in winter
+S:   Men are bound to believe that business is bad in winter
  :months. Maybe Mr. Smith remembers that most building became
  :better in September but both November and December seemed to
  :be much behind. Monday morning my mail box became blocked
@@ -8109,19 +8109,19 @@ I:(3) Slova o čtyřech písmenech (od a do d)
 #                                                             ../orig/m.typ:81
 S:Dear Dan,
  :
- :    Yes, I came out of the corn, back to the city, both to
+ :   Yes, I came out of the corn, back to the city, both to
  :draw and to do copy on the new cars. To date I am able to
  :put cash in the bank and bear a bill or two. The new deed
  :has done it.
  :
- :    The city has been busy but cold for two days. Dear baby
+ :   The city has been busy but cold for two days. Dear baby
  :has been to see her best aunt. A band came by the door.
  :Baby let the bird cage drop down with a blow. The bird died.
  :Boys put its dead body deep in a dark card case. Baby also
  :has a ball and blue book to drop. I put the boat away. Its
  :deck did burn, but I care not as it does not cost a cent.
  :
- :    Come, call on me at the club.
+ :   Come, call on me at the club.
  :
  :Yours sincerely,
 
@@ -8131,16 +8131,16 @@ I:(4) Slova o čtyřech písmenech (od e po g)
 #                                                             ../orig/m.typ:97
 S:Dear Bea,
  :
- :    I am glad you feel so for the farm in the East.  Even
+ :   I am glad you feel so for the farm in the East. Even
  :as a girl of four or five I was ever so glad to find the
- :farm. In my eyes it was all as good as gold.  Even my feet
+ :farm. In my eyes it was all as good as gold. Even my feet
  :felt good. A girl can gain and grow fast on farm food and
  :the fine free air. Why else did face and form grow full
  :and fair so fast?
  :
- :    On each foot of my farm I felt free from fear.  It
+ :   On each foot of my farm I felt free from fear. It
  :gave me my fill of fun. I felt no fear of any fire in the
- :fall. Now the fire is a fact and my farm is gone.  Give me
+ :fall. Now the fire is a fact and my farm is gone. Give me
  :my full life, etc. The game goes on.
  :
  :Yours sincerely,
@@ -8151,22 +8151,22 @@ I:(5) Slova o čtyřech písmenech (od h k l)
 #                                                            ../orig/m.typ:119
 S:Dear Hal,
  :
- :    Just a line to say I am lost if I cannot fly.  I
+ :   Just a line to say I am lost if I cannot fly. I
  :have to keep on here. I knew it was but a hope last May.
  :It was just my last idea in June. Yet I held my head high
  :and did not lose hope.
  :
- :    Why not fly up in the air a half hour or less and
+ :   Why not fly up in the air a half hour or less and
  :look at my lake and our home on the hill? I left it late
  :last July with one item on my list. Bill gave me half an
  :hour of help. Like the lady of the lake I met the king.
  :Bill was a kind king, too.
  :
- :    To lead off into the air and see all our lake so
+ :   To lead off into the air and see all our lake so
  :long and lots of land so low, was to live a high hour. I
  :kept my hand at my ear so as to help hear. In the air my
- :hair was a loss. It did not kill me.  I have to fly to know
- :life can be less hard. I like to hold on and help Bill.  I
+ :hair was a loss. It did not kill me. I have to fly to know
+ :life can be less hard. I like to hold on and help Bill. I
  :love to fly.
  :
  :Yours sincerely,
@@ -8196,18 +8196,18 @@ I:(3) Čtyřpísmenná slova (od m po p)
 #                                                            ../orig/m.typ:145
 S:Dear Pie,
  :
- :    I open most of my mail and meet the news.  I note that
+ :   I open most of my mail and meet the news. I note that
  :you say Mrs. Page is a mere name but you met the Miss Page.
  :
- :    You must need the car.  Once the pass is open I can move
+ :   You must need the car. Once the pass is open I can move
  :the car over to you. Do you mind if I make it part of a nice
  :plan to meet Miss Page, too? Mrs. Page was only a mile past
  :us. Her son was my age and I made the mile at noon to play a
- :bit. She paid us for milk.  She did not mean much to me, but
+ :bit. She paid us for milk. She did not mean much to me, but
  :her son did.
  :
- :    Next we had more fun up the pass near the poor old No.
- :Nine mine. I can mark many a mile we once ran.  I must mail
+ :   Next we had more fun up the pass near the poor old No.
+ :Nine mine. I can mark many a mile we once ran. I must mail
  :this note or I may miss the post.
  :
  :Yours sincerely,
@@ -8218,21 +8218,21 @@ I:(4) Čtyřpísmenná slova (od r k s)
 #                                                            ../orig/m.typ:166
 S:Dear Ross,
  :
- :    It is a real rain.  The road is so soft my car can but
- :roll, stop, and roll on. Are you on the ship?  If I get as
+ :   It is a real rain. The road is so soft my car can but
+ :roll, stop, and roll on. Are you on the ship? If I get as
  :far as the ship, can we sail in such a rain? If we try to
  :sail, the ship is sure to rock or ride on one side. If I get
  :sick, it is up to you to stay by and show us how to save the
- :ship. Ann has some sort of song to sing in the rain.  She
+ :ship. Ann has some sort of song to sing in the rain. She
  :said she sent it to you.
  :
- :    Did you read of our sale?  We set out a big sign.  Now
+ :   Did you read of our sale? We set out a big sign. Now
  :any sort of suit and any size seem to sell. We are not rich
  :but we can soon step out or be sold out, if any such rate is
  :to rule.
  :
- :    Ann has not seen the ship as yet.  Rain or no rain, Ann
- :says to send her out. All the rest of us say the same.  Can
+ :   Ann has not seen the ship as yet. Rain or no rain, Ann
+ :says to send her out. All the rest of us say the same. Can
  :you ring me in my room at the shop?
  :
  :Yours sincerely,
@@ -8241,7 +8241,7 @@ S:Dear Ross,
 I:(5) Cílený odstavec (i a u)
 *:_M_R_L20
 #                                                            ../orig/m.typ:173
-S:    The public is quite unfair about airing quibbles over
+S:   The public is quite unfair about airing quibbles over
  :house furniture and fruit juices for the university crew.
  :The alumni inquiry into the failure of equipment figures in
  :the issue. The alumni attitude is useful but continues to
@@ -8252,7 +8252,7 @@ S:    The public is quite unfair about airing quibbles over
 I:(6) Cílený odstavec (d, s, -)
 *:_M_R_L21
 #                                                            ../orig/m.typ:182
-S:    Students should be assisted in studying seated at their
+S:   Students should be assisted in studying seated at their
  :desks; cross-questioned as to their needs and desires; ad-
  :vised to use up-to-date leads based on studies of standards.
  :By-products of student days, well-bred friends, kindness,
@@ -8287,18 +8287,18 @@ I:(3) Čtyřpísmenná slova (od t po z)
 #                                                            ../orig/m.typ:208
 S:Dear Tris,
  :
- :    It is so very warm at this time of year, I told my wife
+ :   It is so very warm at this time of year, I told my wife
  :that you and I wish to go west for a week or two. Did I
  :tell you what a wind we had? I went to town to vote for the
- :one man whom I want. I took a well-used tire.  When it went
+ :one man whom I want. I took a well-used tire. When it went
  :down on a bad turn, in the woods, I had to walk. Then the
  :wind more than set in, and I had to wait by a wall. It got
  :our old tree.
  :
- :    I saw two men and set them to work on the car, till
+ :   I saw two men and set them to work on the car, till
  :they told me it was no use. If I were to turn it in, is it
  :true that you can take your car? I want a wide view and I
- :want to talk with you. Thus I wait upon your word.  Wire
+ :want to talk with you. Thus I wait upon your word. Wire
  :yes if you will take this trip.
  :
  :Yours sincerely,
@@ -8309,17 +8309,17 @@ I:(4) Pěti písmenná slova (od a k c)
 #                                                            ../orig/m.typ:227
 S:Dear Cab,
  :
- :    Could you apply to the court to allow my claim as agent
+ :   Could you apply to the court to allow my claim as agent
  :for Mr. Blank? I could bring in his books and see about his
  :bills. If asked, he can cover the costs by checks on a bank
  :that did not break.
  :
- :    Will you allow your child to come alone to see me?  He
+ :   Will you allow your child to come alone to see me? He
  :can have every apple he can carry. By the way, being clean
  :and above board, you must be above bad cases, but you began
  :to bring in off-color cases after April.
  :
- :    I agree you do not cross the law, but why let men win
+ :   I agree you do not cross the law, but why let men win
  :in a black cause on any basis? Why not build up your cases
  :from among men of our own class? Close the awful cases you
  :now carry along to court, and begin again.
@@ -8330,7 +8330,7 @@ S:Dear Cab,
 I:(5) Cílený odstavec (r, t)
 *:_M_R_L26
 #                                                            ../orig/m.typ:236
-S:    In our motor party on the return trip an attractive
+S:   In our motor party on the return trip an attractive
  :quartet first tried to tell thirty or forty short travel
  :stories. By turns they transferred to the theater, to art
  :matters, to court trial stories. In the latter a certain
@@ -8365,13 +8365,13 @@ I:(3) Pětipísmenná slova (od d k h)
 #                                                            ../orig/m.typ:262
 S:Dear Fred,
  :
- :    I have dared to ask you for an extra favor on the first.
+ :   I have dared to ask you for an extra favor on the first.
  :If you are not dated, I am to draft you to drive me by horse
  :or car up the grade to the field house at eight. I guess you
  :have not heard fully about the great dance to be given by the
  :girls on the floor of the field house.
  :
- :    My hands have put fresh green goods on the walls.  Every
+ :   My hands have put fresh green goods on the walls. Every
  :girl has a green dress, on its front a funny glass heart that
  :she gives as a favor. The old folks can drive up early, eat
  :and drink and enjoy it all. We will delay the dance till the
@@ -8387,18 +8387,18 @@ I:(4) Pětipísmenná slova (od i k p)
 #                                                            ../orig/m.typ:283
 S:Dear Madam,
  :
- :    I have your two later notes of March 1.  Maybe it is a
+ :   I have your two later notes of March 1. Maybe it is a
  :large order for you to leave for the north in the month of
  :March.
  :
- :    Our place is miles away, but the real issue is that mu-
+ :   Our place is miles away, but the real issue is that mu-
  :sic means much to us. A night of music, even one piece of
  :music, has often meant more to me than my local paper and all
  :the power I have known. If I can plant a love of music in all
  :parts of this place so that all who hear you sing can learn to
  :love it, it will mean more to me than money.
  :
- :    I never laugh at money, but isn't it plain in these
+ :   I never laugh at money, but isn't it plain in these
  :lines that price ought to be the least of all the items? The
  :point is that our plans for your party are more important. If
  :you read our other offer in the light of our love for music,
@@ -8410,7 +8410,7 @@ S:Dear Madam,
 I:(5) Cílený odstavec (u, y)
 *:_M_R_L31
 #                                                            ../orig/m.typ:297
-S:    If truly quoted, you and Guy, mere youths, fly a con-
+S:   If truly quoted, you and Guy, mere youths, fly a con-
  :tinuous journey of thousands of miles yearly in your study
  :of numerous flying routes. You say you were south in July
  :in the dry country conspicuous for yucca, but now you are
@@ -8449,17 +8449,17 @@ I:(3) Pětipísmenná slova (q to s)
 #                                                            ../orig/m.typ:326
 S:Dear Alice,
  :
- :    I shall start my river story since you have shown you like
+ :   I shall start my river story since you have shown you like
  :my style.
  :
- :    The scene is a state in the South.  A sweet girl speaks of
+ :   The scene is a state in the South. A sweet girl speaks of
  :the sound and sight of the river. Seven men without shame raise
  :the stock sales and the boy tries to spend too much at the store.
  :In order to make a quiet and quick slide down the river, the men
  :seize the boat while the others, who are quite ready to serve the
  :girl, sleep.
  :
- :    It seems the girl has sense, for on a sheet of paper she
+ :   It seems the girl has sense, for on a sheet of paper she
  :writes that her stock of gold is within reach from a round stone
  :under the small shade tree. She does not quote the boy, but does
  :refer to the sorry end of his short study, and in her reply to his
@@ -8474,21 +8474,21 @@ I:(4) Pětipísmenná slova (od t k z)
 #                                                            ../orig/m.typ:348
 S:Dear Mrs. White,
  :
- :    I wish to thank you for the words you wrote three weeks ago,
+ :   I wish to thank you for the words you wrote three weeks ago,
  :and I trust you will write again on the wrong and waste of war.
  :
- :    As I watch the wheels of events today, I think you value a
+ :   As I watch the wheels of events today, I think you value a
  :thing it has taken me a third of my years to see. In its total
  :trade the world is one whole, and each part in touch with the
  :other at most times.
  :
- :    The usual farm woman won't see a trade table or understand
+ :   The usual farm woman won't see a trade table or understand
  :its terms, for she is tired with her efforts to train and teach
  :her young. She has tried to throw her value into her home, which
  :to her is worth so much. War can not be put under until these
  :women see there is but one world, which truly is their world.
  :
- :    Where will you be while the thick wheat is harvested?  If
+ :   Where will you be while the thick wheat is harvested? If
  :not across the water, would you visit us, using your voice to
  :teach us these things?
  :
@@ -8498,7 +8498,7 @@ S:Dear Mrs. White,
 I:(5) Cílený odstavec (n, m)
 *:_M_R_L36
 #                                                            ../orig/m.typ:357
-S:    Important dinner company in our small apartment was
+S:   Important dinner company in our small apartment was
  :not common, and November ninth mamma was solemn in manner.
  :The moment nine American gentlemen were announced, fun and
  :argument began. I remember one ancient gentleman, manager
@@ -8532,16 +8532,16 @@ I:(3) Přepište toto
 #                                                            ../orig/m.typ:381
 S:Dear Mr. and Mrs. Blank,
  :
- :    Your son has not called on me. If he is to become almost an
+ :   Your son has not called on me. If he is to become almost an
  :annual charge upon the county, the church will answer with action.
  :Yet, I am afraid his arrest can not assure his coming around and
  :asking us for advice. Of course he has to appear before August.
  :He bought on credit, got behind in cash, and the amount became too
  :big. I shall pay it.
  :
- :    You are an old couple, and I advise you to accept this.  Any-
+ :   You are an old couple, and I advise you to accept this. Any-
  :way, he is not a common boy and must have a chance. He always does
- :appear to anyone as fit. I run across copies of his art.  I can
+ :appear to anyone as fit. I run across copies of his art. I can
  :advise your son, attend to his credit, and try to help him arrive
  :at a change for the better.
  :
@@ -8553,17 +8553,17 @@ I:(4) Šestipísmenná slova (od d ke k)
 #                                                            ../orig/m.typ:400
 S:Dear Dick
  :
- :    I have a dollar. I expect you to follow me and take dinner.
+ :   I have a dollar. I expect you to follow me and take dinner.
  :Friday I didn't have cash, but a friend of the family had enough
  :for both of us.
  :
- :    Father is having all the lot, except the garden, filled in
+ :   Father is having all the lot, except the garden, filled in
  :during the week. Giving in to his desire, I intend to work the
  :ground. Doctor says that my health is hardly an excuse, so I had
  :better decide to make an effort. Indeed, I am driven either to
  :finish the work in the near future or pay to have it done.
  :
- :    I am hoping you will happen upon some kindly fellow to whom
+ :   I am hoping you will happen upon some kindly fellow to whom
  :a flower garden itself is fun, and inform me. I shall direct him,
  :as the entire effect will lie in the way we handle the ground
  :plan. Don't forget.
@@ -8574,10 +8574,10 @@ S:Dear Dick
 I:(5) Cílený odstavec (q, z)
 *:_M_R_L41
 #                                                            ../orig/m.typ:408
-S:    I quit the quiz when I saw the quantity of queer hazy
+S:   I quit the quiz when I saw the quantity of queer hazy
  :questions. To seize lesser prizes required answers to a
  :dozen queries. Only a quarter of the quotas qualified with
- :zest. Many had zero when the quiz asked:  In what zones are
+ :zest. Many had zero when the quiz asked: In what zones are
  :Brazil, Switzerland, Arizona, or Texas? Zebras in our zoos
  :grow to what sizes? Analyze and quote one great citizen's
  :query as to zeppelins. Criticize the quality of jazz music.
@@ -8606,14 +8606,14 @@ I:(3) Šestipísmenná slova (od l k r)
 #                                                            ../orig/m.typ:437
 S:Dear Rollin,
  :
- :    I did notice a number of the pretty places I passed in
+ :   I did notice a number of the pretty places I passed in
  :the air nearly two months ago, and I can at length locate
  :the best. If prices remain rather low, I will not return
  :for any person or be prompt at orders. I can play a record
  :or two, and not regret there is no report to be looked at.
  :I want to be myself and regard nature, not people.
  :
- :    To obtain this latter result is the proper reason for
+ :   To obtain this latter result is the proper reason for
  :making this quiet trip. So far from the public, matter in
  :the papers will be old and market policy of little moment.
  :It will please me to have you with us longer than the others.
@@ -8621,7 +8621,7 @@ S:Dear Rollin,
  :you both. Your mother has a lovely manner. I am glad to
  :oblige so recent a member of our office, too.
  :
- :    This letter is being mailed Monday, and in two days we
+ :   This letter is being mailed Monday, and in two days we
  :shall go.
  :
  :Yours sincerely,
@@ -8632,18 +8632,18 @@ I:(4) Šestipísmenná slova (od s k z)
 #                                                            ../orig/m.typ:458
 S:Dear Sylvia,
  :
- :    I wonder if my sister talked to you on Sunday of the
+ :   I wonder if my sister talked to you on Sunday of the
  :thirty things we wanted to do this summer? We were trying
  :all the spring season at school to secure a supply of sim-
  :ple but strong materials for a camp in the valley.
  :
- :    It struck me as we were taking a walk down the street
+ :   It struck me as we were taking a walk down the street
  :that we would surely be unable to do as we stated unless you
  :took a sudden notion to help. It seemed to me on second
  :thought we should give thanks to you for giving tongue to our
  :wishes last winter, for you turned the folks in our favor.
  :
- :    My sister was saying that girls from twenty states had
+ :   My sister was saying that girls from twenty states had
  :signed our pledge, so we are united. Though this is off the
  :subject, I saw a pretty yellow and silver dress within a win-
  :dow on Main Street toward our corner. Would you think it
@@ -8655,7 +8655,7 @@ S:Dear Sylvia,
 I:(5) Cílený odstavec (a, q)
 *:_M_R_L45A
 #
-S:    I acquired a bequest from a quizzical Quaker. How
+S:   I acquired a bequest from a quizzical Quaker. How
  :to apply it was a quandary. As a quasi artist, I began in
  :Albuquerque to make a quantity of plaques of chance Indian
  :acquaintances. My masquerade as an artist of quality in
@@ -8689,19 +8689,19 @@ I:(3) Sedmipísmenná slova (a-f)
 #                                                            ../orig/m.typ:498
 S:Dear Annabel,
  :
- :    My brother and his college friends in the factory decided to arrange an
+ :   My brother and his college friends in the factory decided to arrange an
  :evening exactly as in the old days. After calling us, they arrived and we
  :carried out the idea. We used an old college catalog and each girl had an
  :old college dress.
  :
- :    Further to advance the evening, my brother advised us of an old address
+ :   Further to advance the evening, my brother advised us of an old address
  :near the freight yard where certain college boys brought this or that article
  :and were allowed a few dollars. As we went in, an old man came a step farther,
  :fell forward and against me. Brother charged him. Will you believe this care-
  :ful account I enclose? Between brother and me lay this old man who did seem
  :dead. I can't express my feeling. His head was covered with marks of blows.
  :
- :    Already we were anxious to go. Yet his safe was open, as if to furnish us
+ :   Already we were anxious to go. Yet his safe was open, as if to furnish us
  :the old books with the many expense charges against the college boys. When I
  :looked to see who of our company were in them, I read one balance after another
  :paid from the old country to My Dearest Son. You are correct if you guess we
@@ -8715,20 +8715,20 @@ I:(4) Sedmipísmenná slova (g-o)
 #                                                            ../orig/m.typ:518
 S:Dear Mrs. White,
  :
- :    I have been holding on, but this January I am getting out.
+ :   I have been holding on, but this January I am getting out.
  :My wife herself may have told you of our opening. However, I go
  :at ten o'clock this morning, and your husband is still out. He is
  :to do my general work himself, and may not imagine there is any
  :measure of justice in that. We married men are obliged to do as
  :ordered.
  :
- :    I am leaving a hundred matters.  He has my opinion on each.
+ :   I am leaving a hundred matters. He has my opinion on each.
  :Tell him the minutes of the last meeting of the members are on my
  :table. Tell him I haven't an invoice, but have instead an October
  :bill, for our new machine parts. He may mention this item to the
  :manager, as he has neither its history nor my letters of inquiry.
  :
- :    I find nothing else to include. We shall miss you greatly,
+ :   I find nothing else to include. We shall miss you greatly,
  :and we shall be looking for you at our new home.
  :
  :Yours sincerely,
@@ -8739,18 +8739,18 @@ I:(4) Sedmipísmenná slova (p až z)
 #                                                            ../orig/m.typ:539
 S:Dear Patrick,
  :
- :    I realize that this letter I am sending may subject you to some trouble.
+ :   I realize that this letter I am sending may subject you to some trouble.
  :I am writing tonight without waiting to go through various reports on our
  :present program. If I had thought that you would be willing to give me an
  :extra day, perhaps I would have come myself.
  :
- :    As soon as this letter has reached you, and you have finished reading the
+ :   As soon as this letter has reached you, and you have finished reading the
  :several items about which I have written, I hope you can give extra working
  :time to my request for special records. These items will suggest a new plan as
  :I picture it. I shall add them to this note.
  :
- :    It is my purpose to prepare a fast station-to-station service that should
- :be in running order soon. I suppose it could be started next month.  Let me
+ :   It is my purpose to prepare a fast station-to-station service that should
+ :be in running order soon. I suppose it could be started next month. Let me
  :ask, also, whether we could receipt each payment, as we receive it, on a
  :regular form similar to those in the package shipped you Tuesday. I am pleased
  :with your showing. You have been like a soldier on duty in any and all
@@ -8785,7 +8785,7 @@ I:(3) Osmipísmenná slova(a -- m)
 #                                                            ../orig/m.typ:566
 S:Dear Thomas,
  :
- :    First, I consider of definite interest anything from
+ :   First, I consider of definite interest anything from
  :the business of as good a customer as you. As director of
  :our division, I am to continue handling building material.
  :My judgment on all the evidence, which I send herewith
@@ -8794,7 +8794,7 @@ S:Dear Thomas,
  :Are you advising me what increase in your discount is to be
  :expected?
  :
- :    Second, this forenoon I saw your son and he told me of
+ :   Second, this forenoon I saw your son and he told me of
  :his marriage in February. Although you had not entirely
  :finished the addition to your lake house by last December,
  :couldn't you exchange it, as it is, for my mountain home?
@@ -8809,17 +8809,17 @@ I:(4) Osmipísmenná slova (n až z)
 #                                                            ../orig/m.typ:587
 S:Dear Nathan,
  :
- :    My last shipment has probably been received, for the purchase was made
+ :   My last shipment has probably been received, for the purchase was made
  :Thursday. Tomorrow is Saturday, a pleasant day, for I go on my vacation.
  :
- :    Do you remember an original idea you proposed last November relative
+ :   Do you remember an original idea you proposed last November relative
  :to planning for some shipping from my property? My neighbor recently
  :called it a plan in a thousand, and we must get together so that I can
  :thank you properly. This is a national as well as personal question,
  :and I am trusting that you will be thinking that it is possible for you to
  :help put it into practice.
  :
- :    If you can possibly separate yourself from teachers and your
+ :   If you can possibly separate yourself from teachers and your
  :teaching position sometime soon, plan to get a standard car and
  :whatever else is required for the trip. The car would also be a
  :pleasure after you return to New York. May I persuade you in re-
@@ -8834,7 +8834,7 @@ I:(5) Slova o devíti písmenech (od a k i)
 #                                                            ../orig/m.typ:605
 S:Dear Son,
  :
- :    I am beginning this afternoon to give my immediate attention
+ :   I am beginning this afternoon to give my immediate attention
  :to a Christmas that should be beautiful. I have addressed, to be
  :forwarded and delivered in good condition, some new equipment
  :according to your wish. I note, too, that your committee met.
@@ -8842,7 +8842,7 @@ S:Dear Son,
  :surance that your plan does not fail. I certainly would not want
  :to duplicate for you the kind of education given me.
  :
- :    Be different by following more than one new idea, including
+ :   Be different by following more than one new idea, including
  :some of your own. If you can carefully take fair advantage of
  :every available condition, everybody should accept you cordially,
  :as answering to the character of a gentleman. Mother is enclosing
@@ -8876,19 +8876,19 @@ I:(3) Devítipísmenná slova (j až z)
 #                                                            ../orig/m.typ:633
 S:Dear Gertrude,
  :
- :    This letter has no reference to shipments which you have
+ :   This letter has no reference to shipments which you have
  :so kindly purchased from me in the past. Rather, as you are
  :returning to this territory by September, our president has re-
  :quested me as secretary to ask that you make a statement before
  :our club the first Wednesday.
  :
- :    Let me say something of the questions we have been receiving
+ :   Let me say something of the questions we have been receiving
  :for the year. Recently I read that the old principle today still
  :applies. It is wonderful what our new knowledge has surprised us
  :into regarding as necessary for ourselves--sometimes things not
  :even mentioned yesterday.
  :
- :    Will you therefore represent this new deal and present the
+ :   Will you therefore represent this new deal and present the
  :situation to us in principle, sincerely, as you see it? Other-
  :wise, if you cannot make this provision now, I shall be glad to
  :call upon you later.
@@ -8901,20 +8901,20 @@ I:(4) Desetipísmenná slova (a až z)
 #                                                            ../orig/m.typ:655
 S:Dear Alex,
  :
- :    We are especially interested in the settlement run by a
+ :   We are especially interested in the settlement run by a
  :new department at the University. We appreciate the importance
  :of its additional study to understand impossible conditions in
  :the poor parts of our city, and its use for adjustment of some
  :particular boy or girl. Have you read our memorandum in this
  :connection?
  :
- :    Our city is absolutely too big.  With the automobile we can
+ :   Our city is absolutely too big. With the automobile we can
  :distribute every person to his home along a line, our wide road,
  :run far out from the city. The difference between country and
  :city grows less and less, in accordance with such use of the auto-
  :mobile.
  :
- :    Concerning our collection of any remittance from you, this
+ :   Concerning our collection of any remittance from you, this
  :would serve to form a Conference which would develop everything
  :that can make city governments bring full and rich experience
  :to all.
@@ -8927,18 +8927,18 @@ I:(5) Jedenácti až čtrnáctipísmenná slova (a až z)
 #                                                            ../orig/m.typ:673
 S:Dear Sir,
  :
- :    I wish to acknowledge the recent interesting correspondence
+ :   I wish to acknowledge the recent interesting correspondence
  :from your office on the very considerable requirements of the new
  :law that have to do with any unfortunate advertising that might
  :appear in my papers.
  :
- :    Our association also has appreciated both your instructions
+ :   Our association also has appreciated both your instructions
  :and the opportunity for prompt examination and understanding of
  :the new arrangement, particularly its application to all informa-
  :tion given the public about merchandise for sale. This has been
  :a real convenience in our consideration of the entire proposition.
  :
- :    I want to assure you that our co-operation under the new law
+ :   I want to assure you that our co-operation under the new law
  :will be satisfactory in every way.
  :
  :Yours respectfully,
@@ -8947,7 +8947,7 @@ S:Dear Sir,
 I:(6) Cílený odstavec (l r z)
 *:_M_R_L61
 #                                                            ../orig/m.typ:687
-S:    The JOURNAL learned that the relatives on their arrival in
+S:   The JOURNAL learned that the relatives on their arrival in
  :April had already referred the trouble to lawyers. Their early re-
  :turn surprises me. As to the children themselves, the older girls
  :are personally agreeable, slender, and certainly full of zest. They
@@ -9082,11 +9082,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -9520,11 +9520,11 @@ G:__SERIESMENU
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------

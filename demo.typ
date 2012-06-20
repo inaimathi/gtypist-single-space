@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #
@@ -46,15 +46,15 @@ T:This file demonstrates the commands that the program can do.
  :
  :	B:Demonstration of commands and features - B
  :
- :to clear the screen.  The remainder of this file uses B commands to
+ :to clear the screen. The remainder of this file uses B commands to
  :indicate what it is demonstrating to you.
 G:MENU
 
 *:DEMO_1
 B:Demonstration of commands and features - T
-T:The simplest command is the T command.  This just outputs the text on
- :the line onto the screen.  As many lines as required may be displayed,
- :up to the limit of screen length.  After the display is done, the program
+T:The simplest command is the T command. This just outputs the text on
+ :the line onto the screen. As many lines as required may be displayed,
+ :up to the limit of screen length. After the display is done, the program
  :waits before proceeding:
  :
  :For example, the next screen shows the effect of
@@ -68,11 +68,11 @@ G:MENU
 *:DEMO_2
 B:Demonstration of commands and features - D/d
 T:The D command displays its text on alternate screen lines, and prompts
- :you to type the same text in on the intermediate lines.  Typing errors
+ :you to type the same text in on the intermediate lines. Typing errors
  :are indicated with an inverse '^', or '>' if the character is a newline.
  :The drill completes when your error-percentage is less or equal
- :to the required error percentage.  Delete and backspace are not
- :recognised.  The d command does the same thing, but does not require a
+ :to the required error percentage. Delete and backspace are not
+ :recognised. The d command does the same thing, but does not require a
  :certain error percentage.
  :
  :Here is an example drill, run on the next screen:
@@ -87,17 +87,17 @@ G:MENU
 *:DEMO_3
 B:Demonstration of commands and features - S/s
 T:The S command displays its text on the screen, and prompts you to type
- :the text over the top of it.  Typing errors are highlighted in inverse
- :colours.  Delete and backspace are recognised, but errors still
- :accumulate.  At the end of the test, the typing speed and accuracy are
- :displayed.  The s command does the same thing, but does not require a
+ :the text over the top of it. Typing errors are highlighted in inverse
+ :colours. Delete and backspace are recognised, but errors still
+ :accumulate. At the end of the test, the typing speed and accuracy are
+ :displayed. The s command does the same thing, but does not require a
  :certain error percentage.
  :
- :Here is an example of a speed test.  Type this exactly
+ :Here is an example of a speed test. Type this exactly
  :
  :	S:type this line
 S:type this line
-T:Here is another example.  Experiment with delete and backspace:
+T:Here is another example. Experiment with delete and backspace:
  :
  :	S:Overtype this paragraph with the same text.
  :	 :Note that capitals and punctuation are important.
@@ -111,7 +111,7 @@ G:MENU
 *:DEMO_4
 B:Demonstration of commands and features - I
 T:The I command can display some brief instructions above a drill or
- :speed test.  Only two lines or less are available.  Unlike the T
+ :speed test. Only two lines or less are available. Unlike the T
  :command, it does not wait for any further keypresses before proceeding.
  :So it should really always be followed by D, d, S or s.
  :It clears the whole screen drill area, so it's just
@@ -119,7 +119,7 @@ T:The I command can display some brief instructions above a drill or
  :
  :Here's an example:
  :
- :	I:Here is a very short speed test.  You can either type in the
+ :	I:Here is a very short speed test. You can either type in the
  :	 :whole thing, or just escape out of it:
  :	S:Very, very short test...
 I:Here is a very short speed test. If you feel like you already made
@@ -138,20 +138,20 @@ T:The E command is used to set the maximum error percentage allowed for
  :E: Default (or E: default) to reset the value to its the default setting.
  :Warning: Don't follow a E: by a practice-only drill (d: or s:)!
  : 
- :      E: 4%
- :      I:this drill requires 4% errors (at most)
- :      D:Cheer Up!  Things are getting worse at a slower rate.
+ :     E: 4%
+ :     I:this drill requires 4% errors (at most)
+ :     D:Cheer Up! Things are getting worse at a slower rate.
 E: 4%
 I:this drill requires 4% errors (at most)
-D:Cheer Up!  Things are getting worse at a slower rate.
+D:Cheer Up! Things are getting worse at a slower rate.
 G:MENU
 
 *:DEMO_6
 B:Demonstration of commands and features - */G
-T:The * places a label into the file.  The G command can then be used to go to
- :that label.  The program really isn't fussy about label strings.  They
+T:The * places a label into the file. The G command can then be used to go to
+ :that label. The program really isn't fussy about label strings. They
  :can be pretty much anything you like, and include spaces if that's what
- :you want (whitespace at the end of labels is ignored).  Labels must be unique
+ :you want (whitespace at the end of labels is ignored). Labels must be unique
  :within files.
  :
  :For example:
@@ -169,13 +169,13 @@ G:MENU
 *:DEMO_7
 B:Demonstration of commands and features - Q/Y/N
 T:The Q command prints its text on the message line, and waits for
- :a 'Y' or an 'N' before proceeding.  Other characters are ignored.
+ :a 'Y' or an 'N' before proceeding. Other characters are ignored.
  :
  :The Y command will go to the label on its line if the result of the most
- :recent Q was 'Y'.  The N command does the same thing for 'N'.  K binds
+ :recent Q was 'Y'. The N command does the same thing for 'N'. K binds
  :a function key to a label (deprecated in favor of M:)
  :
- :Here's an example.  As you can see, it can be clumsy, but mostly we
+ :Here's an example. As you can see, it can be clumsy, but mostly we
  :don't need anything as intricate:
  :
  :	Q: Press Y or N, and nothing else, to continue...
@@ -256,11 +256,11 @@ G:MENU
 
 *:DEMO_10
 B:Demonstration of commands and features - X
-T:The last command to show is the X command.  This causes the program to
- :exit.  The program also exits if the end of the file is found
+T:The last command to show is the X command. This causes the program to
+ :exit. The program also exits if the end of the file is found
  :(so you could place a label there and just G to it).
  :
- :Here's a demonstration of the X command.  Since this is the end of
+ :Here's a demonstration of the X command. Since this is the end of
  :the demonstration, here is a good place to use it; the demonstration
  :will halt here.
  :

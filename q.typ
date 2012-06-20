@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -180,7 +180,7 @@ D:as os es us is an on en un in at ot et ut it ad od ed ud id
 
 I:(3) Continuous Copy
 *:_Q_R_L15
-D:Ed had a shed.  His shed had dishes. He had shade.
+D:Ed had a shed. His shed had dishes. He had shade.
  :Ed had his ease. Sis liked a safe shed. Sis had shade.
  :His shed is ashes. Ed hides his head. He heeds Sis.
 

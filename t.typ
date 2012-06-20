@@ -32,45 +32,45 @@ B:                            Lesson T1
 T:			Welcome to lesson T1.
  :
  :In the T series of lessons, we will be learning to touch-type on the standard
- :keyboard.  I will introduce you to each letter on the keyboard, one at a time.
+ :keyboard. I will introduce you to each letter on the keyboard, one at a time.
  :By the time you have completed this series, you will be able to type the entire
  :alphabet, the numbers, and most of the punctuation keys by touch.
  :
- :If you have never taken any lessons in typing before, please be patient.  Typing
- :is not difficult but it does take a lot of practice.  Avoid the tendency to
- :look down at your fingers while typing.  This is a very bad habit and is hard
- :to break later.  If you hit the wrong key, I will let you know.  (But, I won't
+ :If you have never taken any lessons in typing before, please be patient. Typing
+ :is not difficult but it does take a lot of practice. Avoid the tendency to
+ :look down at your fingers while typing. This is a very bad habit and is hard
+ :to break later. If you hit the wrong key, I will let you know. (But, I won't
  :tell anyone else, so don't worry about it.)
  :
  :If you have always used the hunt-and-peck method, you will have an even harder
- :time keeping yourself from looking.  Don't be surprised if you find touch
- :typing slower than your old ways.  It may be slower when you first start.
+ :time keeping yourself from looking. Don't be surprised if you find touch
+ :typing slower than your old ways. It may be slower when you first start.
  :But, touch typing is far faster once you get the hang of it.
  :
  :If you can already touch type, you should be able to go through these lessons
- :fairly quickly.  Or, you may want to go directly to the S series.
+ :fairly quickly. Or, you may want to go directly to the S series.
 
 *:_T_R_L1
 T:
  :			The HOME Keys.
  :
  :In order to hit the correct keys by touch alone, you must always know where your
- :fingers are.  The way to do this is to have a special place for each finger.
+ :fingers are. The way to do this is to have a special place for each finger.
  :This key is called the HOME position.
  :
- :Place the first finger of your right hand on the J-key.  Now, place your second
+ :Place the first finger of your right hand on the J-key. Now, place your second
  :finger on the K-key, your third finger on the L-key, and your fourth-finger on
  :the ;-key (the one with the : and ; on it).
  :
  :Similarly place the four fingers of your left hand on the F, D, S, and A-keys.
- :Place your right thumb over the SPACE bar.  (Henceforth, always hit the SPACE
- :bar with this thumb.)  Now, lift all your fingers slightly so that they are
- :poised just over the keys.  Each finger should be just barely touching its home
- :key.  This is an electronic keyboard and does not take much pressure to ac-
+ :Place your right thumb over the SPACE bar. (Henceforth, always hit the SPACE
+ :bar with this thumb.) Now, lift all your fingers slightly so that they are
+ :poised just over the keys. Each finger should be just barely touching its home
+ :key. This is an electronic keyboard and does not take much pressure to ac-
  :cidentally press the key down.
  :
- :Learn these positions well.  Whenever you are about to type a line, look at your
- :fingers and make sure they are in the HOME position.  Then don't look at them
+ :Learn these positions well. Whenever you are about to type a line, look at your
+ :fingers and make sure they are in the HOME position. Then don't look at them
  :again.
 
 *:_T_R_L2
@@ -81,20 +81,20 @@ T:
  :screen and instructions at the top of the screen.
  :
  :All you have to do is type in the characters that you see in the middle of
- :the screen.  If you hit the correct key, I will not do anything.  If you make
+ :the screen. If you hit the correct key, I will not do anything. If you make
  :a mistake, I will display a large X under the letter that you got wrong and 
  :beep the terminal. In either event, just keep going by typing the next letter.
  :
- :When you have finished typing the line, hit the RETURN key.  To do this, extend
- :the little finger of your right hand over to the RETURN key.  Hit the key and
- :zip the finger back to its home position.  Be careful not to let your other
- :fingers move far from their home positions in the process.  Also, be careful
+ :When you have finished typing the line, hit the RETURN key. To do this, extend
+ :the little finger of your right hand over to the RETURN key. Hit the key and
+ :zip the finger back to its home position. Be careful not to let your other
+ :fingers move far from their home positions in the process. Also, be careful
  :not to type an extra space at the end of the line.
  :
- :If you made no mistakes on the line, I will display the next drill pattern.  If
- :you did make a mistake, I will beep at you and make you do the line again.  If
+ :If you made no mistakes on the line, I will display the next drill pattern. If
+ :you did make a mistake, I will beep at you and make you do the line again. If
  :on the second try you made more than two mistakes, I will beep again and make
- :you try again, etc.  Don't forget to use your right thumb for the SPACE bar.
+ :you try again, etc. Don't forget to use your right thumb for the SPACE bar.
 
 I:Hit the F-key four times with the first finger of your left hand.
 *:_T_R_L3
@@ -137,7 +137,7 @@ I:Use the fourth fingers for the A and ;-keys.
 *:_T_R_L12
 D:aaa ;;; aaa ;;; aa ;; aa ;; a ;
 
-I:That's enough keys for today.  Let's review them.
+I:That's enough keys for today. Let's review them.
 *:_T_R_L13
 D:fff jjj ddd kkk sss lll aaa ;;;
 
@@ -180,11 +180,11 @@ T:
  :and will add the letters E, G, and H and the period.
  :
  :When you reach for any of these keys, be sure to return your finger to its
- :home position.  For example, to hit the H-key, move the first finger of your
- :right hand (the J-finger) slightly to the left.  Tap the H-key and immediately
+ :home position. For example, to hit the H-key, move the first finger of your
+ :right hand (the J-finger) slightly to the left. Tap the H-key and immediately
  :bring your finger back over the J.
  :
- :If you lose track of where your fingers are guess.  Don't look!
+ :If you lose track of where your fingers are guess. Don't look!
 
 I:First let's review
 *:_T_R_L21
@@ -292,15 +292,15 @@ D:lll ... lll ... ll .. ll .. l .
 T:The next key we are going to practice is the right shift key.
  :
  :Whenever you want to capitalize a key on the left side, you must use the
- :right shift-key.  To do so, follow these steps:
+ :right shift-key. To do so, follow these steps:
  :
- :	a.)  Without moving your first finger from the J-key, swing the
- :	     fourth finger of your right hand over to the SHIFT-key and
- :	     hold it down.
+ :	a.) Without moving your first finger from the J-key, swing the
+ :	    fourth finger of your right hand over to the SHIFT-key and
+ :	    hold it down.
  :
- :	b.)  Strike the key that you want to type with your left hand.
+ :	b.) Strike the key that you want to type with your left hand.
  :
- :	c.)  Immediately bring your fourth finger back to the ;-key.
+ :	c.) Immediately bring your fourth finger back to the ;-key.
 
 I:Don't look at your fingers!
 *:_T_R_L44
@@ -328,11 +328,11 @@ D:She sells seashells.
 
 I:Always double space after a period.
 *:_T_R_L50
-D:A free red jade is fake.  Girls like silk.
+D:A free red jade is fake. Girls like silk.
 
 *:_T_R_L51
-D:She seeks a safe reef, if she sails.  A gale is rare.
- :Alf fed her egg salad.  Gail likes hash.
+D:She seeks a safe reef, if she sails. A gale is rare.
+ :Alf fed her egg salad. Gail likes hash.
 
 G:_T_E_T3
 
@@ -370,11 +370,11 @@ T:			The Left-Shift key.
  :
  :To capitalize letters on the right-side of the keyboard:
  :
- :	1.)  Move your A-finger to the LEFT-shift key and hold it down.
+ :	1.) Move your A-finger to the LEFT-shift key and hold it down.
  :
- :	2.)  Strike the key that you want to capitalize with your right hand.
+ :	2.) Strike the key that you want to capitalize with your right hand.
  :
- :	3.)  Immediately swing your A-finger back to its home position.
+ :	3.) Immediately swing your A-finger back to its home position.
 
 *:_T_R_L57
 D:aaa Pi aaa Lord aaa Jill aaa
@@ -396,14 +396,14 @@ D:;;; He? ;;; She? ;;; I? ;;;
 
 I:Let's try some sentences.
 *:_T_R_L62
-D:Dad fell off a ladder.  Is he safe?
+D:Dad fell off a ladder. Is he safe?
 
 I:Always double space after a question mark.
 *:_T_R_L63
-D:Is he here?  Sal said he fell hard.
+D:Is he here? Sal said he fell hard.
 
 *:_T_R_L64
-D:Did she see his fall?  Jake heard he is OK.
+D:Did she see his fall? Jake heard he is OK.
  :I hope people keep off high ladders.
 
 G:_T_E_T4
@@ -451,22 +451,22 @@ D:;;; ;:; ;;; ::: ;;; ;:; ;;;
 
 I:Always double space after a colon.
 *:_T_R_L74
-D:Dear Sirs:  Dear John:  Dear Alfred:
+D:Dear Sirs: Dear John: Dear Alfred:
 
 *:_T_R_L75
-D:Dear Dr. Stone:  To Heathkit:
+D:Dear Dr. Stone: To Heathkit:
 
 *:_T_R_L76
 T:			SPEED EXERCISES
  :
- :From now on, I will be mixing speed exercises in with the lessons.  In the
+ :From now on, I will be mixing speed exercises in with the lessons. In the
  :drills that you have been doing, I make you keep practicing a line until
- :you get it right.  In a speed exercise, I will only display the text once.
+ :you get it right. In a speed exercise, I will only display the text once.
  :
- :What will be different is that I will be timing you.  From the time you type
+ :What will be different is that I will be timing you. From the time you type
  :the first letter of the line until you hit the final carriage return, my
- :stopwatch will be running.  When you finish, I will calculate your typing speed
- :and convert it to words per minute (WPM).  I will also count each of the
+ :stopwatch will be running. When you finish, I will calculate your typing speed
+ :and convert it to words per minute (WPM). I will also count each of the
  :mistakes you make and display the total number of errors.
  :
  :If you make a mistake, I will beep at you and light up the letter that you
@@ -485,14 +485,14 @@ I:When you type a multi-line paragraph, you will have to hit the RETURN-key at
  :the end of each line.
 *:_T_R_L79
 S:All the sane people in this area sold their gold
- :right at the start.  The insane ones held their
+ :right at the start. The insane ones held their
  :gold and later it paid off.
 
 *:_T_R_L80
-S:One fine afternoon the king had an idea.  He
+S:One fine afternoon the king had an idea. He
  :sent a letter to all the lords and ladies of
- :his land.  He asked for a great feast.  His
- :people prepared roasts.  His jester did a jig.
+ :his land. He asked for a great feast. His
+ :people prepared roasts. His jester did a jig.
  :All the people left hoping to do it again.
 
 G:_T_E_T5
@@ -517,7 +517,7 @@ I:Use your F-finger for the B-key.
 *:_T_R_L83
 D:fff fbf fff bbb fff fbf fff
 
-I:The B-key is the longest reach we've seen so far.  Let's try it again.
+I:The B-key is the longest reach we've seen so far. Let's try it again.
 *:_T_R_L84
 D:fff fbf fff bbb fff fbf fff
 
@@ -543,19 +543,19 @@ D:;;; ;/; ;;; /// ;;; ;/; ;;;
 D:;/; n/a ;/; and/or ;/; left/right
  :In this era of E.R.A., I hope he/she likes his/her job.
  :He/she should bring his/her spouse at about noon or just before.
- :Should I be here alone?  Is Bernie and/or Julie going to be here, too?
+ :Should I be here alone? Is Bernie and/or Julie going to be here, too?
 
 I:Try your speed on some paragraphs:
 *:_T_R_L89
-S:All bills are to be paid in full.  If
+S:All bills are to be paid in full. If
  :there is no fee to be paid, return the
  :bill and put n/a in the total due part.
 
-I:You should be aiming for 15 WPM.  (If you did better, work on accuracy.)
+I:You should be aiming for 15 WPM. (If you did better, work on accuracy.)
 *:_T_R_L90
-S:In baseball, bunting is a kind of hit.  But, bunting also
+S:In baseball, bunting is a kind of hit. But, bunting also
  :refers to a kind of bird and the stuff that is used in
- :flags.  English sure is a strange language.
+ :flags. English sure is a strange language.
 
 G:_T_E_T6
 
@@ -609,9 +609,9 @@ D:Motion pictures often depict macabre scenes.
 
 *:_T_R_L101
 D:Once upon a time, marriages lasted longer than mortgages.
-I:There are three uses of the hyphen.  It can be used to combine two words:
+I:There are three uses of the hyphen. It can be used to combine two words:
 *:_T_R_L102
-D:She had on a bluish-green dress.  But, no one noticed.
+D:She had on a bluish-green dress. But, no one noticed.
 
 I:To divide a word:
 *:_T_R_L103
@@ -625,16 +625,16 @@ D:Fifteen dollars a month--measured in current dollars--is a good rate.
 I:Let's try a speed drill on these sentences:
 *:_T_R_L105
 S:The clock ran out, signaling the end of
- :the second-half.  The game had been lost.
+ :the second-half. The game had been lost.
 
 *:_T_R_L106
 S:The paper just made an announce-
  :ment about a commotion at the
- :college.  Someone has just
+ :college. Someone has just
  :produced a micro-organism in the
- :DNA-research lab.  It is a
+ :DNA-research lab. It is a
  :special kind of bacteria that
- :consumes crude oil.  The talk is
+ :consumes crude oil. The talk is
  :that it is being patented for use
  :on oil spills at sea.
 
@@ -643,8 +643,8 @@ I:Hit the return key twice for blank lines:
 S:Dear Mr. Mandrake:
  :
  :All of us appreciated the fine performance of those magic
- :tricks.  Please arrange to come to another of our meet-
- :ings, if possible.  Perhaps our Christmas meeting?
+ :tricks. Please arrange to come to another of our meet-
+ :ings, if possible. Perhaps our Christmas meeting?
  :
  :Thanks,
  :
@@ -680,7 +680,7 @@ D:sws who sws what sws when sws where sws
 
 *:_T_R_L113
 S:How much wood could a woodchuck chuck if a
- :woodchuck could chuck wood?  A woodchuck
+ :woodchuck could chuck wood? A woodchuck
  :would chuck all the wood that a woodchuck
  :could chuck, if a woodchuck could chuck wood.
 
@@ -716,13 +716,13 @@ D:driven vertical advent ventrical
 T:			THE BACKSPACE
  :
  :Most of the programs that you use will allow you to correct your mistakes by
- :using the BACKSPACE and/or DELETE keys.  These keys will generally delete the
- :previous character that you typed.  (This feature is one of the principal
+ :using the BACKSPACE and/or DELETE keys. These keys will generally delete the
+ :previous character that you typed. (This feature is one of the principal
  :advantages of a word-processing system over a conventional typewriter.)
  :
- :I refuse to accept either of these keys during a drill pattern.  (You should
- :keep practicing until you get it right!)  But, I will accept either a BACK-
- :SPACE or a DELETE during a speed drill.  (I will remove the white error
+ :I refuse to accept either of these keys during a drill pattern. (You should
+ :keep practicing until you get it right!) But, I will accept either a BACK-
+ :SPACE or a DELETE during a speed drill. (I will remove the white error
  :markers but I still count it as an error in my totals.)
  :
  :If you do chose to use the DELETE or BACKSPACE keys, hit the key with your
@@ -869,9 +869,9 @@ D:l;l l:l k,k l.l ;/; ;?; :?: ;-;
 T:
  :			NUMERIC KEYS
  :
- :The terminal has two sets of numeric keys.  One set--directly above the
- :alphabetic keys--conforms to the standard for typewriter keyboards.  The other
- :set--to your right--resembles a calculator keypad.  In this typing series we
+ :The terminal has two sets of numeric keys. One set--directly above the
+ :alphabetic keys--conforms to the standard for typewriter keyboards. The other
+ :set--to your right--resembles a calculator keypad. In this typing series we
  :will be concerned only with the standard numeric keys on the main keyboard.
  :(If you would like to learn to touch type on a numeric keypad, use the N-series
  :lessons instead.)
@@ -879,15 +879,15 @@ T:
  :NOTE - not all terminals have the numeric keys in a separate keypad
  :
  :The numeric keys, like all the keys you will be learning from now on, vary
- :somewhat from machine to machine.  The 2 through 0 keys are always in exactly
- :the same place on all typewriter keyboards.  (On keypunch machines and some
+ :somewhat from machine to machine. The 2 through 0 keys are always in exactly
+ :the same place on all typewriter keyboards. (On keypunch machines and some
  :terminals, however, they are located over the U, I, O, J, K, L, M, comma and
- :period keys.  We will not be concerned with these layouts in this series.)
+ :period keys. We will not be concerned with these layouts in this series.)
  :Even if a typewriter or terminal has the standard 2 through 0 keys, it may not
- :have a 1 key.  If it does, the 1 will always be next to the 2.  If it does not,
+ :have a 1 key. If it does, the 1 will always be next to the 2. If it does not,
  :you will have to use the L-key.
 
-I:Let's start by using the 1-key, since we have one.  (Use your A-finger.)
+I:Let's start by using the 1-key, since we have one. (Use your A-finger.)
 *:_T_R_L147
 D:aaa a1a aaa 111 aaa a1a
 
@@ -913,9 +913,9 @@ D:ddd d3d ddd d3d ddd d3d ddd
 *:_T_R_L151
 D:ddd d3e ddd d3c ddd e3c ddd
  :333 did 333 cat 333 eat 333
- :1 plus 2 is 3.  11 plus 22 is 33.  111 plus 222 is 333.
+ :1 plus 2 is 3. 11 plus 22 is 33. 111 plus 222 is 333.
 
-I:The last number we will practice today is the 4-key.  (Use your F-finger.)
+I:The last number we will practice today is the 4-key. (Use your F-finger.)
 *:_T_R_L152
 D:fff f4f fff f4f fff f4f
 
@@ -930,13 +930,13 @@ I:Try your speed on this line:
 *:_T_R_L154
 S:Our team won 1st, 2nd, and 3rd place at the 12th annual outing.
 
-I:As we stated earlier, many typewriters do not have a 1 key.  Let's practice
+I:As we stated earlier, many typewriters do not have a 1 key. Let's practice
  :using the L-key as a 1, so you can use any kind of typewriter.
 *:_T_R_L155
-D:One dozen is l2.  A gross is l2 dozen or l44.
+D:One dozen is l2. A gross is l2 dozen or l44.
 
 *:_T_R_L156
-D:In both octal and decimal, ll times ll is l2l.  And, 3 minus 4 is -l.
+D:In both octal and decimal, ll times ll is l2l. And, 3 minus 4 is -l.
  :But in octal, l2 is not divisible by 3.
 
 G:_T_E_T10
@@ -963,7 +963,7 @@ D:jjj j7j jjj j7j jjj j7j jjj
 D:jjj j7u jjj 7um jjj u7m jjj
  :777 map 777 jug 777 rum 777
  :Is flight number 377 for Florida a 707, a 727 or a 747?
- :It is a 727 with 4 stops.  With all those stops it takes almost 7 hours.
+ :It is a 727 with 4 stops. With all those stops it takes almost 7 hours.
 
 I:Use your K-finger for the 8-key.
 *:_T_R_L161
@@ -972,8 +972,8 @@ D:kkk k8k kkk k8k kkk k8k kkk
 *:_T_R_L162
 D:kkk k8i kkk 8,i kkk ,i8 kkk
  :888 kick 888 sink 888 keep 888
- :Agent 88 was supposed to check in at 8:14.  She is 38 minutes late.
- :Her team was assigned to zone 8 of quadrant 828.  Send 8 more agents.
+ :Agent 88 was supposed to check in at 8:14. She is 38 minutes late.
+ :Her team was assigned to zone 8 of quadrant 828. Send 8 more agents.
 
 I:Use your L-finger for the 9-key.
 *:_T_R_L163
@@ -992,29 +992,29 @@ D:;;; ;0; ;;; ;0; ;;; ;0; ;;;
 *:_T_R_L166
 D:;;; ;0p ;;; /0p ;;; 0/p ;;;
  :000 a/c 000 pup 000 me? 000
- :Dear Sirs:  The 10:00 meeting on March 10 has been postponed until 10:30.
+ :Dear Sirs: The 10:00 meeting on March 10 has been postponed until 10:30.
  :The 10:30 meeting was moved to 11:00 in Room 302.
- :But, Room 302 can only hold 10 people.  We will need Conference Room 10.
+ :But, Room 302 can only hold 10 people. We will need Conference Room 10.
 
 I:Let's try some paragraphs.
 *:_T_R_L167
 S:Zip codes are arranged so that the first 3 digits
  :designate the regional office and the last 2
- :digits designate the local branch.  The numbering
- :is roughly east to west.  That is, numbers
+ :digits designate the local branch. The numbering
+ :is roughly east to west. That is, numbers
  :starting with 0 are in New England, numbers
  :starting with 1 are the New York area, etc.
  :There are notable exceptions to this rule,
- :however.  The Virgin Islands are south of
+ :however. The Virgin Islands are south of
  :Florida, but their Zip Codes start with 00.
 
 *:_T_R_L168
 S:The new nine digit zip codes have upset quite a
- :few people.  It was bad enough being referred to
- :as 73218.  But now, we will have to remember
- :numbers like 73218-4208.  The worst hit will be
+ :few people. It was bad enough being referred to
+ :as 73218. But now, we will have to remember
+ :numbers like 73218-4208. The worst hit will be
  :the companies whose mailing list programs were
- :poorly designed.  Those unstructured programs
+ :poorly designed. Those unstructured programs
  :will be very difficult to change.
 
 G:_T_E_T11
@@ -1045,7 +1045,7 @@ D:f5f f54 f5f t5g f5f t5r f5f
 *:_T_R_L173
 S:The 5 of us each carried 50 pound packs all 45 miles of the trip.
 
-I:And now, the longest reach of all!  Use your J-finger for the 6-key.
+I:And now, the longest reach of all! Use your J-finger for the 6-key.
 *:_T_R_L174
 D:jjj j6j jjj 666 jjj j6j jjj
 
@@ -1054,7 +1054,7 @@ D:j6j June j6j much j6j hum j6j
  :j6j y6n j6j u6m j6j h76 j6j
  :j6j 4567 j6j 7654 j6j 6754 j6j
 
-I:The open parenthesis is the shift of the 9-key.  (Use your L-finger).
+I:The open parenthesis is the shift of the 9-key. (Use your L-finger).
 *:_T_R_L176
 
 *:_T_R_L177
@@ -1063,7 +1063,7 @@ D:l(l (.l l(l 9(9 l(l
 *:_T_R_L178
 D:l(l loop l(l oil l(l only l(l
 
-I:The close parenthesis is the shift of the 0-key.  (Use your ;-finger).
+I:The close parenthesis is the shift of the 0-key. (Use your ;-finger).
 *:_T_R_L179
 D:;;; ;); ;;; ;); ;;; ;);
 
@@ -1090,10 +1090,10 @@ S:1 little, 2 little, 3 little Indians,
 *:_T_R_L185
 S:If we want to catch the 6:15 flight to Phoenix (which is the
  :non-stop), we will have to leave by 5:00 at the latest (in
- :case we run into traffic).  Otherwise, we will have to take
+ :case we run into traffic). Otherwise, we will have to take
  :the 6:45 flight (which makes 5 stops).
 
-I:Use the main keyboard keys.  Don't cheat and use the auxilliary keypad!
+I:Use the main keyboard keys. Don't cheat and use the auxilliary keypad!
  :Try entering straight numbers: 
 *:_T_R_L186
 D:423 475 925 235 295 175 650
@@ -1129,14 +1129,14 @@ B:                            Lesson T13
 
 *:_T_R_L191
 T:
- :There is no Lesson 13!  Don't you know that 13 is an unlucky number?
+ :There is no Lesson 13! Don't you know that 13 is an unlucky number?
  :
  :If you have completed Lessons T1 through T12, then you are now ready
- :to call yourself a touch typist.  You have learned to touch type all
- :of the keys which are standardized!  You can now begin the SPEED
- :series of lessons if you would like.  (If you come across a punctua-
- :tion symbol which you have not learned, simply look for it.  Use the
- :appropriate finger for the shifted numeric keys.  Use your ;-finger
+ :to call yourself a touch typist. You have learned to touch type all
+ :of the keys which are standardized! You can now begin the SPEED
+ :series of lessons if you would like. (If you come across a punctua-
+ :tion symbol which you have not learned, simply look for it. Use the
+ :appropriate finger for the shifted numeric keys. Use your ;-finger
  :for all the keys on the right-hand side.)
  :
  :We will practice touch typing on the keyboard layout for the remaining
@@ -1160,8 +1160,8 @@ D:;'; it's ;'; 'till ;'; won't ;';
 
 *:_T_R_L194
 D:;'; 'tis ;'; isn't ;'; 'tis too ;';
- :What's this I've got?  Isn't this yesterday's paper?  Where's today's?
- :Can't you find anything?  It's right next to Dad's chair.
+ :What's this I've got? Isn't this yesterday's paper? Where's today's?
+ :Can't you find anything? It's right next to Dad's chair.
 
 I:Shift the apostrophe for the quote key.
 *:_T_R_L195
@@ -1182,10 +1182,10 @@ D:a!a Ah! a!a What! a!a Oh! a!a
 
 I:Always double space after an exclamation point.
 *:_T_R_L199
-D:Tomorrow's quiz!  What if we get caught?  We'll be expelled!
+D:Tomorrow's quiz! What if we get caught? We'll be expelled!
 
 *:_T_R_L200
-D:He'll never suspect a thing!  We'll get some answers wrong to fool him.
+D:He'll never suspect a thing! We'll get some answers wrong to fool him.
 
 G:_T_E_T14
 
@@ -1200,8 +1200,8 @@ B:                            Lesson T15
 T:
  :
  :In this lesson we will be practicing the special symbols which you will need
- :for BASIC or other programming languages.  I won't give you too much practice
- :with these symbols right now.  (You should be able to get plenty of exercise by
+ :for BASIC or other programming languages. I won't give you too much practice
+ :with these symbols right now. (You should be able to get plenty of exercise by
  :simply typing in programs.)
 
 I:Use your ;-finger for the equals key.
@@ -1284,9 +1284,9 @@ S:100 REM PROGRAM TO SOLVE QUADRATIC EQUATION
  :275 PRINT "ONE ROOT IS: ";-B+SQR(D)/2/A
  :300 PRINT "THE OTHER IS: ";-B-SQR(D)/2/A
  :325 STOP
- :400 PRINT "NOT A QUADRATIC.  TRY AGAIN."
+ :400 PRINT "NOT A QUADRATIC. TRY AGAIN."
  :425 GOTO 100
- :500 PRINT "COMPLEX ROOTS.  TRY AGAIN."
+ :500 PRINT "COMPLEX ROOTS. TRY AGAIN."
  :525 GOTO 125
 
 G:_T_E_T15
@@ -1301,14 +1301,14 @@ B:                            Lesson T16
 *:_T_R_L217
 T:
  :In this lesson we will be practicing the shifted numeric keys on the
- :terminal keyboard.  I will only be giving you practice in the keystroke
- :motions.  Very few sentence drills or speed exercises are included, since these
+ :terminal keyboard. I will only be giving you practice in the keystroke
+ :motions. Very few sentence drills or speed exercises are included, since these
  :keys are used so infrequently.
  :
  :If you are typing something which includes one of these special characters and
- :you cannot remember where a key is, look.  But, always make sure to hit the key
- :with the correct finger.  (If you do use the key often, you will eventually
- :learn where it is without looking.)  Since these keys are used infrequently and
+ :you cannot remember where a key is, look. But, always make sure to hit the key
+ :with the correct finger. (If you do use the key often, you will eventually
+ :learn where it is without looking.) Since these keys are used infrequently and
  :are in different places on most other keyboards or are totally missing, speed
  :is not important.
 
@@ -1335,7 +1335,7 @@ D:fff f$f fff f$f fff f$f fff
 *:_T_R_L223
 D:f$f r$v f$f v$4 f$f 4$r f$f
  :f$f rave f$f fare f$f $10.00 f$f
- :Joe keeps cryptic inventory bills like:  4# @ $5.00/# or 6# @ $4.50/#.
+ :Joe keeps cryptic inventory bills like: 4# @ $5.00/# or 6# @ $4.50/#.
 
 I:Use your F-finger for the percent sign as well.
 *:_T_R_L224
@@ -1345,7 +1345,7 @@ D:fff f%f fff f%f fff f%f fff
 D:f%f 12% f%f 10% f%f 20% f%f
  :f%f two f%f ran f%f bug f%f
  :If a $25.00 item is sold at a 10% discount, it will cost $22.50.
- :But, a 10% markup on a item selling for $22.50 is only $24.75!  How come?
+ :But, a 10% markup on a item selling for $22.50 is only $24.75! How come?
 
 I:Use your J-finger for the ampersand.
 *:_T_R_L226
@@ -1360,19 +1360,19 @@ D:j&j you&me j&j he&she j&j M&M j&j
 *:_T_R_L229
 T:				THE END
  :
- :You have now completed the T-series of these lessons.  If you have not already
+ :You have now completed the T-series of these lessons. If you have not already
  :done so, you should now start the N-series or S-series.
  :
- :There are a few keys which we have not studied.  If you decide to touch-type
- :these keys, use the closest finger.  Thus, the ESC, TAB, CAPS LOCK, and SCROLL
- :keys use the A-finger.  And, the keys to the far right (BACKSPACE, DELETE, LINE
- :FEED, RETURN, }, {, etc.) use the ;-finger.  The upper keys (f1, f2, etc.) are
- :not usually touch typed as the reach is too far.  If you can, fine.
+ :There are a few keys which we have not studied. If you decide to touch-type
+ :these keys, use the closest finger. Thus, the ESC, TAB, CAPS LOCK, and SCROLL
+ :keys use the A-finger. And, the keys to the far right (BACKSPACE, DELETE, LINE
+ :FEED, RETURN, }, {, etc.) use the ;-finger. The upper keys (f1, f2, etc.) are
+ :not usually touch typed as the reach is too far. If you can, fine.
  :
  :The CONTROL and REPEAT keys are difficult to touch type, but are treated like
- :the SHIFT keys whenever possible.  For example, to REPEAT an exclamation point,
+ :the SHIFT keys whenever possible. For example, to REPEAT an exclamation point,
  :hold the REPEAT key down with your ;-finger and then hit the ! with your A-
- :finger.  Certain command sequences, such as Control/S, are hard to do this way.
+ :finger. Certain command sequences, such as Control/S, are hard to do this way.
  :Many people simply hold the CONTROL-key down with their A-finger and then hit
  :the other key with whatever finger is convenient (usually the F-finger in this
  :case).

@@ -223,7 +223,7 @@ I:(5)
 D:geige feige liege fliege siege diehle fiele galle falle heg
  :hilfe heile half fall gehe giga glas flies dies see eisiges
  :die eisige see die alge das fass das glas das glas seidiges
- :gaffe haff kaff die alge  die felge siege sage gehe sehe es
+ :gaffe haff kaff die alge die felge siege sage gehe sehe es
 *:LESSON4_D6
 I:(6)
 D:she is his he is she lies es gase gas hass fass lass kahles
@@ -298,7 +298,7 @@ D:eul eur edu sui seu weu leu keu heu geu feu deu aeu are dar
 *:LESSON6_D3
 I:(3)
 D:darauf klaus uwes rufe jeder rief alles rief sehr ruf werke
- :darauf  dass klaus das rief wolle rolle solle kuddel suddel
+ :darauf dass klaus das rief wolle rolle solle kuddel suddel
  :alles was das haus so liege der wille der frau der herr aus
  :rief das alles was die seele jaja ferkel hase wolf uhu eule
 *:LESSON6_D4
@@ -321,7 +321,7 @@ D:wage es war dusselig es war eisig weil luise da war egal du
  :das regal das fiel der saal war leer wars fred wars ole was
 *:LESSON6_D7
 I:(7)
-D:war luise wer ulli wer dario alles lief  als das regal fiel
+D:war luise wer ulli wer dario alles lief als das regal fiel
 G:E_LESSON6
 
 *:S_LESSON7
@@ -343,18 +343,18 @@ D:aufs dies jura soda hier ufer haus erde frau juda judo joda
 I:(2)
 D:weise welle welse ferse wohlig wasserglas wasserfass wildes
  :frage gelage heraus wieso darf fasse wasser lasse oswald wo
- :war da was  wieso war der das eilig wohlig ruhig eisig hals
+ :war da was wieso war der das eilig wohlig ruhig eisig hals
  :hilfe kalle saal solle wolle wille wild wilde wildes waldig
 *:LESSON7_D3
 I:(3)
 D:wollo kohle sohle dohle gejohle logo sog flog woge jod hose
  :jagd gewehr eule geheule keule kuhle soul klaue wohlig hole
- :war er das  war sie das  wer war das wohl  wieso war es so 
+ :war er das war sie das wer war das wohl wieso war es so 
  :weise leise reise heise kriese wiese ferse hirse garaus was
 *:LESSON7_D4
 I:(4)
-D:also was soll das  weil das so sei  klar das war so ja das
- :was so war  was soll er was will er wer will es wer soll es 
+D:also was soll das weil das so sei klar das war so ja das
+ :was so war was soll er was will er wer will es wer soll es 
  :er soll was sie soll was sah er was so sah es aus was wohl
  :sie wolle was so er sah wer will das da wer soll wer ursel
 *:LESSON7_D5
@@ -365,7 +365,7 @@ D:alles war da was fiel das war gerade gefiel er jodele wolle
  :wage sage frage frau herr hausfrau hausherr heraus goldig
 *:LESSON7_D6
 I:(6)
-D:falke eule uhu juhu also falls das so war  war es so klar
+D:falke eule uhu juhu also falls das so war war es so klar
 G:E_LESSON7
 
 *:S_LESSON8
@@ -396,9 +396,9 @@ D:zeit seit der zeit zeisig ziele zahl zahle dutze kratze tue
 *:LESSON8_D4
 I:(4)
 D:welt erde orte worte warte zarte witze werte harte karte zu
- :der zug zog er flog sie lief es geht halt das  halt auf zoo
+ :der zug zog er flog sie lief es geht halt das halt auf zoo
  :wetter wettere watte lagert wagt es gelegt gelege fegt dies
- :löss fiel saugt es auf fegt es auf liest er was  er las das
+ :löss fiel saugt es auf fegt es auf liest er was er las das
 *:LESSON8_D5
 I:(5)
 D:wieso liest er das wer sagt etwas gesagt getagt gewagt erze
@@ -407,7 +407,7 @@ D:wieso liest er das wer sagt etwas gesagt getagt gewagt erze
  :kafka liest der titel ist das tier war da weil dies tier da
 *:LESSON8_D6
 I:(6)
-D:war  fiel der krug alles lief  half  saugte sagte rief geht
+D:war fiel der krug alles lief half saugte sagte rief geht
  :also daher wer geht geht jetzt er liest die kladde wer hört
  :da zu er hör sie hört kafka liest zola elise fragt fritz da
  :der was hörte wartete kafka sagt zu elise geht jetzt frau
@@ -617,7 +617,7 @@ D:alles was man lesen kann hilft beim lernen fahrt ski in den
 *:LESSON12_D7
 I:(7)
 D:erbe ihres mannes aber die eigenen verse sind ebenso gut zu
- :lesen  ist heine vergessen  keine ahnung  ist heine bekannt
+ :lesen ist heine vergessen keine ahnung ist heine bekannt
 G:E_LESSON12
 
 *:S_LESSON13
@@ -652,7 +652,7 @@ I:(4)
 D:ach auch doch dach ich mich sich nicht euch ich welch solch
  :solche molche welche jene, welche der, die, auch, wenn nun,
  :da sobald, wenn, dann gerade, als je mehr, desto besser, so
- :wie du,  na dann,  ich bin, glaube ich  wer glaubt, der ist
+ :wie du, na dann, ich bin, glaube ich wer glaubt, der ist
 *:LESSON13_D5
 I:(5)
 D:dick lack leck auch dich doch deck lech dach loch doch noch
@@ -661,10 +661,10 @@ D:dick lack leck auch dich doch deck lech dach loch doch noch
  :eva liest gedichte die ich schon lange kenne, doch schön
 *:LESSON13_D6
 I:(6)
-D:sind sie doch  auch, wenn der saal nicht voll ist, wird er
- :seine verse lesen kommt das komma da hin, oder da hin  ich
+D:sind sie doch auch, wenn der saal nicht voll ist, wird er
+ :seine verse lesen kommt das komma da hin, oder da hin ich
  :will gerne kommas setzen, doch ich mache das sicher immer
- :falsch  na schön, wenn es sein muss, dann auch mit kommata
+ :falsch na schön, wenn es sein muss, dann auch mit kommata
 *:LESSON13_D7
 I:(7)
 D:schick, schlank, schnick, schnack, schön, schade, schwer,
@@ -691,8 +691,8 @@ D:x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x.
 I:(2)
 D:axt exe axt exe ol. ol. mol. mal. mel. en. en. en. ein. en.
  :fax max axt axt. fax. max. a..a s..s d..d f..f j..j k..k xx
- :exe exa ex dax sax fax nux lux mux  tux exakt lexikon lexik
- :tux. taxi text textur taxen taxator taxameter saxophon lexx   
+ :exe exa ex dax sax fax nux lux mux tux exakt lexikon lexik
+ :tux. taxi text textur taxen taxator taxameter saxophon lexx  
 *:LESSON14_D3
 I:(3)
 D:tux. tex. exakt. explosion. exorbitant. mexiko. exempel. ex
@@ -831,7 +831,7 @@ I:(6)
 D:an den punktetabellen, wenn er die ergebnisse verschiedener
  :mannschaften vergleichen will. dort wird der bindestrich
  :verwendet, um zu zeigen, wer gegen wen spielt.
- :    herta bsc - fortuna köln
+ :   herta bsc - fortuna köln
 *:LESSON16_D7
 I:(7)
 D:in verbindungen wie gertrud-meier-platz oder 
@@ -894,7 +894,7 @@ D:konfitüre, marmelade, breitmaulfrösche ängstigen sich vor
 I:(8)
 D:die fläche der europäischen gemeinschaft beträgt...
  :vorwärts und rückwärts gelesen ergäbe der text dieser lek-
- :tion keinen sinn.  
+ :tion keinen sinn. 
  :...ach so, vögel ärgern keine bären.
 G:E_LESSON17
 
@@ -954,7 +954,7 @@ T:
  : der Regel mit den Großbuchstaben besetzt. Es gibt dabei zwei
  : Möglichkeiten: mit der linken oberen Taste "Pfeil nach unten"
  : wird die Tastatur bis zum erneuten Bestätigen dieser
- : "CAPSLOCK"-Taste  in die Zweitbelegung versetzt. Man schreibt
+ : "CAPSLOCK"-Taste in die Zweitbelegung versetzt. Man schreibt
  : dann ganz normal weiter erhält aber Großbuchstaben. Die beiden
  : anderen "SHIFT"-Tasten links und rechts in der untersten
  : Tastenreihe müssen beim tippen des Buchstaben gehalten
@@ -1132,7 +1132,7 @@ T:
  : PingoS-Homepage veröffentlichen.
 *:LESSON22_D1
 I:(1)
-D:Lesung                                          A. Kalbitz
+D:Lesung                                         A. Kalbitz
  :Samstagabend, Feierabend. Beine hochlegen, abschlaffen,
  :das miese Fernsehprogramm über sich ergehen lassen, schla-
  :fen. Ein Leben lang berieselt von den Impressionen irgend-
@@ -1188,7 +1188,7 @@ T:
  : dichterische Freiheit.
 *:LESSON23_D1
 I:(1)
-D:Was hat...                            A. Kalbitz
+D:Was hat...                           A. Kalbitz
  :Was hat uns so verblendet,
  :dass alles was wir schaffen,
  :gemessen wird an anderem,
@@ -1235,7 +1235,7 @@ T:
 *:LESSON24_D1
 I:(1)
 D:<><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
- :< > < > < > < > < > < > < >  < > < > < > < > < > < > < >
+ :< > < > < > < > < > < > < > < > < > < > < > < > < > < >
  :>< >< >< >< >< >< >< >< >< >< >< >< >< >< >< >< >< >< ><
  :<< >> << >> << >> << >> << >> << >> << >> << >> << >> <<
 *:LESSON24_D2
@@ -1611,8 +1611,8 @@ T:
 *:LESSON32_D1
 I:(1)
 D:+*#' +*#' +'*# #*#' *#' #+'+ +##+ '++' ++'#*# #+#+#+#+* #*
- :  3+3=6
- :  3*3=9
+ : 3+3=6
+ : 3*3=9
  :#include <wx/wx.h>
 *:LESSON32_D2
 I:(2)
@@ -1622,15 +1622,15 @@ D:# dies ist ein Kommentar
  :Berechne!
 *:LESSON32_D3
 I:(3)
-D:  3+3+3+3=
- :  3*3*3*3=
- :  9*9*9*9=
- :  9+9+9+9=
+D: 3+3+3+3=
+ : 3*3*3*3=
+ : 9*9*9*9=
+ : 9+9+9+9=
 *:LESSON32_D4
 I:(4)
 D:Rechenoperationen in der Mathematik:
- :  + ist das Zeichen für die Addition.
- :  * ist das Zeichen für Multiplikation.
+ : + ist das Zeichen für die Addition.
+ : * ist das Zeichen für Multiplikation.
  :'Hier steht etwas drin!'
 *:LESSON32_D5
 I:(5)
@@ -1877,13 +1877,13 @@ I:(5)
 D:#include <config.h>
  :enum
  :{
- :  C = 211,
+ : C = 211,
 *:LESSON36_D6
 I:(6)
-D:  OK = 212
+D: OK = 212
  :};
  :BEGIN_EVENT_TABLE(Info_Dialog, wxDialog)
- :  EVT_BUTTON(OK, Info_Dialog::OnSchliessen)
+ : EVT_BUTTON(OK, Info_Dialog::OnSchliessen)
 *:LESSON36_D7
 I:(7)
 D:END_EVENT_TABLE()
@@ -1898,71 +1898,71 @@ D:Info_Dialog::Info_Dialog(wxWindow* parent, wxWindowID id, const wxString& titl
  :const wxString& name = "dialogBox") : wxDialog(parent, id, title, pos, size,
  :style, name)
  :{
- :  SetAutoLayout(TRUE);
+ : SetAutoLayout(TRUE);
 *:LESSON36_D9
 I:(9)
 D:#ifdef __WXMSW__
- :  wxBitmap::AddHandler(new wxPNGFileHandler);
+ : wxBitmap::AddHandler(new wxPNGFileHandler);
  :#endif
  :#ifdef __WXGTK__
 *:LESSON36_D10
 I:(10)
-D:  wxImage::AddHandler(new wxPNGHandler);
+D: wxImage::AddHandler(new wxPNGHandler);
  :#endif
- :  wxString f;
- :  f << L_DIR << "logo.png";
+ : wxString f;
+ : f << L_DIR << "logo.png";
 *:LESSON36_D11
 I:(11)
-D:  logo = new wxBitmap(f , wxBITMAP_TYPE_PNG);
- :  canvas = new MyCanvas(this,  logo, wxDefaultPosition, wxDefaultSize);
- :  wxLayoutConstraints *c1 = new wxLayoutConstraints;
- :  c1->top.SameAs(this, wxTop, 5);
+D: logo = new wxBitmap(f , wxBITMAP_TYPE_PNG);
+ : canvas = new MyCanvas(this, logo, wxDefaultPosition, wxDefaultSize);
+ : wxLayoutConstraints *c1 = new wxLayoutConstraints;
+ : c1->top.SameAs(this, wxTop, 5);
 *:LESSON36_D12
 I:(12)
-D:  c1->left.SameAs(this, wxLeft, 5);
- :  c1->width.PercentOf(this, wxWidth, 48);
- :  c1->height.PercentOf(this, wxHeight, 80);
- :  canvas->SetConstraints(c1);
+D: c1->left.SameAs(this, wxLeft, 5);
+ : c1->width.PercentOf(this, wxWidth, 48);
+ : c1->height.PercentOf(this, wxHeight, 80);
+ : canvas->SetConstraints(c1);
 *:LESSON36_D13
 I:(13)
-D:  info_text = new wxStaticText(this, -1, "", wxDefaultPosition, wxDefaultSize);
- :  wxLayoutConstraints *c3 = new wxLayoutConstraints;
- :  c3->top.SameAs(this, wxTop, 5);
- :  c3->left.SameAs(canvas, wxRight, 15);
+D: info_text = new wxStaticText(this, -1, "", wxDefaultPosition, wxDefaultSize);
+ : wxLayoutConstraints *c3 = new wxLayoutConstraints;
+ : c3->top.SameAs(this, wxTop, 5);
+ : c3->left.SameAs(canvas, wxRight, 15);
 *:LESSON36_D14
 I:(14)
-D:  c3->width.PercentOf(this, wxWidth, 47);
- :  c3->height.PercentOf(this, wxHeight, 80);
- :  info_text->SetConstraints(c3);
- :  wxString msg;
+D: c3->width.PercentOf(this, wxWidth, 47);
+ : c3->height.PercentOf(this, wxHeight, 80);
+ : info_text->SetConstraints(c3);
+ : wxString msg;
 *:LESSON36_D15
 I:(15)
-D:  msg << _("PingoS Tipptrainer\n")
- :      << _("------------------\n")
- :      << _("Version:\t") << VERSION
- :      << _("\nhttp://www.pingos.schulnetz.org/tipptrainer\n")
+D: msg << _("PingoS Tipptrainer\n")
+ :     << _("------------------\n")
+ :     << _("Version:\t") << VERSION
+ :     << _("\nhttp://www.pingos.schulnetz.org/tipptrainer\n")
 *:LESSON36_D16
 I:(16)
-D:      << _("Veröffentlicht unter der GPL 2.0\n")
- :      << _("\nAutoren:\n")
- :      << "Andreas Kalbitz \n\t(felix@musik-workshop.de)\n"
- :      << "Matthias Kleine \n\t(Matthias.Kleine@selflinux.de)\n"
+D:     << _("Veröffentlicht unter der GPL 2.0\n")
+ :     << _("\nAutoren:\n")
+ :     << "Andreas Kalbitz \n\t(felix@musik-workshop.de)\n"
+ :     << "Matthias Kleine \n\t(Matthias.Kleine@selflinux.de)\n"
 *:LESSON36_D17
 I:(17)
-D:      << "Daniel Reith (DanR@gmx.de)\n"
- :      << _("\nFeedback bitte an: \n\ttipptrainer@reith.8m.com");
- :  info_text->SetLabel(msg);
- :  ok = new wxButton(this, OK, _("Schließen"));
+D:     << "Daniel Reith (DanR@gmx.de)\n"
+ :     << _("\nFeedback bitte an: \n\ttipptrainer@reith.8m.com");
+ : info_text->SetLabel(msg);
+ : ok = new wxButton(this, OK, _("Schließen"));
 *:LESSON36_D18
 I:(18)
-D:  wxLayoutConstraints *c2 = new wxLayoutConstraints;
- :  c2->centreX.SameAs(this, wxCentreX);
- :  c2->top.SameAs(canvas, wxBottom, 10);
- :  c2->width.PercentOf(this, wxWidth, 30);
+D: wxLayoutConstraints *c2 = new wxLayoutConstraints;
+ : c2->centreX.SameAs(this, wxCentreX);
+ : c2->top.SameAs(canvas, wxBottom, 10);
+ : c2->width.PercentOf(this, wxWidth, 30);
 *:LESSON36_D19
 I:(19)
-D:  c2->height.PercentOf(this, wxHeight, 9);
- :  ok->SetConstraints(c2);
+D: c2->height.PercentOf(this, wxHeight, 9);
+ : ok->SetConstraints(c2);
  :}
  ://*********************************************************
 *:LESSON36_D20
@@ -1981,12 +1981,12 @@ D:}
 I:(22)
 D:void Info_Dialog::OnSchliessen(wxCommandEvent* event)
  :{
- :  EndModal(GetReturnCode());
+ : EndModal(GetReturnCode());
  :}
 *:LESSON36_D23
 I:(23)
 D:BEGIN_EVENT_TABLE(MyCanvas, wxScrolledWindow)
- :    EVT_PAINT(MyCanvas::OnPaint)
+ :   EVT_PAINT(MyCanvas::OnPaint)
  :END_EVENT_TABLE()
  :MyCanvas::MyCanvas(wxWindow *parent, wxBitmap *b, const wxPoint& pos,
  :const wxSize& size):
@@ -1994,7 +1994,7 @@ D:BEGIN_EVENT_TABLE(MyCanvas, wxScrolledWindow)
 I:(24)
 D: wxScrolledWindow(parent, -1, pos, size)
  :{
- :  logo = b;
+ : logo = b;
  :}
 *:LESSON36_D25
 I:(25)
@@ -2005,12 +2005,12 @@ D:MyCanvas::~MyCanvas()
 *:LESSON36_D26
 I:(26)
 D:{
- :  wxPaintDC dc(this);
- :  wxMemoryDC memDC;
- :  memDC.SelectObject(* logo);
+ : wxPaintDC dc(this);
+ : wxMemoryDC memDC;
+ : memDC.SelectObject(* logo);
 *:LESSON36_D27
 I:(27)
-D:  dc.Blit(5, 25, logo->GetWidth(), logo->GetHeight(), & memDC,
+D: dc.Blit(5, 25, logo->GetWidth(), logo->GetHeight(), & memDC,
  : 0, 0, wxCOPY, TRUE);
  : memDC.SelectObject(wxNullBitmap);
  :}

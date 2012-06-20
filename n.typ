@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 #------------------------------------------------------------------------------
@@ -33,21 +33,21 @@ T:
  :			Numeric Keypad Lessons
  :
  :The N series lessons are provided for practice with the numeric keys available
- :on the H89/H19 terminal.  You do not need to know how to touch type on the
- :standard keyboard in order to learn touch typing on a calculator keypad.  So,
+ :on the H89/H19 terminal. You do not need to know how to touch type on the
+ :standard keyboard in order to learn touch typing on a calculator keypad. So,
  :you can begin this series right away.
  :
  :When entering numeric values, accuracy is usually more important than speed.
- :Take these lessons very slowly.  Speed will come naturally later.
+ :Take these lessons very slowly. Speed will come naturally later.
  :
- :As with the standard keypad, you must start in the HOME position.  Place the
+ :As with the standard keypad, you must start in the HOME position. Place the
  :first three fingers of your right hand over the 4, 5, and 6 keys of the keypad.
- :(Your thumb and fifth finger are not used.)  Your fingers should be poised just
- :over the keys gently brushing them.  Use the thumb or any finger of your left
+ :(Your thumb and fifth finger are not used.) Your fingers should be poised just
+ :over the keys gently brushing them. Use the thumb or any finger of your left
  :hand for other keys, such as the SPACE bar.
  :
  :After entering each line, hit the ENTER key with the 6-finger (the third finger
- :of your right hand).  Immediately return your finger to the 6 key.  It is very
+ :of your right hand). Immediately return your finger to the 6 key. It is very
  :important that you bring the finger back without looking.
 
 I:Use your third finger only.

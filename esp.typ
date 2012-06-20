@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
 *:COMIENZO
@@ -60,9 +60,9 @@ M: "Menú principal"
 #  :                      Ayuda de las teclas de función
 #  :
 #  :Use las teclas de función del teclado para navegar a través de las lecciones
-#  :y menús de selección de lecciones.  En una serie de lecciones presionando la
+#  :y menús de selección de lecciones. En una serie de lecciones presionando la
 #  :tecla Fkey12 lo hará volver al menú de series; Cuando está en el menú
-#  :de series, esta lo llevará al menú principal del programa.  En el menú princi-
+#  :de series, esta lo llevará al menú principal del programa. En el menú princi-
 #  :pal del programa, Fkey12 hace que salga de Typist.
 #  :
 #  :Si una serie de lecciones tiene más de una hoja de menú de lecciones use la
@@ -71,10 +71,10 @@ M: "Menú principal"
 #  :Cuando está en un ejercicio, puede usar la tecla Esc para salir de la rutina
 #  :o el test.
 #  :
-#  :Si no tiene teclas de función disponibles en su terminal, o  si no trabajan
+#  :Si no tiene teclas de función disponibles en su terminal, o si no trabajan
 #  :por alguna razón (Por ejemplo, otro programa las está interceptando), puede
 #  :usar las teclas 1 a 9 como F1 a F9, 0 como F10, A como F11 y S como F12.
-#  :Algunas combinaciones con la tecla Ctrl también sirven:  Ctrl-Q a Ctrl-P son
+#  :Algunas combinaciones con la tecla Ctrl también sirven: Ctrl-Q a Ctrl-P son
 #  :teclas alternativas para Fkey1 a Fkey10, y Ctrl-A y Ctrl-S para Fkey11 y Fkey12.
 B:Metodología de las Lecciones
 T:
@@ -90,7 +90,7 @@ T:
  :sirven como preparación para lo que se espera evaluar.
  :
  :La tercera sección es la evaluación de lo aprendido durante las lecciones ante-
- :riores.  Esta es la que servirá para hacer el control de la lección, traerá
+ :riores. Esta es la que servirá para hacer el control de la lección, traerá
  :instrucciones de cuáles son los requisitos para que esta sea aprobada.
  :
 Q: Presione Y para continuar
@@ -113,7 +113,7 @@ T:Los dedos deben estar ubicados sobre las teclas guías; se debe evitar colocar
  :
  :La mano izquierda debe estar posicionada de la siguiente forma: el meñique
  :sobre la tecla A, el anular sobre la tecla S, el del corazón sobre la D, el
- :índice sobre la F.  La mano derecha por su parte debe tener la siguiente dis-
+ :índice sobre la F. La mano derecha por su parte debe tener la siguiente dis-
  :posición: el índice sobre la J, el del corazón sobre la K, el anular sobre la
  :L, y el meñique sobre la Ñ en un teclado español o latinoamericano. El dedo
  :pulgar de la mano derecha debe descansar sobre la barra espaciadora.
@@ -176,7 +176,7 @@ T:La tecla H se pulsa con el dedo índice derecho, esto es, el dedo de la J.
  :dedos de dicha mano sobre las teclas guías A, S y F.
  :
  :La tecla O se pulsa con el dedo anular de la mano derecha, el dedo que tiene
- :como tecla guía la L.  Mantenga el resto de dedos de dicha mano sobre las te-
+ :como tecla guía la L. Mantenga el resto de dedos de dicha mano sobre las te-
  :clas guías, J, K y Ñ.
 *:PRACTICA_LECCION_2
 B:Ejercicio de práctica
@@ -251,7 +251,7 @@ T:La tecla N se pulsa con el dedo índice derecho, esto es, el dedo de la J.
  :A, S y D.
  :
  :La tecla I se pulsa con el dedo medio de la mano derecha, el dedo que tiene
- :como tecla guía la K.  Mantenga el resto de dedos de dicha mano sobre las te-
+ :como tecla guía la K. Mantenga el resto de dedos de dicha mano sobre las te-
  :clas guías, J, L y Ñ.
 
 
@@ -413,7 +413,7 @@ T:La tecla T se pulsa con el dedo índice izquierdo, esto es, el dedo de la F.
  :A, S y F.
  :
  :Presione la tecla de la mayúscula derecha con el dedo meñique derecho, esto
- :es el dedo de la Ñ.  Mantenga el dedo de la J sobre la tecla guía.
+ :es el dedo de la Ñ. Mantenga el dedo de la J sobre la tecla guía.
 
 *:PRACTICA_LECCION_5
 B:Práctica Lección 5
@@ -431,7 +431,7 @@ s:ftf ft t fff ft t ttt ft f tel ta t ata
 B:Lección 5
 I:Ejercicio de aplicación(Teclas nuevas)
 s:la casa esta cerca de teja en la tarde te
- :Es tarde cerca de  ha de cantar teje en la
+ :Es tarde cerca de ha de cantar teje en la
  :Ana es casa de calle dos Tere Salas carta
  :t ta tal tela tarde te ten teje tejas tan
  :c ca cal cala calle ce ced cede cerca Cid
@@ -451,8 +451,8 @@ S:a la sal sala f fa fas faja e es ese seda
  :ñ ña año daño n no nos niño r re ere reir
  :la casa esta cerca de teja en la tarde te
  :la casa esta cerca de teja en la tarde te
- :Es tarde cerca de  ha de cantar teje en la
- :Es tarde cerca de  ha de cantar teje en la
+ :Es tarde cerca de ha de cantar teje en la
+ :Es tarde cerca de ha de cantar teje en la
  :Ana es casa de calle dos Tere Salas carta
  :Ana es casa de calle dos Tere Salas carta
  :t ta tal tela tarde te ten teje tejas tan
@@ -479,7 +479,7 @@ T:La tecla M se pulsa con el dedo índice derecho, esto es, el dedo de la J.
  :A, S y D.
  :
  :Presione la tecla del punto (.) con el dedo anular de la mano izquierda, esto
- :es el dedo de la L.  Mantenga el resto de los dedos de la misma manos sobre
+ :es el dedo de la L. Mantenga el resto de los dedos de la misma manos sobre
  :las teclas guías.
 
 *:PRACTICA_LECCION_6
@@ -498,7 +498,7 @@ s:jmj mj m mmm jj m mas me m mes mi j eme
  :1.1.1. . Dr. Sr. l.l. f. a lll l. l Sra.
  :j jm mas masa mes meses manos maja mente
  :g fg gas gasa gente grato gran gol golfoe
- :Esa frase es larga.  Ana ha de ir lejos.
+ :Esa frase es larga. Ana ha de ir lejos.
 B:Lección 6
 I:Ejercicio de aplicación
 s:m me eme mesa monte mismo mina mos mime
@@ -524,8 +524,8 @@ S:jmj mj m mmm jj m mas me m mes mi j eme
  :j jm mas masa mes meses manos maja mente
  :g fg gas gasa gente grato gran gol golfoe
  :g fg gas gasa gente grato gran gol golfoe
- :Esa frase es larga.  Ana ha de ir lejos.
- :Esa frase es larga.  Ana ha de ir lejos.
+ :Esa frase es larga. Ana ha de ir lejos.
+ :Esa frase es larga. Ana ha de ir lejos.
  :m me eme mesa monte mismo mina mos mime
  :g gr gra gran grana gente gala gas gago
  :Eta desea ir a la gran fiesta de Carla.
@@ -553,7 +553,7 @@ T:La tecla Q se pulsa con el dedo meñique izquierdo, esto es, el dedo de la A.
  :K, L y Ñ.
  :
  :Presione la tecla de la mayúscula izquierda con el dedo meñique izquierdo, esto
- :es el dedo de la A.  Mantenga el dedo de la F sobre la tecla guía.
+ :es el dedo de la A. Mantenga el dedo de la F sobre la tecla guía.
 
 *:PRACTICA_LECCION_7
 B:Lección 7
@@ -702,10 +702,10 @@ T:La tecla W se pulsa con el dedo anular izquierdo, esto es, el dedo de la S.
  :A, S y D.
  :
  :Presione la tecla de la tilde (') con el dedo meñique derecho, esto es el dedo
- :de la Ñ.  Mantenga los dedos de la misma mano sobre las teclas guías: J, K y L.
+ :de la Ñ. Mantenga los dedos de la misma mano sobre las teclas guías: J, K y L.
  :
  :Para colocar la tilde sin una vocal debe oprimir la barra espaciadora despué
- :de oprimir la tecla '.  La tecla de la tilde se encuentra a la derecha de la Ñ
+ :de oprimir la tecla '. La tecla de la tilde se encuentra a la derecha de la Ñ
  :en un teclado latinoamericano, y al lado de la P en uno español.
 
 *:PRACTICA_LECCION_9
@@ -772,7 +772,7 @@ T:La tecla P se pulsa con el dedo meñique derecho, esto es, el dedo de la Ñ.
  :A, S y D.
  :
  :Presione la tecla de la coma (,) con el dedo medio derecho, esto es el dedo
- :de la K.  Mantenga los dedos de la misma mano sobre las teclas guías: J, L y Ñ.
+ :de la K. Mantenga los dedos de la misma mano sobre las teclas guías: J, L y Ñ.
  :
 
 *:PRACTICA_LECCION_10
@@ -843,7 +843,7 @@ s:Berta no puede ir sola al fuerte Valdés.
  :Pedro, Leo, Sonia e Irene viajan juntos.
  :Sí, mi único hijo se llama Jorge Arturo.
  :En esta práctica una intención era aprender a usar el tabulador,
- :pero cuando tenga más experiencia lo haré.  Seguramente cuando vaya
+ :pero cuando tenga más experiencia lo haré. Seguramente cuando vaya
  :a programar y a hacer trabajos para el colegio.
 
 B:Práctica 11
@@ -896,7 +896,7 @@ T:La tecla Z se pulsa con el dedo meñique izquierdo, esto es, el dedo de la A.
  :J, L y Ñ. Debe mantener oprimido el shift izquierdo con el meñique izquierdo.
  :
  :Presione la tecla del punto y coma (;) con el dedo anular derecho, esto es el
- : dedo de la L.  Mantenga los dedos de la misma mano sobre las teclas guías: J,
+ : dedo de la L. Mantenga los dedos de la misma mano sobre las teclas guías: J,
  :K y Ñ. Debe mantener el oprimido el shift izquierdo con el meñique izquierdo.
  :
  :Estas instrucciones son para un teclado LatinoAmericano, probablemente la dis-
@@ -911,14 +911,14 @@ s:m p . n i r v t a s d x y c f g l , o q y e
  :Visite el volcán y vea los viveros de Vanesa.
  :La única tecla del abecedario en español que falta es la última
  :Después de punto y coma ; se deja un espacio.
- :Después de dos puntos :  Se dejan dos espacios.
+ :Después de dos puntos : Se dejan dos espacios.
 
 B:Práctica 12
 I:Practica con las nuevas teclas
 s:az za aza zag zinc zona haz Zoé taza zumo zejel
  :ñ; ;; si; lo; por; tal; as; de; Sr.; son; pues;
  :ñ: :: es: su: A: De: la: Para: Año: señor:
- :Señor:  Puede ir con su esposa; no con su hija.
+ :Señor: Puede ir con su esposa; no con su hija.
  :int a,b,c; float d,e,f; char zar1,zar2,zar3;
  :Una idea; otra idea; más ideas.
 
@@ -929,7 +929,7 @@ I:Para pasar a la siguiente lección, en esta evaluación su wpm real debe ser d
 E:3%
 F:MENU_LECCION_12
 S:El signo ; señala una pausa intermedia, equivalente a dos tiempos, con un
- :descenso en la entonación.  Indica una pausa mayor que la señalada por la coma
+ :descenso en la entonación. Indica una pausa mayor que la señalada por la coma
  :pero no tan notable como la del punto.
  :Actualmente se le emplea menos que antes, desplazado en muchos casos por el
  :punto, la coma o los dos puntos.
@@ -938,9 +938,9 @@ S:El signo ; señala una pausa intermedia, equivalente a dos tiempos, con un
  :int a;
  :float b,c;
  :El signo : indica una pausa intermedia (de dos tiempos), precedida de un
- :descenso en el tono.  A diferencia del punto, indica que no se ha enunciado el
+ :descenso en el tono. A diferencia del punto, indica que no se ha enunciado el
  :pensamiento completo, y que lo siguiente está relacionado con lo anterior: Es
- :una especie de llamada de atención para el lector.  Según la relación
+ :una especie de llamada de atención para el lector. Según la relación
  :existente, lo que sigue se escribe con minúscula o con mayúscula.
  :A diferencia de pascal, en C la asignación no necesita :
  :En lenguajes de programación es bastante usual encontrar los símbolos : y ;
@@ -1157,9 +1157,9 @@ T:Entre las ventajas que tiene LaTeX se puede encontrar la portabilidad entre
 *:PRACTICA_LECCION_16
 s:LaTeX2e es un sistema de preparación de documentos implementado como un
  :paquete de Macros para el programa de impresión con formato de Donald E.
- :Knuth.  Leslie Lamport fue quien concibió inicialmente tal idea.
+ :Knuth. Leslie Lamport fue quien concibió inicialmente tal idea.
  :El comando LaTeX imprime un archivo de texto usando el programa TeX y el
- :paquete de Macros de TeX.  Para ser más específicos, procesa un archivo
+ :paquete de Macros de TeX. Para ser más específicos, procesa un archivo
  :de entrada conteniendo el texto de un documento junto con comandos que
  :describen el formato del texto.
  :Para una descripción de lo que ocurre dentro de TeX, consulte 'The TeXbook'
@@ -1170,7 +1170,7 @@ s:LaTeX2e es un sistema de preparación de documentos implementado como un
  :Publishing Company, 2nd edition, 1994.
  :'The LaTeX Companion', por Michel Goossens, Frank Mittelbach, y Alexander
  :Samarin, Addison-Wesley, 1994
- :                                     Tomado del Info de LaTeX.
+ :                                    Tomado del Info de LaTeX.
 
 s:Las teclas que se usan en esta lección son \ { } [ ] _ ^ $.
  :Siempre que se quiera escribir un documento en LaTeX, se debe especificar a
@@ -1230,11 +1230,11 @@ M: UP=MENU_PRINCIPAL "Lección 17 - Algo de HTML  < > & " ? !"
 *:INSTRUCCIONES_LECCION_17
 B:Algo de HTML
 T:
- :Uno de los grandes éxitos en Internet ha sido el WEB.  La palabra web del
- :inglés en español es telaraña.  El Web es una telaraña de hipertextos.
+ :Uno de los grandes éxitos en Internet ha sido el WEB. La palabra web del
+ :inglés en español es telaraña. El Web es una telaraña de hipertextos.
  :
  :Puede empezarse por entender un hipertexto como un texto con enlaces a otros
- :otros hipertextos.  El lenguaje usado para escribir hipertextos en el Web
+ :otros hipertextos. El lenguaje usado para escribir hipertextos en el Web
  :es HTML.
  :
  :En esta lección aprenderá un poco de HTML al tiempo con el uso de algunas
@@ -1250,7 +1250,7 @@ s:Primero un calentamiento: <<< <<< >>> >>> &&& &&& """ """ ??? ??? !!! !!!
  :<> <> &" &" ?! ?! <>&"?! <>&"?! <>&"?! <<&&""??!!>> <<&&""??!!>> !?&><"
  :
  :Para escribir en HTML se usan TAGS, un tag es una palabra que se coloca
- :entre los símbolos < y >.  La mayoría de tags que se abren deben cerrarse:
+ :entre los símbolos < y >. La mayoría de tags que se abren deben cerrarse:
  : <title>El titulo</title>
  :Se uso el tag <title> y se cerró posteriormente con el tag </title>
  :Algunos tags importantes son: <html> para indicar inicio del documento y
@@ -1300,7 +1300,7 @@ M: UP=MENU_PRINCIPAL "Lección 18 - Algo de Texinfo # | @"
 
 *:INSTRUCCIONES_LECCION_18
 B:Algo de Texinfo:
-T:Texinfo es un formato apropiado para documentos técnicos.  Se ha usado
+T:Texinfo es un formato apropiado para documentos técnicos. Se ha usado
  :especialmente para escribir manuales y documentación de programas.
  :
  :Los documentos escritos en este formato pueden ser traducidos por
@@ -1309,7 +1309,7 @@ T:Texinfo es un formato apropiado para documentos técnicos.  Se ha usado
  :  * Al formato TeX precursor de LaTeX y apropiado para imprimir con
  :    alta calidad
  :  * Al formato info apropiado para consultar manuales y documentación
- :    en un computador.  Este es el formato de la documentación del sistema
+ :    en un computador. Este es el formato de la documentación del sistema
  :    GNU/Linux, para verla puede usar el comando "info"
  :
  :La gran ventaja de Texinfo es permitirle a los autores escribir y revisar
@@ -1317,7 +1317,7 @@ T:Texinfo es un formato apropiado para documentos técnicos.  Se ha usado
  :impresos o listos para ser consultados en un computador o en el WEB.
  :
  :En esta lección aprenderá un poco de Texinfo y practicará el uso de algunas
- :teclas nuevas: @ | y #.  En la práctica de la lección los conceptos de
+ :teclas nuevas: @ | y #. En la práctica de la lección los conceptos de
  :Texinfo son introducidos y en la evaluación parte de un documento Texinfo es
  :presentado.
 
@@ -1328,7 +1328,7 @@ s:@@@ @@@ ||| ||| ### ### @|@ @|@ |#| |#| |#| |@| |@| @#@ @#@
  :
  :Como los documentos de Texinfo pueden ser usados para generar archivos info,
  :HTML y TeX, hay comandos especiales para lograr efectos en esos formatos.
- :Tales comandos se denominan comandos-@.  Por ejemplo @noindent, @chapter,
+ :Tales comandos se denominan comandos-@. Por ejemplo @noindent, @chapter,
  :@dots, @example:
  :#- @noindent indica que el texto de la línea no debe ser indentado.
  :#- @chapter seguido de un título, indica el comienzo de un capítulo.
@@ -1338,7 +1338,7 @@ s:@@@ @@@ ||| ||| ### ### @|@ @|@ |#| |#| |#| |@| |@| @#@ @#@
  :En el formato info, un documento se divide en nodos, estos nodos tienen
  :estructura arborescente y para referenciar un nodo desde otro cada nodo tiene
  :un nombre. El comando @node permite definir nuevos nodos, debe estar seguido
- :por 4 textos separados por comas ",".  Tales textos son nombres de nodos, el
+ :por 4 textos separados por comas ",". Tales textos son nombres de nodos, el
  :primero es el nodo que se define, el segundo el nombre del nodo "siguiente",
  :el tercero el nodo "anterior" y el cuarto el nombre del nodo "superior".
 
@@ -1358,13 +1358,13 @@ S:@node Overview, Sourcebook of Writer, Top, Top
  :
  :|Writing|. You may think of it as an enjoyable activity. |Writing!|
  :You may consider it an irksome chore. |Writing?| You may not think much
- :about it at all.  Whatever your thoughts about it may be, the act of writing
- :is a process.  When you engage in the @strong{writing process}, you gradually
- :learn what ideas you have about people and things.  You then select ideas you
- :want to express. Finally  you put the ideas you choose into words and
+ :about it at all. Whatever your thoughts about it may be, the act of writing
+ :is a process. When you engage in the @strong{writing process}, you gradually
+ :learn what ideas you have about people and things. You then select ideas you
+ :want to express. Finally you put the ideas you choose into words and
  :communicate them clearly to others.
  :
- :   Taken from #MacMillan English: Thinking and Writing Processes#
+ :  Taken from #MacMillan English: Thinking and Writing Processes#
 
 G:LECCION_18
 
@@ -1383,7 +1383,7 @@ T:
  :de buena literatura.
  :
  :Hay dos fragmentos de obras en español y un fragmento de una obra clásica
- :en inglés.  Puede usar el diccionario para consultar las palabras que no
+ :en inglés. Puede usar el diccionario para consultar las palabras que no
  :conozca y para traducir el fragmento de "Alicia en el país de las Maravillas".
 
 
@@ -1418,7 +1418,7 @@ s:So she was considering in her own mind (as well as she could,
  :
  :There was nothing so VERY remarkable in that; nor did Alice
  :think it so VERY much out of the way to hear the Rabbit say to
- :itself, `Oh dear!  Oh dear!  I shall be late!'  (when she thought
+ :itself, `Oh dear! Oh dear! I shall be late!' (when she thought
  :it over afterwards, it occurred to her that she ought to have
  :wondered at this, but at the time it all seemed quite natural);
  :but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-
@@ -1468,14 +1468,14 @@ M: UP=MENU_PRINCIPAL "Menú Velocidad"
 B:Práctica y evaluación de velocidad
 T:
  :
- :En  esta  parte  de las lecciones debe concentrarse en la velocidad,
+ :En esta parte de las lecciones debe concentrarse en la velocidad,
  :claro está, sin descuidar del todo la precisión.
  :
- :Tendrá  dos  páginas  de  práctica,  cada  una de las cuales podrá repetir
- :hasta que se sienta a gusto.  Después de las prácticas tendrá la evaluación
+ :Tendrá dos páginas de práctica, cada una de las cuales podrá repetir
+ :hasta que se sienta a gusto. Después de las prácticas tendrá la evaluación
  :de velocidad.
  :
- :En  la evaluación deberá lograr por lo menos una velocidad de
+ :En la evaluación deberá lograr por lo menos una velocidad de
  :40 palabras por minuto (velocidad ajustada) con un error no superior al 5%.
 
 *:PRACTICA_VELOCIDAD1
@@ -1509,7 +1509,7 @@ s:Los organismos vivos se han agrupado en distintos reinos
  :reino "Animalia", por su parte las plantas pertenecen al reino
  :"Plantae"; pero será que esos son los únicos seres vivos que existen?
  :Claro que no! Por ejemplo los hongos pertenecen al reino "Fungi", las
- :bacterias, organismos de una sola célula,  pertenecen al reino "Monera".
+ :bacterias, organismos de una sola célula, pertenecen al reino "Monera".
  :Del quinto reino, llamado "Protista", evolucionaron Animalia, Plantae y
  :Fungi. Dado que algunos de los integrantes del reino Monera tienen
  :pequeñas diferencias, algunos biólogos opinan que debe
@@ -1562,14 +1562,14 @@ M: UP=MENU_PRINCIPAL "Menú Precisión"
 B:Práctica y evaluación de precisión
 T:
  :
- :En  esta  parte  de las lecciones debe concentrarse en la precisión,
+ :En esta parte de las lecciones debe concentrarse en la precisión,
  :aunque sin descuidar la velocidad.
  :
- :Tendrá  dos  páginas  de  práctica,  cada  una de las cuales podrá repetir
- :hasta que se sienta a gusto.  Después de las prácticas tendrá la evaluación
+ :Tendrá dos páginas de práctica, cada una de las cuales podrá repetir
+ :hasta que se sienta a gusto. Después de las prácticas tendrá la evaluación
  :de precisión.
  :
- :En  la evaluación deberá lograr por lo menos una velocidad de
+ :En la evaluación deberá lograr por lo menos una velocidad de
  :30 palabras por minuto (velocidad ajustada) con un error del 1%
 
 
@@ -1626,7 +1626,7 @@ S:Fragmento del prologo a "POR LO QUE HE VIVIDO"
  :
  :Tres pasiones, simples pero increíblemente fuertes, han gobernado mi vida:
  :las ansias del amor, la búsqueda del conocimiento, y una insoportable
- :compasión por el sufrimiento de la humanidad.  Estas pasiones, como grandes
+ :compasión por el sufrimiento de la humanidad. Estas pasiones, como grandes
  :vientos, me han enviado de aquí para allá, en un curso impredecible, sobre un
  :profundo océano de angustia, llegando al borde del desespero.
  :
