@@ -89,7 +89,7 @@ T:			SPEED EXERCISES
 
 I:(8) Pointer Paragraph (o e)
 *:_R_R_L9
-S:    Only too well do we know about your house. Mother told
+S:Only too well do we know about your house. Mother told
  :me you hope to be settled there quite soon. Of course she
  :would enjoy seeing the whole house next week. Before then
  :please write her a letter to let her know how to get there
@@ -97,7 +97,7 @@ S:    Only too well do we know about your house. Mother told
 
 I:(9) Test Paragraph
 *:_R_R_L10
-S:    The High dance opens at eight and the gang is going.
+S:The High dance opens at eight and the gang is going.
  :So Ted shuts the piano and stops at the phone to catch Ann.
  :I ought to post Ted that he pounds the piano as I once did.
  :I guess he is upset. He has to catch Dad to get the cash.
@@ -158,7 +158,7 @@ D:Her error is a sign that this thing or that has upset her.
 #
 I:(8) Pointed Paragraph (t h)
 *:_R_R_L19
-S:    Hugh thought he ought to start that night although the
+S:Hugh thought he ought to start that night although the
  :weather might hurt his health. Hal thought they ought to go
  :to Arizona together the thirtieth of June. Both hastened
  :through the streets to their very high hotel. Hal hesitated
@@ -167,7 +167,7 @@ S:    Hugh thought he ought to start that night although the
 
 I:(9) Test Paragraph
 *:_R_R_L20
-S:    Dad and his son are to start on a trip in our red car.
+S:Dad and his son are to start on a trip in our red car.
  :House cares are the sort that upset Dad and he is so tired
  :that he tries a nap in order to rest. It rains at a great
  :rate. Dan is too sure. He has heard this road is poor in
@@ -229,17 +229,17 @@ I:(8) One- to three-letter words (a to l)
 *:_R_R_L29
 S:Dear Ted,
  :
- :    A day ago Ann got a bad cut on her arm and a few by her
+ :A day ago Ann got a bad cut on her arm and a few by her
  :eye and ear. It is an act of God she did not die. Her car
  :did the job. It is the end of her car. She has no use for a
  :car. The fee is to be big. She is in bed, but she can not
  :eat. She can not eat a bit of egg. It is no fun at all.
  :
- :    It is hot. It is too hot for her fur hat, but I can buy
+ :It is hot. It is too hot for her fur hat, but I can buy
  :a box for it. I am due any day. I can cut a day if I fly.
  :It is not far if I go by air. If I go by car, I add a day.
  :
- :    How is Dan? Did he get his job? Dan had to beg for it
+ :How is Dan? Did he get his job? Dan had to beg for it
  :if he did. He is big and fat but not bad. The boy can do
  :it if he can act to fit his age. Ask him not to act as a kid.
  :
@@ -247,7 +247,7 @@ S:Dear Ted,
 
 I:(9) Test Paragraph
 *:_R_R_L30
-S:    To tell this class all there is to learn is not a real
+S:To tell this class all there is to learn is not a real
  :help later. Let the class plan the loose ease that can hold
  :each hand in place, or plan to end this or that poor slip,
  :or plan to do its total lines in less hours. As a rule, to
@@ -298,7 +298,7 @@ I:(6)
 *:_R_R_L37
 S:Dear Ted,
  :
- :    After I read your dandy note I felt sorry for the lady.
+ :After I read your dandy note I felt sorry for the lady.
  :Here is plenty of cash if you young people agree to spend it
  :sanely. Is it for a natty sail or only for golf? Did you and
  :Dan play or fight? Dan said he felt as if a full load of
@@ -308,7 +308,7 @@ S:Dear Ted,
 
 I:(7) Pointed Paragraph (a s)
 *:_R_R_L38
-S:    Sadness possesses her as she stands against the panes
+S:Sadness possesses her as she stands against the panes
  :that the sash separates. She is sad because the same dress
  :is not washed and in shape; and so she says it is useless to
  :save it. She is sad also because she has to stay in Alabama
@@ -318,7 +318,7 @@ S:    Sadness possesses her as she stands against the panes
 
 I:(8) Test Paragraph
 *:_R_R_L39
-S:    They say this fruit is the finest. It is full and good.
+S:They say this fruit is the finest. It is full and good.
  :Dr. Ted feels the first fruit is too green for young or old.
  :After one eats any of it he is sorry. In fact, if I try it,
  :that night in fancy I sail the South Seas for eight hours.
@@ -381,26 +381,26 @@ I:(8) One- to three-letter words (m to z)
 *:_R_R_L48
 S:Dear Tom,
  :
- :    Mr. May has one new car. It has a low red top. The top
+ :Mr. May has one new car. It has a low red top. The top
  :is so low you can not see the sun if you sit in the car. Mr.
  :May has not let his own son use it. I saw his son try to put
  :the top up. I ran and met him. Why not be men and run the car
  :out? We did. We set out to run it at six. We two ran it off
  :to an old lot by the sea.
  :
- :    Did his pa see us? Yes, sir, who but Pa was at No. Ten
+ :Did his pa see us? Yes, sir, who but Pa was at No. Ten
  :as we ran by in the car--and Ma, too. Oh, it was war--his pa
  :had a lot to say. Let me lay out the law to you. You may not
  :use the car as you did not pay for it. You are not yet a man.
  :Son did not lie nor did he win his way.
  :
- :    How are you all? Now if you get a new car, let me run it.
+ :How are you all? Now if you get a new car, let me run it.
  :
  :Yours sincerely,
 
 I:(9) Pointed Paragraph (t c)
 *:_R_R_L49
-S:    Is it quite certain that the citizens could continue the
+S:Is it quite certain that the citizens could continue the
  :old conditions if they voted a straight ticket? If we accept
  :as accurate the picture of recent conditions, we can not crave
  :to continue them. We lack the tact to get the citizens to
@@ -461,7 +461,7 @@ D:I want to hear the talk of folks who know hot sun and stock.
 
 I:(8) Pointed Paragraph (p y)
 *:_R_R_L58
-S:    Please report the people who study typing. You may
+S:Please report the people who study typing. You may
  :truly say that money paid for this study is happily spent.
  :Today typing plays a very practical part in acquiring a
  :paying position. We can use plenty of these days for exact
@@ -470,7 +470,7 @@ S:    Please report the people who study typing. You may
 
 I:(9) Test Paragraph
 *:_R_R_L59
-S:    Were you the judge in a case like this, could you do the
+S:Were you the judge in a case like this, could you do the
  :just thing? An old woman who keeps rooms hides her money
  :under a clock. A man using one of the rooms motors rapidly
  :away. The old woman says her money is gone. We join in a
@@ -532,7 +532,7 @@ D:The queen put this query in a quick voice to quell them all:
 
 I:(8) Pointed Paragraph (l s)
 *:_R_R_L68
-S:    The earliest possible sales lessen the total losses.
+S:The earliest possible sales lessen the total losses.
  :Please enclose the latest details in those lists yourself.
  :On almost all calls I could save six dollars, especially in
  :July. Tell the girls all the usual questions asked will be
@@ -541,7 +541,7 @@ S:    The earliest possible sales lessen the total losses.
 
 I:(9) Test Paragraph
 *:_R_R_L69
-S:    In our queen city I used to value two covers set every
+S:In our queen city I used to value two covers set every
  :day. At these I used to serve a young man and a girl. I did
  :love to see her quiet dress and quick smile favor her so.
  :I have never quite seen her equal, or a girl so very alive.
@@ -606,7 +606,7 @@ D:Isn't there a lot of zip and zest to your work on a paper of
 
 I:(8) Pointed Paragraph (r n)
 *:_R_R_L78
-S:    A note from Ann says her friend prefers to change her
+S:A note from Ann says her friend prefers to change her
  :return to Arizona from next February to November. The reason
  :is an error of the owner of the ranch who will not refund
  :her rent. The janitor is running some errand, for he has
@@ -616,7 +616,7 @@ S:    A note from Ann says her friend prefers to change her
 
 I:(9) Test Paragraph
 *:_R_R_L79
-S:    I'll admit I seize a chance to go with these dozen
+S:I'll admit I seize a chance to go with these dozen
  :people. We left under an azure sky, yet today it's rainy
  :and hazy. That Dr. Tedd is odd; he won't play; he's doing
  :a report on how to zone cities of any size; so he won't let
@@ -678,7 +678,7 @@ D:Bill begs Dad not to be blue, and his text is this: We
 
 I:(8) Pointed Paragraph (f y)
 *:_R_R_L88
-S:    Satisfy yourself that it will be funny, but perfectly
+S:Satisfy yourself that it will be funny, but perfectly
  :satisfactory, for forty or fifty of the faculty to fly from
  :Buffalo to New York on the first Friday in February. If
  :they prefer, we will offer them waffles, jelly, and coffee
@@ -688,7 +688,7 @@ S:    Satisfy yourself that it will be funny, but perfectly
 
 I:(8a) Pointed Paragraph (i d)
 *:_R_R_L89
-S:    Children find being quizzed in division, addition, and
+S:Children find being quizzed in division, addition, and
  :reading difficult. They studied daily during their third
  :period and tried to be confident. I think they did include
  :Florida and Rhode Island in their wide reading; and have
@@ -697,7 +697,7 @@ S:    Children find being quizzed in division, addition, and
 
 I:(9) Test Paragraph
 *:_R_R_L90
-S:    By using the new banks of keys on the new keyboard, you
+S:By using the new banks of keys on the new keyboard, you
  :are able to learn or excel with less labor. These new banks
  :have been based on an exact table of words used. You begin
  :at once on the best bank. On the old keyboard you have to
@@ -762,7 +762,7 @@ D:All day will be warm and novel. The far banks will slide by
 
 I:(8) Pointed Paragraph (m w)
 *:_R_R_L99
-S:    Some women swim in the spring. Some women swim in
+S:Some women swim in the spring. Some women swim in
  :the warm water of summer. Women in Brazil may swim even in
  :November. Some women from Japan will swim tomorrow. We want
  :to show the women from New Mexico and Wyoming how to swim in
@@ -771,7 +771,7 @@ S:    Some women swim in the spring. Some women swim in
 
 I:(8A) Pointed Paragraph (i o)
 *:_R_R_L100
-S:    I'm going to obtain oil options tonight and to file my
+S:I'm going to obtain oil options tonight and to file my
  :copies without noise, or outside notice. I am anxious to
  :avoid an action. If I voice an official opinion, I will omit
  :serious points. Knowing conditions, I am hoping that I'll
@@ -780,7 +780,7 @@ S:    I'm going to obtain oil options tonight and to file my
 
 I:(9) Test Paragraph
 *:_R_R_L101
-S:    Bound for some place where the sun sets in the west,
+S:Bound for some place where the sun sets in the west,
  :soon it is the night that I favor. Next to the night and
  :boat and water, maybe I judge our sail by its excellent bill
  :of fare. Here I am very exact, as I never set a poor table.
@@ -911,7 +911,7 @@ D:The usual test scores point to waste in many a class. After
 
 I:(8) Pointed Paragraph (n v)
 *:_R_R_L120
-S:    Eleven invitations for Thanksgiving vacation arrived in
+S:Eleven invitations for Thanksgiving vacation arrived in
  :advance of November. In vain have a dozen relatives invited
  :me to visit Vermont, Virginia, and Nevada. I love being
  :invited and I believe in never avoiding an invitation to any
@@ -921,7 +921,7 @@ S:    Eleven invitations for Thanksgiving vacation arrived in
 
 I:(9) Test Paragraph
 *:_R_R_L121
-S:    How much do you weigh? A young boy who is 5 feet tall
+S:How much do you weigh? A young boy who is 5 feet tall
  :may weigh 112 pounds; with an extra inch, 115 pounds. Add 3
  :pounds for any inch added. Thus if 5 feet and 4 inches, he
  :may weigh 124. If taller, add 4 pounds for each added inch.
@@ -1068,7 +1068,7 @@ D:SOIL--Remove to depth of 9" under house and 5' on all sides.
 
 I:(8) Pointed Paragraph (a o)
 *:_R_R_L141
-S:    To attain a personal association with so popular an
+S:To attain a personal association with so popular an
  :author is an approved social ambition. To loan him money or
  :catalog his books we consider a favor. Today his tailor, later
  :with a coat, loads on him a thousand pardons. A normal Mon-
@@ -1079,8 +1079,8 @@ S:    To attain a personal association with so popular an
 
 I:(9) Test Paragraph
 *:_R_R_L142
-S:    "Has #4-4 gone?" she asked, rushing in out of the cold.
- :    "No--why $4?" the station agent* answered (he had won-
+S:"Has #4-4 gone?" she asked, rushing in out of the cold.
+ :"No--why $4?" the station agent* answered (he had won-
  :dered why she was so worried). But he wasn't to find out--
  :for a white hand pushed back $15 and picked up an old copy
  :of Good Housekeeping from a seat. She began to read. When

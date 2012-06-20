@@ -1039,12 +1039,13 @@ B:Practicando lo Aprendido
 s:Un hombrecito va por allí caminando fresco, cargando un libro de Mr. Edgar
  :Allan Poe que pesa 5 kilos. De pronto un gordo lo ve pasar y se acerca y le
  :pregunta:
- : Dígame, no le molesta andar con ese libro tan pesado parriba y pabajo
+ :Dígame, no le molesta andar con ese libro tan pesado parriba y pabajo
  :
  :El hombrecito, que es muy bondadoso y un poco ingenuo, no se da cuenta que
  :el gordo se quiere burlar de él, y por eso piensa antes de contestar, para
  :darle la respuesta exacta; y ella es:
- : Lo que pasa es que desde hace un tiempo para acá me dí cuenta que yo vivo
+ :
+ :Lo que pasa es que desde hace un tiempo para acá me dí cuenta que yo vivo
  :mi vida montado en un globo, y el libro de Edgar me sirve de lastre. Lastre
  :para no elevarme tanto, para no ir a parar a una región desconocida, habitada
  :por gente que a lo mejor no me gusta, que no conozco. Además la persona que
@@ -1055,7 +1056,7 @@ s:Un hombrecito va por allí caminando fresco, cargando un libro de Mr. Edgar
  :en una película una actriz americana de la que se puede enamorar fácil, y la
  :tristeza se le pasa.
  :
- : Andrés Caicedo. Del libro Destinitos Fatales
+ :Andrés Caicedo. Del libro Destinitos Fatales
 
 *:LECCION_15
 *:MENU_LECCION_15
@@ -1251,16 +1252,16 @@ s:Primero un calentamiento: <<< <<< >>> >>> &&& &&& """ """ ??? ??? !!! !!!
  :
  :Para escribir en HTML se usan TAGS, un tag es una palabra que se coloca
  :entre los símbolos < y >. La mayoría de tags que se abren deben cerrarse:
- : <title>El titulo</title>
+ :<title>El titulo</title>
  :Se uso el tag <title> y se cerró posteriormente con el tag </title>
  :Algunos tags importantes son: <html> para indicar inicio del documento y
  :respectivamente </html> para indicar el final.
  :Todo tag que comience con "<!--" es un comentario y no necesita cerrarse:
- : <!-- Este es un comentario -->
+ :<!-- Este es un comentario -->
  :Para hacer un enlace a otra página puede usarse el tag "A":
- : <a href="http://structio.sourceforge.net">Proyecto Structio</a>
+ :<a href="http://structio.sourceforge.net">Proyecto Structio</a>
  :Algunos caracteres como las tildes pueden especificarse con ayuda de &:
- : á es &aacute; é es &eacute; í es &iacute; ó es &oacute; ú es &uacute;
+ :á es &aacute; é es &eacute; í es &iacute; ó es &oacute; ú es &uacute;
  :
  :Usted se preguntará: Y esto para que me sirve?
  :Y la respuesta la encontrará mirando Internet, dejándose fascinar por el Web
@@ -1364,7 +1365,7 @@ S:@node Overview, Sourcebook of Writer, Top, Top
  :want to express. Finally you put the ideas you choose into words and
  :communicate them clearly to others.
  :
- :  Taken from #MacMillan English: Thinking and Writing Processes#
+ :Taken from #MacMillan English: Thinking and Writing Processes#
 
 G:LECCION_18
 
@@ -1395,19 +1396,19 @@ s:Limpias, pues, sus armas, hecho del morrión celada, puesto nombre a su
  :sin amores era árbol sin hojas y sin fruto y cuerpo sin alma. Decíase él
  :a sí:
  :-Si yo, por malos de mis pecados, o por mi buena suerte, me encuentro por
- : ahí con algún gigante, como de ordinario les acontece a los caballeros
- : andantes, y le derribo de un encuentro, o le parto por mitad del cuerpo, o,
- : finalmente, le venzo y le rindo, ¿no será bien tener a quien enviarle
- : presentado y que entre y se hinque de rodillas ante mi dulce señora, y diga
- : con voz humilde y rendido: "Yo, señora, soy el gigante Caraculiambro,
- : señor de la ínsula Malindrania, a quien venció en singular batalla el
- : jamás como se debe alabado caballero don Quijote de la Mancha, el cual me
- : mandó que me presentase ante vuestra merced, para que la vuestra grandeza
- : disponga de mí a su talante"?
+ :ahí con algún gigante, como de ordinario les acontece a los caballeros
+ :andantes, y le derribo de un encuentro, o le parto por mitad del cuerpo, o,
+ :finalmente, le venzo y le rindo, ¿no será bien tener a quien enviarle
+ :presentado y que entre y se hinque de rodillas ante mi dulce señora, y diga
+ :con voz humilde y rendido: "Yo, señora, soy el gigante Caraculiambro,
+ :señor de la ínsula Malindrania, a quien venció en singular batalla el
+ :jamás como se debe alabado caballero don Quijote de la Mancha, el cual me
+ :mandó que me presentase ante vuestra merced, para que la vuestra grandeza
+ :disponga de mí a su talante"?
  :Oh, cómo se holgó nuestro buen caballero cuando hubo hecho este discurso,
  :y más cuando halló a quien dar nombre de su dama!
- :    Fragmento de 'El Quijote' de <Miguel de Cervantes Saavedra>.
- :    Proyecto Gutemberg. http://promo.net/pg/
+ :Fragmento de 'El Quijote' de <Miguel de Cervantes Saavedra>.
+ :Proyecto Gutemberg. http://promo.net/pg/
 
 B:Fragment of 'Alice in Wonderland'
 s:So she was considering in her own mind (as well as she could,
@@ -1428,30 +1429,30 @@ s:So she was considering in her own mind (as well as she could,
  :take out of it, and burning with curiosity, she ran across the
  :field after it, and fortunately was just in time to see it pop
  :down a large rabbit-hole under the hedge.
- :     Fragment of 'Alice in Wonderland' by <Lewis Caroll>
+ :Fragment of 'Alice in Wonderland' by <Lewis Caroll>
 
 *:EVALUACION_LECCION_19
 I:En esta evaluación se espera por lo menos 35wpm y a lo sumo 3% de error
 E:3%
 F:MENU_LECCION_19
 S:LA PONCIA. (Sale comiendo chorizo y pan): Llevan ya más de dos horas de
- : gori-gori. Han venido curas de todos los pueblos. La iglesia está hermosa.
- : En el primer responso se desmayó la Magdalena.
+ :gori-gori. Han venido curas de todos los pueblos. La iglesia está hermosa.
+ :En el primer responso se desmayó la Magdalena.
  :CRIADA: Es la que se queda más sola.
  :LA PONCIA: Era la única que quería al padre. Ay! Gracias a Dios que estamos
- : solas un poquito! Yo he venido a comer.
+ :solas un poquito! Yo he venido a comer.
  :CRIADA: Si te viera Bernarda!...
  :LA PONCIA: Quisiera que ahora, como no come ella, que todas nos muriéramos
- : de hambre! Mandona! Dominanta! ¡ero se fastidia! Le he abierto la orza
- : de los chorizos.
+ :de hambre! Mandona! Dominanta! ¡ero se fastidia! Le he abierto la orza
+ :de los chorizos.
  :CRIADA: (Con tristeza, ansiosa.) Por qué no me das para mi niña, Poncia?
  :LA PONCIA: Entra y llévate también un puñado de garbanzos.
- :  Hoy no se dará cuenta!
+ :Hoy no se dará cuenta!
  :VOZ. (Dentro): Bernarda!
  :LA PONCIA: La vieja. Está bien cerrada?
  :CRIADA: Con dos vueltas de llave.
  :LA PONCIA: Pero debes poner también la tranca. Tiene unos dedos como cinco
- : ganzúas.
+ :ganzúas.
  :         Fragmento de 'La casa de Bernarda Alba' de <Federico García Lorca>
 
 G:LECCION_19
@@ -1484,8 +1485,8 @@ s:El río Nilo ubicado en Egipto, es considerado el más largo del mundo con
  :4,187 millas desde su nacimiento hasta la desembocadura en el Mar
  :Mediterráneo. Por Colombia, Brasil, Perú y Ecuador pasa el río Amazonas
  :que es el segundo río más largo del mundo con una longitud de 4,080 millas.
- :   http://www.robinsonresearch.com/AFRICA/THE_LAND/Nile_River.htm
- :   http://www.letsfindout.com/subjects/places/amazon-river.html
+ :http://www.robinsonresearch.com/AFRICA/THE_LAND/Nile_River.htm
+ :http://www.letsfindout.com/subjects/places/amazon-river.html
  :
  :
  :Art. 1.- Colombia es un Estado social de derecho, organizado en forma de
@@ -1493,13 +1494,13 @@ s:El río Nilo ubicado en Egipto, es considerado el más largo del mundo con
  :territoriales, democrática, participativa y pluralista, fundada en el
  :respeto de la dignidad humana, en el trabajo y la solidaridad de las
  :personas que la integran y en la prevalencia del interés general.
- :   Constitución Política de Colombia
+ :Constitución Política de Colombia
  :
  :
  :Fueron los dinosaurios los animales más grandes que han existido en la
  :tierra? No, el animal más grande que ha existido y que aún existe es la
  :ballena azul que en promedio mide 27 metros y pesa 120 toneladas.
- :   http://www.extremescience.com
+ :http://www.extremescience.com
 
 *:PRACTICA_VELOCIDAD2
 B:Segunda práctica de velocidad
@@ -1514,14 +1515,14 @@ s:Los organismos vivos se han agrupado en distintos reinos
  :Fungi. Dado que algunos de los integrantes del reino Monera tienen
  :pequeñas diferencias, algunos biólogos opinan que debe
  :dividirse en dos "Eubacteria" y "Archaebacteria".
- :   http://volweb.utk.edu/schools/sullivan/mhme/taxonomy.htm
- :   http://gened.emc.maricopa.edu/bio/bio181/BIOBK/BioBookintro.html
+ :http://volweb.utk.edu/schools/sullivan/mhme/taxonomy.htm
+ :http://gened.emc.maricopa.edu/bio/bio181/BIOBK/BioBookintro.html
  :
  :Art. 22.- La paz es un derecho y un deber de obligatorio cumplimiento.
- :   Constitución Política de Colombia
+ :Constitución Política de Colombia
  :
  :Manuel Elquin Patarroyo desarrolló la vacuna contra la malaria en 1987.
- :   http://www.idrc.ca/books/reports/10patarro.html
+ :http://www.idrc.ca/books/reports/10patarro.html
 
 *:EVALUACION_VELOCIDAD
 B:Evaluación de Velocidad
@@ -1530,24 +1531,24 @@ E:5%
 F:MENU_VELOCIDAD
 S:Increíble, los océanos cubren aproximadamente el 71% de la superficie de
  :la tierra.
- :   http://www.abc.net.au/oceans/facts/default.htm
+ :http://www.abc.net.au/oceans/facts/default.htm
  :
  :Art. 13.- Todas las personas nacen libres e iguales ante la ley,
  :recibirán la misma protección y trato de las autoridades y gozarán de
  :los mismos derechos, libertades y oportunidades sin ninguna
  :discriminación por razones de sexo, raza, origen nacional o familiar,
  :lengua, religión, opinión política o filosófica.
- :  El Estado promoverá las condiciones para que la igualdad sea real
+ :El Estado promoverá las condiciones para que la igualdad sea real
  :y efectiva y adoptará medidas en favor de grupos discriminados o
  :marginados.
- :  El Estado protegerá especialmente a aquellas personas que por su
+ :El Estado protegerá especialmente a aquellas personas que por su
  :condición económica, física o mental, se encuentren en circunstancia de
  :debilidad manifiesta y sancionará los abusos o maltratos que contra
  :ellas se cometan.
- :   Constitución Política de Colombia
+ :Constitución Política de Colombia
  :
  :Arqueología es el estudio de las formas de vida del pasado.
- :   http://www.saa.org/AboutArc/ac-whatisarch.html
+ :http://www.saa.org/AboutArc/ac-whatisarch.html
 G:VELOCIDAD
 
 *:PRECISION

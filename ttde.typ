@@ -831,7 +831,7 @@ I:(6)
 D:an den punktetabellen, wenn er die ergebnisse verschiedener
  :mannschaften vergleichen will. dort wird der bindestrich
  :verwendet, um zu zeigen, wer gegen wen spielt.
- :   herta bsc - fortuna köln
+ :herta bsc - fortuna köln
 *:LESSON16_D7
 I:(7)
 D:in verbindungen wie gertrud-meier-platz oder 
@@ -1538,10 +1538,10 @@ D:Das = (in Worten: ist gleich) steht ebenfalls für Gerech-
  :verteilt sind.
 *:LESSON30_D5
 I:(5)
-D: 2-1=1
- : 4-2=2
- : 91347-56780=34567
- : f(x)=3*x-7
+D:2-1=1
+ :4-2=2
+ :91347-56780=34567
+ :f(x)=3*x-7
 *:LESSON30_D6
 I:(6)
 D:In der Programmierung nimmt man mit = oder == eine Zuwei-
@@ -1611,8 +1611,8 @@ T:
 *:LESSON32_D1
 I:(1)
 D:+*#' +*#' +'*# #*#' *#' #+'+ +##+ '++' ++'#*# #+#+#+#+* #*
- : 3+3=6
- : 3*3=9
+ :3+3=6
+ :3*3=9
  :#include <wx/wx.h>
 *:LESSON32_D2
 I:(2)
@@ -1622,15 +1622,15 @@ D:# dies ist ein Kommentar
  :Berechne!
 *:LESSON32_D3
 I:(3)
-D: 3+3+3+3=
- : 3*3*3*3=
- : 9*9*9*9=
- : 9+9+9+9=
+D:3+3+3+3=
+ :3*3*3*3=
+ :9*9*9*9=
+ :9+9+9+9=
 *:LESSON32_D4
 I:(4)
 D:Rechenoperationen in der Mathematik:
- : + ist das Zeichen für die Addition.
- : * ist das Zeichen für Multiplikation.
+ :+ ist das Zeichen für die Addition.
+ :* ist das Zeichen für Multiplikation.
  :'Hier steht etwas drin!'
 *:LESSON32_D5
 I:(5)
@@ -1877,13 +1877,13 @@ I:(5)
 D:#include <config.h>
  :enum
  :{
- : C = 211,
+ :C = 211,
 *:LESSON36_D6
 I:(6)
-D: OK = 212
+D:OK = 212
  :};
  :BEGIN_EVENT_TABLE(Info_Dialog, wxDialog)
- : EVT_BUTTON(OK, Info_Dialog::OnSchliessen)
+ :EVT_BUTTON(OK, Info_Dialog::OnSchliessen)
 *:LESSON36_D7
 I:(7)
 D:END_EVENT_TABLE()
@@ -1902,67 +1902,67 @@ D:Info_Dialog::Info_Dialog(wxWindow* parent, wxWindowID id, const wxString& titl
 *:LESSON36_D9
 I:(9)
 D:#ifdef __WXMSW__
- : wxBitmap::AddHandler(new wxPNGFileHandler);
+ :wxBitmap::AddHandler(new wxPNGFileHandler);
  :#endif
  :#ifdef __WXGTK__
 *:LESSON36_D10
 I:(10)
-D: wxImage::AddHandler(new wxPNGHandler);
+D:wxImage::AddHandler(new wxPNGHandler);
  :#endif
- : wxString f;
- : f << L_DIR << "logo.png";
+ :wxString f;
+ :f << L_DIR << "logo.png";
 *:LESSON36_D11
 I:(11)
-D: logo = new wxBitmap(f , wxBITMAP_TYPE_PNG);
- : canvas = new MyCanvas(this, logo, wxDefaultPosition, wxDefaultSize);
- : wxLayoutConstraints *c1 = new wxLayoutConstraints;
- : c1->top.SameAs(this, wxTop, 5);
+D:logo = new wxBitmap(f , wxBITMAP_TYPE_PNG);
+ :canvas = new MyCanvas(this, logo, wxDefaultPosition, wxDefaultSize);
+ :wxLayoutConstraints *c1 = new wxLayoutConstraints;
+ :c1->top.SameAs(this, wxTop, 5);
 *:LESSON36_D12
 I:(12)
-D: c1->left.SameAs(this, wxLeft, 5);
- : c1->width.PercentOf(this, wxWidth, 48);
- : c1->height.PercentOf(this, wxHeight, 80);
- : canvas->SetConstraints(c1);
+D:c1->left.SameAs(this, wxLeft, 5);
+ :c1->width.PercentOf(this, wxWidth, 48);
+ :c1->height.PercentOf(this, wxHeight, 80);
+ :canvas->SetConstraints(c1);
 *:LESSON36_D13
 I:(13)
-D: info_text = new wxStaticText(this, -1, "", wxDefaultPosition, wxDefaultSize);
- : wxLayoutConstraints *c3 = new wxLayoutConstraints;
- : c3->top.SameAs(this, wxTop, 5);
- : c3->left.SameAs(canvas, wxRight, 15);
+D:info_text = new wxStaticText(this, -1, "", wxDefaultPosition, wxDefaultSize);
+ :wxLayoutConstraints *c3 = new wxLayoutConstraints;
+ :c3->top.SameAs(this, wxTop, 5);
+ :c3->left.SameAs(canvas, wxRight, 15);
 *:LESSON36_D14
 I:(14)
-D: c3->width.PercentOf(this, wxWidth, 47);
- : c3->height.PercentOf(this, wxHeight, 80);
- : info_text->SetConstraints(c3);
- : wxString msg;
+D:c3->width.PercentOf(this, wxWidth, 47);
+ :c3->height.PercentOf(this, wxHeight, 80);
+ :info_text->SetConstraints(c3);
+ :wxString msg;
 *:LESSON36_D15
 I:(15)
-D: msg << _("PingoS Tipptrainer\n")
- :     << _("------------------\n")
- :     << _("Version:\t") << VERSION
- :     << _("\nhttp://www.pingos.schulnetz.org/tipptrainer\n")
+D:msg << _("PingoS Tipptrainer\n")
+ :    << _("------------------\n")
+ :    << _("Version:\t") << VERSION
+ :    << _("\nhttp://www.pingos.schulnetz.org/tipptrainer\n")
 *:LESSON36_D16
 I:(16)
-D:     << _("Veröffentlicht unter der GPL 2.0\n")
- :     << _("\nAutoren:\n")
- :     << "Andreas Kalbitz \n\t(felix@musik-workshop.de)\n"
- :     << "Matthias Kleine \n\t(Matthias.Kleine@selflinux.de)\n"
+D:    << _("Veröffentlicht unter der GPL 2.0\n")
+ :    << _("\nAutoren:\n")
+ :    << "Andreas Kalbitz \n\t(felix@musik-workshop.de)\n"
+ :    << "Matthias Kleine \n\t(Matthias.Kleine@selflinux.de)\n"
 *:LESSON36_D17
 I:(17)
-D:     << "Daniel Reith (DanR@gmx.de)\n"
- :     << _("\nFeedback bitte an: \n\ttipptrainer@reith.8m.com");
- : info_text->SetLabel(msg);
- : ok = new wxButton(this, OK, _("Schließen"));
+D:    << "Daniel Reith (DanR@gmx.de)\n"
+ :    << _("\nFeedback bitte an: \n\ttipptrainer@reith.8m.com");
+ :info_text->SetLabel(msg);
+ :ok = new wxButton(this, OK, _("Schließen"));
 *:LESSON36_D18
 I:(18)
-D: wxLayoutConstraints *c2 = new wxLayoutConstraints;
- : c2->centreX.SameAs(this, wxCentreX);
- : c2->top.SameAs(canvas, wxBottom, 10);
- : c2->width.PercentOf(this, wxWidth, 30);
+D:wxLayoutConstraints *c2 = new wxLayoutConstraints;
+ :c2->centreX.SameAs(this, wxCentreX);
+ :c2->top.SameAs(canvas, wxBottom, 10);
+ :c2->width.PercentOf(this, wxWidth, 30);
 *:LESSON36_D19
 I:(19)
-D: c2->height.PercentOf(this, wxHeight, 9);
- : ok->SetConstraints(c2);
+D:c2->height.PercentOf(this, wxHeight, 9);
+ :ok->SetConstraints(c2);
  :}
  ://*********************************************************
 *:LESSON36_D20

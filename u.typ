@@ -184,7 +184,7 @@ S:She wishes to show us some samples.
 
 I:(4)
 *:_U_R_L25
-S:    Safety first. This slogan is well known. Yet many care-
+S:Safety first. This slogan is well known. Yet many care-
  :less people disregard it and so we have accidents. It is pos-
  :sible to avoid many types of accidents by a little forethought.
  :Don't be careless. Do your share to avoid mishaps.
@@ -222,7 +222,7 @@ S:Every promise made should be observed.
 
 I:(4)
 *:_U_R_L30
-S:    Some people break promises as readily as they make them.
+S:Some people break promises as readily as they make them.
  :As a result, they acquire a reputation for unreliability. It
  :is particularly important to be reliable in the business world.
  :A person or firm that comes to be regarded as unreliable has a
@@ -262,7 +262,7 @@ S:The mill will close in April.
 
 I:(4)
 *:_U_R_L35
-S:    Play is most important to a child. All of us must play
+S:Play is most important to a child. All of us must play
  :a little. All work and no play makes Jack a dull boy, the
  :old saying goes. Play affords relaxation. Some people claim
  :their work is so enthralling that they do not need to play.
@@ -304,7 +304,7 @@ S:The first shall be last.
 
 I:(4)
 *:_U_R_L40
-D:    To learn to typewrite is not difficult. The keyboard
+D:To learn to typewrite is not difficult. The keyboard
  :of the typewriter may be mastered in a few hours, but to
  :get speed in typewriting calls for a good deal of practice.
  :One of the best methods of getting up speed is to write a
@@ -347,7 +347,7 @@ S:We are informed that an increase is anticipated.
 
 I:(8)
 *:_U_R_L45
-S:    The employer must consider any increase in cost that
+S:The employer must consider any increase in cost that
  :enters into the manufacture of his product. Unless he includes
  :such cost in his selling price, he is unlikely to show a profit.
  :The installation of a cost system that enables the employer
@@ -389,7 +389,7 @@ S:The lawyer consulted the complainant.
 
 I:(4)
 *:_U_R_L50
-S:    Character shows itself in a man's conduct. Deeds speak
+S:Character shows itself in a man's conduct. Deeds speak
  :louder than words. Words sometimes confuse as issue where
  :deeds clarify it. The test of a man's sincerity is not what
  :he says but what he does. Consider this well and you will
@@ -430,7 +430,7 @@ S:Information on the invention has been sent you.
 
 I:(4)
 *:_U_R_L55
-S:    Concentration is a valuable faculty. The ability to direct
+S:Concentration is a valuable faculty. The ability to direct
  :one's attention exclusively along certain lines accounts for
  :the success of some people. Diffusion of effort is considered
  :an enemy of success. We are told that this is an age of
@@ -472,7 +472,7 @@ S:The voter was required to register.
 
 I:(4)
 *:_U_R_L60
-S:    The best letter writers express themselves simply. They
+S:The best letter writers express themselves simply. They
  :avoid long words where shorter words will do. They have some-
  :thing to say and they say it interestingly and to the point.
  :A business letter should not be a literary masterpiece, but
@@ -522,11 +522,11 @@ S:Raymond Investment Co.
  :
  :Gentlemen:
  :
- :    For many years our medium has been the leading adver-
+ :For many years our medium has been the leading adver-
  :tising paper used by responsible investment firms who desire
  :to obtain new accounts.
  :
- :    Our records show that you are not now making use of the
+ :Our records show that you are not now making use of the
  :Adviser, and we ask that you consider its use in connection
  :with your new promotion effort.
  :
