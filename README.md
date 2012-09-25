@@ -1,10 +1,10 @@
 # gtypist single space
 
-This is a copy of the default [GNU Typist](http://www.gnu.org/software/gtypist/) lessons with all the "two spaces at the end of each sentence" garbage thrown out. An effort has been made to update documentation along with the lesson, as well as to port other languages. Note that I can't read Cyrillic, Spanish or German, so I probably missed things (patches welcome).
+This is a copy of the default [GNU Typist](http://www.gnu.org/software/gtypist/) lessons with all the "two spaces at the end of each sentence" and "use l instead of 1" garbage thrown out. An effort has been made to update documentation along with the lesson, as well as to port other languages. Note that I can't read Cyrillic, Spanish or German, so I probably missed things (patches welcome).
 
 ### Usage
 
-Just copy these files to your gtypist directory, overwriting the old ones. Trust me, it's better this way.
+Just copy these files to your gtypist directory (if you're using Debian and installed the `gtypist` package through `apt-get`, your `.typ`s should be in `/usr/share/gtypist/`), overwriting the old ones. Trust me, it's better this way.
 
 ### Contents Notes
 
@@ -28,6 +28,8 @@ The files
 - v.typ
 
 have all been edited for spacing. Double spaces are removed everywhere, paragraph indentation has been removed, and documentation regarding the requirement for the above has been removed.
+
+The files **cs.typ**, **gtypist.typ** and **t.typ** contained a set of three lessons wherein the typist is expected to substitute `l` (lowercase L) for `1` (the numeral One). These have been removed entirely.
 
 None of the **k*.typ** files actually contained any of these artefacts, so they were untouched.
 

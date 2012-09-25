@@ -3717,19 +3717,6 @@ I:Zkuste si vaši rychlost na této řádce:
 #                                                            ../orig/t.typ:533
 S:Náš tým vyhrál 1., 2. a 3. místo na 12. každoročním srazu.
 
-#                                                            ../orig/t.typ:535
-I:Již jsme říkali, že některé klávesnice nemají číslo 1. Pojďme
- :si nacvičit používání klávesy L, abyste mohli používat i jakýkoliv
- :typ psacího stroje.
-*:_T_R_L188
-#                                                            ../orig/t.typ:536
-D:Tucet je l2. Veletucet je l2 tuctů, neboli l44.
-
-*:_T_R_L189
-#                                                            ../orig/t.typ:538
-D:Jak v osmičkové tak desítkové soustavě je ll krát ll l2l. 
- :A 3 mínus 4 je -l. V osmičkové, je ale l2 dělitelné 3.
-
 G:_T_E_T12
 #------------------------------------------------------------------------------
 # Lekce T13

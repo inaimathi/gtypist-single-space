@@ -930,15 +930,6 @@ I:Try your speed on this line:
 *:_T_R_L154
 S:Our team won 1st, 2nd, and 3rd place at the 12th annual outing.
 
-I:As we stated earlier, many typewriters do not have a 1 key. Let's practice
- :using the L-key as a 1, so you can use any kind of typewriter.
-*:_T_R_L155
-D:One dozen is l2. A gross is l2 dozen or l44.
-
-*:_T_R_L156
-D:In both octal and decimal, ll times ll is l2l. And, 3 minus 4 is -l.
- :But in octal, l2 is not divisible by 3.
-
 G:_T_E_T10
 
 #------------------------------------------------------------------------------
