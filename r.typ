@@ -825,7 +825,7 @@ D:To buy an air-mail stamp I save 1, 2, 4, and at last 6 cents.
 I:(4)
 *:_R_R_L107
 D:In two years my dollar earns 1, 3, 5, 7, and perhaps 8 cents.
- :Buy at once: 4 candy balls,9 bars, 6 or 8 of gum, 2 cakes.
+ :Buy at once: 4 candy balls, 9 bars, 6 or 8 of gum, 2 cakes.
 
 I:(5)
 *:_R_R_L108
