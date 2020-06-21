@@ -918,7 +918,7 @@ D:How much? How many? How soon? How early? How fast?
  :Where is Sam? Where is Paul? What is Zeke fixing?
  :
  :Can Max swim? Can he dance? Can he play tennis?
- :Can he dance? Deos he swim? Do you like tennis?
+ :Can he dance? Does he swim? Do you like tennis?
 
 I:(6)
 *:_V_R_L102
