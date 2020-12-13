@@ -825,7 +825,7 @@ D:To buy an air-mail stamp I save 1, 2, 4, and at last 6 cents.
 I:(4)
 *:_R_R_L107
 D:In two years my dollar earns 1, 3, 5, 7, and perhaps 8 cents.
- :Buy at once: 4 candy balls,9 bars, 6 or 8 of gum, 2 cakes.
+ :Buy at once: 4 candy balls, 9 bars, 6 or 8 of gum, 2 cakes.
 
 I:(5)
 *:_R_R_L108
@@ -1098,55 +1098,55 @@ G:_R_E_R14
 # Lesson series R jump tables
 #------------------------------------------------------------------------------
 *:_R_E_R1
-Q: Do you want to continue to lesson R2 [Y/N] ? 
+Q: Do you want to continue to lesson R2 [Y/N] ?
 N:_R_MENU
 G:_R_S_R2
 *:_R_E_R2
-Q: Do you want to continue to lesson R3 [Y/N] ? 
+Q: Do you want to continue to lesson R3 [Y/N] ?
 N:_R_MENU
 G:_R_S_R3
 *:_R_E_R3
-Q: Do you want to continue to lesson R4 [Y/N] ? 
+Q: Do you want to continue to lesson R4 [Y/N] ?
 N:_R_MENU
 G:_R_S_R4
 *:_R_E_R4
-Q: Do you want to continue to lesson R5 [Y/N] ? 
+Q: Do you want to continue to lesson R5 [Y/N] ?
 N:_R_MENU
 G:_R_S_R5
 *:_R_E_R5
-Q: Do you want to continue to lesson R6 [Y/N] ? 
+Q: Do you want to continue to lesson R6 [Y/N] ?
 N:_R_MENU
 G:_R_S_R6
 *:_R_E_R6
-Q: Do you want to continue to lesson R7 [Y/N] ? 
+Q: Do you want to continue to lesson R7 [Y/N] ?
 N:_R_MENU
 G:_R_S_R7
 *:_R_E_R7
-Q: Do you want to continue to lesson R8 [Y/N] ? 
+Q: Do you want to continue to lesson R8 [Y/N] ?
 N:_R_MENU
 G:_R_S_R8
 *:_R_E_R8
-Q: Do you want to continue to lesson R9 [Y/N] ? 
+Q: Do you want to continue to lesson R9 [Y/N] ?
 N:_R_MENU
 G:_R_S_R9
 *:_R_E_R9
-Q: Do you want to continue to lesson R10 [Y/N] ? 
+Q: Do you want to continue to lesson R10 [Y/N] ?
 N:_R_MENU
 G:_R_S_R10
 *:_R_E_R10
-Q: Do you want to continue to lesson R11 [Y/N] ? 
+Q: Do you want to continue to lesson R11 [Y/N] ?
 N:_R_MENU
 G:_R_S_R11
 *:_R_E_R11
-Q: Do you want to continue to lesson R12 [Y/N] ? 
+Q: Do you want to continue to lesson R12 [Y/N] ?
 N:_R_MENU
 G:_R_S_R12
 *:_R_E_R12
-Q: Do you want to continue to lesson R13 [Y/N] ? 
+Q: Do you want to continue to lesson R13 [Y/N] ?
 N:_R_MENU
 G:_R_S_R13
 *:_R_E_R13
-Q: Do you want to continue to lesson R14 [Y/N] ? 
+Q: Do you want to continue to lesson R14 [Y/N] ?
 N:_R_MENU
 G:_R_S_R14
 *:_R_E_R14
